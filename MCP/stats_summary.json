@@ -1,0 +1,128 @@
+{
+  "climbers": {
+    "total": 10927,
+    "age_mean": 33.33,
+    "grades_max_mean": 53.76,
+    "countries": {
+      "ESP": 1306,
+      "USA": 1248,
+      "other": 984,
+      "POL": 830,
+      "ITA": 798,
+      "SWE": 632,
+      "FRA": 607,
+      "DEU": 505,
+      "BRA": 427,
+      "NOR": 355,
+      "AUT": 337,
+      "ZAF": 323,
+      "CAN": 306,
+      "RUS": 266,
+      "AUS": 244,
+      "NLD": 233,
+      "GBR": 228,
+      "CHE": 225,
+      "PRT": 185,
+      "BEL": 176,
+      "HRV": 163,
+      "SVN": 148,
+      "MEX": 146,
+      "DNK": 119,
+      "CZE": 78,
+      "FIN": 58
+    },
+    "top5_by_grade_max": [
+      {
+        "user_id": 118,
+        "grades_max": 77
+      },
+      {
+        "user_id": 452,
+        "grades_max": 77
+      },
+      {
+        "user_id": 1051,
+        "grades_max": 77
+      },
+      {
+        "user_id": 1263,
+        "grades_max": 77
+      },
+      {
+        "user_id": 1476,
+        "grades_max": 77
+      }
+    ]
+  },
+  "grades": {
+    "total": 85,
+    "grade_id_min": 0,
+    "grade_id_max": 84
+  },
+  "routes": {
+    "total": 55858,
+    "grade_mean_global": 46.8,
+    "countries": {
+      "esp": 15293,
+      "ita": 6423,
+      "usa": 4566,
+      "fra": 4198,
+      "pol": 4149,
+      "deu": 2868,
+      "aut": 2159,
+      "grc": 2093,
+      "bra": 1503,
+      "nor": 963,
+      "svn": 946,
+      "aus": 900,
+      "che": 817,
+      "tur": 733,
+      "hrv": 707,
+      "zaf": 701,
+      "can": 629,
+      "prt": 591,
+      "rom": 567,
+      "mex": 522,
+      "swe": 506,
+      "bel": 486,
+      "tha": 444,
+      "bgr": 433,
+      "gbr": 427,
+      "nzl": 371,
+      "ukr": 357,
+      "rus": 290,
+      "arg": 171,
+      "hun": 163,
+      "srb": 158,
+      "ven": 115,
+      "chn": 107,
+      "isr": 84,
+      "lao": 65,
+      "svk": 63,
+      "per": 41,
+      "chl": 36,
+      "lux": 36,
+      "mar": 28,
+      "isl": 26,
+      "cze": 25,
+      "dnk": 20,
+      "vnm": 10,
+      "mlt": 9,
+      "fin": 8,
+      "mkd": 7,
+      "reu": 7,
+      "msr": 6,
+      "jor": 6,
+      "col": 5,
+      "and": 4,
+      "twn": 3,
+      "nld": 3,
+      "pri": 3,
+      "bih": 3,
+      "ind": 2,
+      "ecu": 1,
+      "phl": 1
+    },
+    "crags_unique": 2245
+  }
+}

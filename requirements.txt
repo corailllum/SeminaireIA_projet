@@ -1,0 +1,22 @@
+# Projet Escalade - Dépendances
+# Python 3.11
+
+# MCP
+mcp>=1.0.0
+
+# LangChain + LangGraph + Ollama
+langchain>=0.3.0
+langchain-ollama>=0.2.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# Data
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Interface Streamlit (étape suivante)
+streamlit>=1.38.0
+plotly==5.17.0
+
+# Utilitaires
+python-dotenv>=1.0.0
