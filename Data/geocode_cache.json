@@ -1,0 +1,9054 @@
+{
+  "montserrat|and": {
+    "lat": 42.692476,
+    "lon": 2.8859427
+  },
+  "tartareu|and": {
+    "lat": 41.9198456,
+    "lon": 0.7182244
+  },
+  "bandurrias|arg": {
+    "lat": -41.1118374,
+    "lon": -71.4286695
+  },
+  "bariloche|arg": {
+    "lat": -41.1334781,
+    "lon": -71.3101474
+  },
+  "barrosa|arg": {
+    "lat": -44.493712,
+    "lon": -71.028452
+  },
+  "buitrera|arg": {
+    "lat": -42.8096209,
+    "lon": -71.3457742
+  },
+  "buitreras|arg": {
+    "lat": -40.2255725,
+    "lon": -70.581452
+  },
+  "casa de piedra|arg": {
+    "lat": -29.6031105,
+    "lon": -65.5174927
+  },
+  "cerro ventana|arg": {
+    "lat": -47.8946975,
+    "lon": -71.3830047
+  },
+  "covisal|arg": {
+    "lat": -40.156255,
+    "lon": -71.311448
+  },
+  "frey|arg": {
+    "lat": -41.2001216,
+    "lon": -71.4874323
+  },
+  "morenhuapi|arg": {
+    "lat": null,
+    "lon": null
+  },
+  "morenito|arg": {
+    "lat": -41.0573512,
+    "lon": -71.5185619
+  },
+  "piedra parada|arg": {
+    "lat": -42.7246291,
+    "lon": -70.5336918
+  },
+  "trebol|arg": {
+    "lat": -38.9753136,
+    "lon": -67.8153701
+  },
+  "valle encantado|arg": {
+    "lat": -31.5437899,
+    "lon": -68.668368
+  },
+  "villa llanquin|arg": {
+    "lat": -40.894627,
+    "lon": -71.0366579
+  },
+  "arapiles|aus": {
+    "lat": -36.7407183,
+    "lon": 141.9448169
+  },
+  "bell sunnyside|aus": {
+    "lat": -21.3373987,
+    "lon": 149.1360797
+  },
+  "berowra|aus": {
+    "lat": -33.6235384,
+    "lon": 151.1531676
+  },
+  "blue bell|aus": {
+    "lat": -34.0814457,
+    "lon": 151.003047
+  },
+  "blue mountains|aus": {
+    "lat": -33.609741,
+    "lon": 150.4052237
+  },
+  "buladelah|aus": {
+    "lat": null,
+    "lon": null
+  },
+  "bulahdelah|aus": {
+    "lat": -32.4128925,
+    "lon": 152.2075678
+  },
+  "bundaleer|aus": {
+    "lat": -33.6822289,
+    "lon": 150.1324653
+  },
+  "canberra|aus": {
+    "lat": -35.3931453,
+    "lon": 149.1669996
+  },
+  "celebrity crag|aus": {
+    "lat": null,
+    "lon": null
+  },
+  "centennial glen|aus": {
+    "lat": -33.630161,
+    "lon": 150.2571398
+  },
+  "gorge|aus": {
+    "lat": -37.2851174,
+    "lon": 148.3466479
+  },
+  "grampians|aus": {
+    "lat": -36.718805,
+    "lon": 142.2209509
+  },
+  "hillwood|aus": {
+    "lat": -41.2187603,
+    "lon": 146.9511814
+  },
+  "james bond|aus": {
+    "lat": 55.4668432,
+    "lon": 8.4528706
+  },
+  "kalbarri|aus": {
+    "lat": -27.7109989,
+    "lon": 114.1638162
+  },
+  "kangaroo point|aus": {
+    "lat": -27.473864,
+    "lon": 153.0367847
+  },
+  "lobster cave|aus": {
+    "lat": -37.9856069,
+    "lon": 145.0342601
+  },
+  "moonarie|aus": {
+    "lat": -31.60274,
+    "lon": 138.6242
+  },
+  "mt alexandra|aus": {
+    "lat": -16.2502778,
+    "lon": 145.4647222
+  },
+  "mt beerwah|aus": {
+    "lat": -26.8970247,
+    "lon": 152.8846783
+  },
+  "mt brown|aus": {
+    "lat": -34.5204256,
+    "lon": 150.7984672
+  },
+  "mt buffalo|aus": {
+    "lat": -36.7673752,
+    "lon": 146.7728946
+  },
+  "mt coolum|aus": {
+    "lat": -26.5633925,
+    "lon": 153.0861274
+  },
+  "mt coree|aus": {
+    "lat": -35.3073848,
+    "lon": 148.8101639
+  },
+  "mt piddington|aus": {
+    "lat": -33.5997545,
+    "lon": 150.2576601
+  },
+  "mt tibrogargan|aus": {
+    "lat": -26.9268175,
+    "lon": 152.9473712
+  },
+  "new york|aus": {
+    "lat": 41.4801937,
+    "lon": -74.7781559
+  },
+  "norton summit|aus": {
+    "lat": -34.9227257,
+    "lon": 138.7250243
+  },
+  "nowra|aus": {
+    "lat": -34.8741198,
+    "lon": 150.6004709
+  },
+  "point perpendicular|aus": {
+    "lat": -35.0939058,
+    "lon": 150.805302
+  },
+  "pulpit|aus": {
+    "lat": -33.702528,
+    "lon": 150.289362
+  },
+  "ruined castle|aus": {
+    "lat": -33.7633109,
+    "lon": 150.2941805
+  },
+  "sun deck|aus": {
+    "lat": -20.3437664,
+    "lon": 148.8491878
+  },
+  "van diemans lands|aus": {
+    "lat": null,
+    "lon": null
+  },
+  "achleiten|aut": {
+    "lat": 48.581576,
+    "lon": 13.5114784
+  },
+  "adlitzgraben|aut": {
+    "lat": 47.6567798,
+    "lon": 15.8174457
+  },
+  "aggstein|aut": {
+    "lat": 48.3101942,
+    "lon": 15.4258899
+  },
+  "ardetzenberg|aut": {
+    "lat": 47.251337,
+    "lon": 9.602415
+  },
+  "arnstein|aut": {
+    "lat": 48.029526,
+    "lon": 16.066033
+  },
+  "bad fischau|aut": {
+    "lat": 47.8315377,
+    "lon": 16.166927
+  },
+  "baden|aut": {
+    "lat": 48.0076713,
+    "lon": 16.2343693
+  },
+  "badener kletterschule|aut": {
+    "lat": 48.0194738,
+    "lon": 16.188975
+  },
+  "barmstein|aut": {
+    "lat": 47.6911776,
+    "lon": 13.0751542
+  },
+  "berglsteiner see|aut": {
+    "lat": 47.4725501,
+    "lon": 11.9131345
+  },
+  "braumauer|aut": {
+    "lat": 47.8945098,
+    "lon": 13.9696842
+  },
+  "bregenzer wald|aut": {
+    "lat": 47.3870288,
+    "lon": 9.9560636
+  },
+  "burs|aut": {
+    "lat": 47.1512283,
+    "lon": 9.8035934
+  },
+  "burstegger wandle|aut": {
+    "lat": 47.2368145,
+    "lon": 10.1608701
+  },
+  "chinesische mauer|aut": {
+    "lat": 47.7975821,
+    "lon": 13.0669341
+  },
+  "dachstein|aut": {
+    "lat": 47.4751892,
+    "lon": 13.6056695
+  },
+  "dolomitenhutte|aut": {
+    "lat": 46.7897775,
+    "lon": 12.7835761
+  },
+  "durnstein|aut": {
+    "lat": 48.3953879,
+    "lon": 15.5203111
+  },
+  "ennstal|aut": {
+    "lat": 47.4417005,
+    "lon": 13.4324727
+  },
+  "flatzer wand|aut": {
+    "lat": 47.7228996,
+    "lon": 16.0169157
+  },
+  "frankenfels|aut": {
+    "lat": 47.9823504,
+    "lon": 15.3256937
+  },
+  "geisterschmiedwand|aut": {
+    "lat": 47.5933223,
+    "lon": 12.1893153
+  },
+  "gitschenwand|aut": {
+    "lat": 47.6342738,
+    "lon": 13.2596442
+  },
+  "goltschach|aut": {
+    "lat": 46.5580053,
+    "lon": 14.3359099
+  },
+  "grazer bergland|aut": {
+    "lat": 47.1150616,
+    "lon": 15.377843
+  },
+  "halltal|aut": {
+    "lat": 47.7606997,
+    "lon": 15.3742998
+  },
+  "hangender stein|aut": {
+    "lat": 47.7143095,
+    "lon": 13.0428888
+  },
+  "hemmaberg|aut": {
+    "lat": 46.5526657,
+    "lon": 14.6677381
+  },
+  "hohe wand|aut": {
+    "lat": 47.8257794,
+    "lon": 16.0514855
+  },
+  "hohlwegen|aut": {
+    "lat": 47.480919,
+    "lon": 12.8315809
+  },
+  "hollental|aut": {
+    "lat": 47.7472092,
+    "lon": 15.7687616
+  },
+  "hottinger steinbruch|aut": {
+    "lat": 47.2820428,
+    "lon": 11.394379
+  },
+  "imst|aut": {
+    "lat": 47.2381536,
+    "lon": 10.7406982
+  },
+  "kaltbad|aut": {
+    "lat": 46.5765739,
+    "lon": 13.8332038
+  },
+  "kanzianiberg|aut": {
+    "lat": 46.5519375,
+    "lon": 13.8754575
+  },
+  "kaunertal|aut": {
+    "lat": 46.9470059,
+    "lon": 10.7348685
+  },
+  "kleiner barmstein|aut": {
+    "lat": 47.6888917,
+    "lon": 13.0777636
+  },
+  "kletterhalle cac|aut": {
+    "lat": null,
+    "lon": null
+  },
+  "kletterhalle furstenfeld|aut": {
+    "lat": 47.0490826,
+    "lon": 16.0837832
+  },
+  "klobenstein|aut": {
+    "lat": 47.6889537,
+    "lon": 12.3956507
+  },
+  "kraftwerk|aut": {
+    "lat": 47.2139752,
+    "lon": 14.2069101
+  },
+  "kraig|aut": {
+    "lat": 46.81153,
+    "lon": 14.3675071
+  },
+  "laussa|aut": {
+    "lat": 47.9519917,
+    "lon": 14.4557065
+  },
+  "lechtal|aut": {
+    "lat": 47.2626638,
+    "lon": 10.3814856
+  },
+  "locherboden|aut": {
+    "lat": 47.2829835,
+    "lon": 10.9631043
+  },
+  "maltatal|aut": {
+    "lat": 47.000393,
+    "lon": 13.4478125
+  },
+  "martinswand|aut": {
+    "lat": 47.2702463,
+    "lon": 11.2730086
+  },
+  "moasnkogerl|aut": {
+    "lat": null,
+    "lon": null
+  },
+  "moosbach|aut": {
+    "lat": 48.1952725,
+    "lon": 13.1624528
+  },
+  "morsbach|aut": {
+    "lat": 47.5878569,
+    "lon": 12.1546603
+  },
+  "nassereith|aut": {
+    "lat": 47.3147862,
+    "lon": 10.8378637
+  },
+  "otztal|aut": {
+    "lat": 47.1003481,
+    "lon": 10.9510955
+  },
+  "peggauer wand|aut": {
+    "lat": 47.2064693,
+    "lon": 15.3493916
+  },
+  "peilstein|aut": {
+    "lat": 48.0147799,
+    "lon": 16.0521394
+  },
+  "pitztal|aut": {
+    "lat": 47.0826254,
+    "lon": 10.8320886
+  },
+  "plombergstein|aut": {
+    "lat": 47.7780108,
+    "lon": 13.3595868
+  },
+  "rabenstein|aut": {
+    "lat": 48.0657421,
+    "lon": 15.4687121
+  },
+  "rastenfeld|aut": {
+    "lat": 48.5732783,
+    "lon": 15.3317704
+  },
+  "rettenbachtal|aut": {
+    "lat": 46.9599265,
+    "lon": 10.9702562
+  },
+  "reutte|aut": {
+    "lat": 47.4891092,
+    "lon": 10.7187955
+  },
+  "rindbachtal|aut": {
+    "lat": null,
+    "lon": null
+  },
+  "rofan|aut": {
+    "lat": 47.4680795,
+    "lon": 11.7881393
+  },
+  "roter ofen|aut": {
+    "lat": 48.0902916,
+    "lon": 16.2385919
+  },
+  "saubiche|aut": {
+    "lat": null,
+    "lon": null
+  },
+  "schatzinsel|aut": {
+    "lat": 48.1995552,
+    "lon": 16.5370288
+  },
+  "schleier wasserfall|aut": {
+    "lat": 48.0760136,
+    "lon": 20.4103492
+  },
+  "schrofenstein|aut": {
+    "lat": 47.2116609,
+    "lon": 10.1477063
+  },
+  "sparchen|aut": {
+    "lat": 47.5924994,
+    "lon": 12.1804605
+  },
+  "starkenbach|aut": {
+    "lat": 47.1910898,
+    "lon": 10.6424742
+  },
+  "stubaital|aut": {
+    "lat": 47.1549366,
+    "lon": 11.3509397
+  },
+  "thalhofergrat|aut": {
+    "lat": 48.0067581,
+    "lon": 16.0361074
+  },
+  "tomsai beach|aut": {
+    "lat": null,
+    "lon": null
+  },
+  "traunstein|aut": {
+    "lat": 47.8731972,
+    "lon": 13.8398047
+  },
+  "vorarlberg|aut": {
+    "lat": 47.25,
+    "lon": 9.9166667
+  },
+  "wachau|aut": {
+    "lat": 48.3275518,
+    "lon": 15.4116456
+  },
+  "warmbad|aut": {
+    "lat": 46.5896992,
+    "lon": 13.8237195
+  },
+  "weibach|aut": {
+    "lat": 50.6933697,
+    "lon": 8.3813882
+  },
+  "weie wand|aut": {
+    "lat": null,
+    "lon": null
+  },
+  "weinzodl|aut": {
+    "lat": 47.1091123,
+    "lon": 15.3860475
+  },
+  "weyer neu|aut": {
+    "lat": 47.8430132,
+    "lon": 14.64156
+  },
+  "wilhelmswand|aut": {
+    "lat": 47.6327079,
+    "lon": 13.2399848
+  },
+  "worschach|aut": {
+    "lat": 47.5523492,
+    "lon": 14.146968
+  },
+  "zigeunerloch|aut": {
+    "lat": 47.85449,
+    "lon": 16.1364
+  },
+  "zillertal|aut": {
+    "lat": 47.2816814,
+    "lon": 11.8820598
+  },
+  "beez|bel": {
+    "lat": 50.4801417,
+    "lon": 4.9409155
+  },
+  "bomal|bel": {
+    "lat": 50.3761975,
+    "lon": 5.5229647
+  },
+  "carriere des awirs|bel": {
+    "lat": 50.5905463,
+    "lon": 5.4075086
+  },
+  "dave|bel": {
+    "lat": 50.4154514,
+    "lon": 4.8966651
+  },
+  "esneux|bel": {
+    "lat": 50.533588,
+    "lon": 5.5686219
+  },
+  "freyr|bel": {
+    "lat": 50.2202241,
+    "lon": 4.8949007
+  },
+  "les awirs|bel": {
+    "lat": 50.5961791,
+    "lon": 5.4146339
+  },
+  "moha|bel": {
+    "lat": 50.5471619,
+    "lon": 5.1878867
+  },
+  "mozet|bel": {
+    "lat": 50.4416402,
+    "lon": 4.9846704
+  },
+  "pont a lesse|bel": {
+    "lat": 50.2220909,
+    "lon": 4.9116457
+  },
+  "rochers de mozet|bel": {
+    "lat": 50.444654,
+    "lon": 5.0128092
+  },
+  "rochers du castel|bel": {
+    "lat": 49.4712112,
+    "lon": -2.5905614
+  },
+  "yvoir|bel": {
+    "lat": 50.3260425,
+    "lon": 4.877815
+  },
+  "bojenica|bgr": {
+    "lat": null,
+    "lon": null
+  },
+  "dryanovo monastery|bgr": {
+    "lat": 42.950384,
+    "lon": 25.4322327
+  },
+  "lakatnik|bgr": {
+    "lat": 43.0900374,
+    "lon": 23.3898948
+  },
+  "rila monastery|bgr": {
+    "lat": 42.1332985,
+    "lon": 23.3401865
+  },
+  "ruse|bgr": {
+    "lat": 43.8480413,
+    "lon": 25.9542057
+  },
+  "teteven|bgr": {
+    "lat": 42.9178262,
+    "lon": 24.2651138
+  },
+  "veliko tarnovo|bgr": {
+    "lat": 43.0820584,
+    "lon": 25.6321312
+  },
+  "vratsa|bgr": {
+    "lat": 43.400307,
+    "lon": 23.716675
+  },
+  "dreznica|bih": {
+    "lat": 43.4970166,
+    "lon": 17.7728378
+  },
+  "pecka|bih": {
+    "lat": 44.3264499,
+    "lon": 16.8939095
+  },
+  "spicasta stijena|bih": {
+    "lat": 43.8790685,
+    "lon": 18.4343592
+  },
+  "acidos|bra": {
+    "lat": -12.9692719,
+    "lon": -38.4357761
+  },
+  "ana chata|bra": {
+    "lat": -22.6928175,
+    "lon": -45.6692626
+  },
+  "andorinhas|bra": {
+    "lat": -20.2876457,
+    "lon": -40.3057956
+  },
+  "anhangava|bra": {
+    "lat": -25.3881793,
+    "lon": -49.0019184
+  },
+  "araxa|bra": {
+    "lat": -19.6009149,
+    "lon": -46.940923
+  },
+  "arcos|bra": {
+    "lat": -20.282223,
+    "lon": -45.539444
+  },
+  "avacir|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "bage|bra": {
+    "lat": -31.3314264,
+    "lon": -54.1062808
+  },
+  "bauzinho|bra": {
+    "lat": -18.7623213,
+    "lon": -49.5400413
+  },
+  "behne|bra": {
+    "lat": -29.4283215,
+    "lon": -51.8074372
+  },
+  "belchior|bra": {
+    "lat": -13.982648,
+    "lon": -49.505366
+  },
+  "boa vista|bra": {
+    "lat": 2.8208478,
+    "lon": -60.6719582
+  },
+  "buraco do padre|bra": {
+    "lat": -25.1719374,
+    "lon": -49.9688266
+  },
+  "cacapava do sul|bra": {
+    "lat": -30.5113286,
+    "lon": -53.4916761
+  },
+  "caldas novas|bra": {
+    "lat": -17.745,
+    "lon": -48.625
+  },
+  "calogi|bra": {
+    "lat": -20.0814474,
+    "lon": -40.3972456
+  },
+  "campinas|bra": {
+    "lat": -22.9056391,
+    "lon": -47.059564
+  },
+  "campo escola|bra": {
+    "lat": -22.9518573,
+    "lon": -43.2918304
+  },
+  "canto grande|bra": {
+    "lat": -6.983722,
+    "lon": -45.6783248
+  },
+  "casa de pedra|bra": {
+    "lat": -20.489326,
+    "lon": -43.8805103
+  },
+  "cataratas do iguacu|bra": {
+    "lat": -25.693905,
+    "lon": -54.4365376
+  },
+  "caxias do sul|bra": {
+    "lat": -29.1685045,
+    "lon": -51.1796385
+  },
+  "chapada diamantina|bra": {
+    "lat": -12.8277272,
+    "lon": -41.4277117
+  },
+  "cocalzinho|bra": {
+    "lat": -3.990284,
+    "lon": -40.9325556
+  },
+  "colorido|bra": {
+    "lat": -9.3872012,
+    "lon": -40.4628348
+  },
+  "contagem|bra": {
+    "lat": -19.9132749,
+    "lon": -44.0840953
+  },
+  "corup|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "corupa|bra": {
+    "lat": -26.4267153,
+    "lon": -49.24747
+  },
+  "cotipora|bra": {
+    "lat": -28.9950719,
+    "lon": -51.696359
+  },
+  "curucaca|bra": {
+    "lat": -25.5341045,
+    "lon": -51.8188437
+  },
+  "cuscuzeiro|bra": {
+    "lat": -13.3197995,
+    "lon": -44.1375649
+  },
+  "falesia das flores|bra": {
+    "lat": 39.393804,
+    "lon": -31.2512896
+  },
+  "falesia do bodinho|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "falesia dos aneis|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "falesia dos olhos|bra": {
+    "lat": -22.5213314,
+    "lon": -45.69465
+  },
+  "falesia paraiso|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "fercal|bra": {
+    "lat": -15.6002334,
+    "lon": -47.8715955
+  },
+  "ferradura|bra": {
+    "lat": -25.5087204,
+    "lon": -48.9751732
+  },
+  "gruta|bra": {
+    "lat": -20.8288282,
+    "lon": -41.0352181
+  },
+  "gruta de passa vinte|bra": {
+    "lat": -27.6405456,
+    "lon": -48.6681235
+  },
+  "gruta do rei do mato|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "gruta rei do mato|bra": {
+    "lat": -19.4950399,
+    "lon": -44.2830441
+  },
+  "igarape|bra": {
+    "lat": -20.0573027,
+    "lon": -44.3279717
+  },
+  "igatu|bra": {
+    "lat": -12.9512852,
+    "lon": -41.2662811
+  },
+  "itajuba|bra": {
+    "lat": -22.4238234,
+    "lon": -45.4524156
+  },
+  "itaqueri|bra": {
+    "lat": -22.3582916,
+    "lon": -47.9064121
+  },
+  "itaqueri da serra|bra": {
+    "lat": -22.3582916,
+    "lon": -47.9064121
+  },
+  "januaria|bra": {
+    "lat": -15.317185,
+    "lon": -45.2045505
+  },
+  "lapa do seu antao|bra": {
+    "lat": -19.5278068,
+    "lon": -43.9763514
+  },
+  "lavras|bra": {
+    "lat": -21.2425512,
+    "lon": -44.9991978
+  },
+  "lencois|bra": {
+    "lat": -12.5615323,
+    "lon": -41.3895344
+  },
+  "montes claros|bra": {
+    "lat": -16.7495727,
+    "lon": -43.8687268
+  },
+  "morro do moreno|bra": {
+    "lat": -20.3258668,
+    "lon": -40.2771634
+  },
+  "ouro preto|bra": {
+    "lat": -20.3856712,
+    "lon": -43.5036166
+  },
+  "pao de acucar|bra": {
+    "lat": -9.7496551,
+    "lon": -37.4329891
+  },
+  "pedra bela|bra": {
+    "lat": -22.7950193,
+    "lon": -46.4431811
+  },
+  "pedra da boca do rego|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "pedra da divisa|bra": {
+    "lat": -22.6932169,
+    "lon": -45.7867948
+  },
+  "pedra da piedade|bra": {
+    "lat": -22.4663987,
+    "lon": -45.4934066
+  },
+  "pedra do bau|bra": {
+    "lat": -22.6883548,
+    "lon": -45.6608071
+  },
+  "pedra do frade|bra": {
+    "lat": -22.9517361,
+    "lon": -44.4899638
+  },
+  "pedra do urubu|bra": {
+    "lat": -22.3015072,
+    "lon": -42.2228004
+  },
+  "pedra escondida|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "pedreira do garcia|bra": {
+    "lat": -22.90399,
+    "lon": -47.1185594
+  },
+  "pedreira londrina|bra": {
+    "lat": -23.4326584,
+    "lon": -51.1405948
+  },
+  "perauzinho|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "pirai do sul|bra": {
+    "lat": -24.5346602,
+    "lon": -49.9399216
+  },
+  "quilombo|bra": {
+    "lat": -26.7253683,
+    "lon": -52.7193084
+  },
+  "quixada|bra": {
+    "lat": -4.965481,
+    "lon": -39.010942
+  },
+  "salto sao jorge|bra": {
+    "lat": -25.0334714,
+    "lon": -50.0572716
+  },
+  "salto ventoso|bra": {
+    "lat": -29.2852246,
+    "lon": -51.4118472
+  },
+  "santa justina|bra": {
+    "lat": -29.0872783,
+    "lon": -51.2600773
+  },
+  "santa maria|bra": {
+    "lat": -29.6860512,
+    "lon": -53.8069214
+  },
+  "sao luis do puruna|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "sao luiz do puruna|bra": {
+    "lat": -25.461643,
+    "lon": -49.709625
+  },
+  "sao thome das letras|bra": {
+    "lat": -21.7218272,
+    "lon": -44.9849435
+  },
+  "sao tome das letras|bra": {
+    "lat": -21.7218272,
+    "lon": -44.9849435
+  },
+  "serra da bocaina|bra": {
+    "lat": -19.3065108,
+    "lon": -44.8403271
+  },
+  "serra do cadeado|bra": {
+    "lat": -23.6730973,
+    "lon": -46.7677895
+  },
+  "serra do cipo|bra": {
+    "lat": -12.3276758,
+    "lon": -39.2615319
+  },
+  "sete lagoas|bra": {
+    "lat": -19.466111,
+    "lon": -44.246944
+  },
+  "sitio do rod|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "terra ronca|bra": {
+    "lat": -13.7350757,
+    "lon": -46.3585846
+  },
+  "torres|bra": {
+    "lat": -29.3373663,
+    "lon": -49.7299648
+  },
+  "urca|bra": {
+    "lat": -22.954074,
+    "lon": -43.1679727
+  },
+  "vale das cruzes|bra": {
+    "lat": -22.3352468,
+    "lon": -44.5746544
+  },
+  "visual das aguas|bra": {
+    "lat": null,
+    "lon": null
+  },
+  "acephale|can": {
+    "lat": 51.0500805,
+    "lon": -115.1314328
+  },
+  "baldi|can": {
+    "lat": 49.0977395,
+    "lon": -122.6734246
+  },
+  "beach|can": {
+    "lat": 45.8305633,
+    "lon": -74.2066731
+  },
+  "calabogie|can": {
+    "lat": 45.30218,
+    "lon": -76.725769
+  },
+  "cap des peres|can": {
+    "lat": 45.9361586,
+    "lon": -75.0625558
+  },
+  "carrot creek|can": {
+    "lat": 53.608806,
+    "lon": -115.8561599
+  },
+  "cheakamus canyon|can": {
+    "lat": 49.8833099,
+    "lon": -123.178877
+  },
+  "chek canyon|can": {
+    "lat": 49.9050594,
+    "lon": -123.1562546
+  },
+  "cougar canyon|can": {
+    "lat": 50.1668812,
+    "lon": -119.3017287
+  },
+  "crag x|can": {
+    "lat": 48.4276435,
+    "lon": -123.3624873
+  },
+  "echo canyon|can": {
+    "lat": 51.084437,
+    "lon": -115.2894614
+  },
+  "flatrock|can": {
+    "lat": 47.7049059,
+    "lon": -52.7234328
+  },
+  "graceland|can": {
+    "lat": 48.8274162,
+    "lon": -123.7561077
+  },
+  "grassi lakes|can": {
+    "lat": 51.0813241,
+    "lon": -115.3950502
+  },
+  "horne lake|can": {
+    "lat": 49.3395128,
+    "lon": -124.6901652
+  },
+  "kamouraska|can": {
+    "lat": 47.4680992,
+    "lon": -69.7909498
+  },
+  "lac boisseau|can": {
+    "lat": 47.6608083,
+    "lon": -71.7398082
+  },
+  "lac long|can": {
+    "lat": 51.499364,
+    "lon": -76.0552357
+  },
+  "lake louise|can": {
+    "lat": 51.4249668,
+    "lon": -116.177535
+  },
+  "lakit|can": {
+    "lat": 49.7218496,
+    "lon": -115.601913
+  },
+  "lions head|can": {
+    "lat": 45.9679312,
+    "lon": -81.6161637
+  },
+  "luskville|can": {
+    "lat": 45.5325947,
+    "lon": -76.0144666
+  },
+  "mont kekeko|can": {
+    "lat": null,
+    "lon": null
+  },
+  "montagne dargent|can": {
+    "lat": 48.5080777,
+    "lon": -4.0900896
+  },
+  "montagne du tranchant|can": {
+    "lat": 46.3003273,
+    "lon": -73.8554926
+  },
+  "mt nemo|can": {
+    "lat": 50.9478875,
+    "lon": -117.253039
+  },
+  "murrin|can": {
+    "lat": 49.6454319,
+    "lon": -123.2076609
+  },
+  "nanaimo river|can": {
+    "lat": 49.1320433,
+    "lon": -123.89497
+  },
+  "nordic rock|can": {
+    "lat": 50.0964172,
+    "lon": -123.0084518
+  },
+  "old baldy|can": {
+    "lat": 49.5984204,
+    "lon": -109.9434585
+  },
+  "orford|can": {
+    "lat": 45.3126711,
+    "lon": -72.1657822
+  },
+  "rigaud|can": {
+    "lat": 45.4794481,
+    "lon": -74.3019608
+  },
+  "roache lake|can": {
+    "lat": null,
+    "lon": null
+  },
+  "roche lake|can": {
+    "lat": 50.4732696,
+    "lon": -120.1517638
+  },
+  "rockwood|can": {
+    "lat": 50.285829,
+    "lon": -97.314148
+  },
+  "rogues gallery|can": {
+    "lat": 49.9420831,
+    "lon": -123.1662892
+  },
+  "shawinigan|can": {
+    "lat": 46.5396581,
+    "lon": -72.7518637
+  },
+  "skaha|can": {
+    "lat": 49.4445984,
+    "lon": -119.5613781
+  },
+  "squamish|can": {
+    "lat": 49.6980743,
+    "lon": -123.155861
+  },
+  "tunnel point|can": {
+    "lat": 49.3704204,
+    "lon": -122.8281963
+  },
+  "val belair|can": {
+    "lat": 46.8561194,
+    "lon": -71.4124259
+  },
+  "vancouver|can": {
+    "lat": 49.2608724,
+    "lon": -123.113952
+  },
+  "waterproof|can": {
+    "lat": 40.4278589,
+    "lon": -3.537941
+  },
+  "welsford|can": {
+    "lat": 45.4556129,
+    "lon": -66.3419455
+  },
+  "white bluff|can": {
+    "lat": 55.5321934,
+    "lon": -126.0495608
+  },
+  "aigle|che": {
+    "lat": 46.3179006,
+    "lon": 6.9688929
+  },
+  "balladrum|che": {
+    "lat": 46.156272,
+    "lon": 8.7495284
+  },
+  "balsthal|che": {
+    "lat": 47.3140365,
+    "lon": 7.6947764
+  },
+  "basler jura|che": {
+    "lat": 47.1295069,
+    "lon": 6.9212248
+  },
+  "bettlerkuche|che": {
+    "lat": 47.2746608,
+    "lon": 7.6006882
+  },
+  "brentschen|che": {
+    "lat": 46.3277064,
+    "lon": 7.693809
+  },
+  "brig|che": {
+    "lat": 46.3163457,
+    "lon": 7.9879473
+  },
+  "caslano|che": {
+    "lat": 45.9708722,
+    "lon": 8.8836544
+  },
+  "cevio|che": {
+    "lat": 46.3169604,
+    "lon": 8.6018223
+  },
+  "charmey|che": {
+    "lat": 46.6109982,
+    "lon": 7.1940828
+  },
+  "chavalon|che": {
+    "lat": 46.3458467,
+    "lon": 6.8791919
+  },
+  "chropfberg|che": {
+    "lat": 47.0046123,
+    "lon": 9.4694402
+  },
+  "claro|che": {
+    "lat": 46.2552548,
+    "lon": 9.0231951
+  },
+  "cresciano|che": {
+    "lat": 46.2807698,
+    "lon": 9.0054648
+  },
+  "egerkingen|che": {
+    "lat": 47.3225009,
+    "lon": 7.7947889
+  },
+  "elsigen|che": {
+    "lat": 46.3987433,
+    "lon": 7.7785592
+  },
+  "engelberg|che": {
+    "lat": 46.8223497,
+    "lon": 8.4043996
+  },
+  "epagny|che": {
+    "lat": 46.5887883,
+    "lon": 7.0834801
+  },
+  "falaise dufour|che": {
+    "lat": 48.6802856,
+    "lon": -71.4894605
+  },
+  "farnernzahne|che": {
+    "lat": 47.2768669,
+    "lon": 7.6238013
+  },
+  "galerie|che": {
+    "lat": 47.413721,
+    "lon": 8.5601566
+  },
+  "gastlosen|che": {
+    "lat": 46.5785611,
+    "lon": 7.2728604
+  },
+  "gimmelwald|che": {
+    "lat": 46.5468623,
+    "lon": 7.8940031
+  },
+  "grimsel|che": {
+    "lat": 47.5638595,
+    "lon": 7.5843277
+  },
+  "gudo|che": {
+    "lat": 46.1756517,
+    "lon": 8.9443724
+  },
+  "heidnischbiel|che": {
+    "lat": 46.3103163,
+    "lon": 7.8098525
+  },
+  "hinteregg|che": {
+    "lat": 46.8728119,
+    "lon": 9.7119021
+  },
+  "jacoterie|che": {
+    "lat": 47.3153253,
+    "lon": 7.226839
+  },
+  "jolimont|che": {
+    "lat": 47.3103931,
+    "lon": 7.195252
+  },
+  "lagalb|che": {
+    "lat": 46.4315785,
+    "lon": 10.0235884
+  },
+  "lehn|che": {
+    "lat": 46.8164336,
+    "lon": 7.6342238
+  },
+  "leysin|che": {
+    "lat": 46.3438701,
+    "lon": 7.0148403
+  },
+  "luegibruggli|che": {
+    "lat": 46.6878609,
+    "lon": 7.8183221
+  },
+  "lungern|che": {
+    "lat": 46.7857297,
+    "lon": 8.1607283
+  },
+  "massongex|che": {
+    "lat": 46.2427711,
+    "lon": 6.9879674
+  },
+  "medji|che": {
+    "lat": 46.1657094,
+    "lon": 7.7873628
+  },
+  "melchseefrutt|che": {
+    "lat": null,
+    "lon": null
+  },
+  "montbovon|che": {
+    "lat": 46.4876836,
+    "lon": 7.0436436
+  },
+  "neuhaus|che": {
+    "lat": 46.8667152,
+    "lon": 7.5275419
+  },
+  "nordgalerie|che": {
+    "lat": 47.1255004,
+    "lon": 9.1230864
+  },
+  "oberdorflerchlus|che": {
+    "lat": null,
+    "lon": null
+  },
+  "osogna|che": {
+    "lat": 46.311565,
+    "lon": 8.9873524
+  },
+  "petit clocher|che": {
+    "lat": 45.9787043,
+    "lon": 7.0769282
+  },
+  "plagne|che": {
+    "lat": 47.1886875,
+    "lon": 7.2881249
+  },
+  "ponte brolla|che": {
+    "lat": 46.1857997,
+    "lon": 8.7532797
+  },
+  "prato|che": {
+    "lat": 46.4828992,
+    "lon": 8.7565232
+  },
+  "randonnaz|che": {
+    "lat": 46.1679209,
+    "lon": 7.1391325
+  },
+  "roc a laigle|che": {
+    "lat": null,
+    "lon": null
+  },
+  "rocher de barme|che": {
+    "lat": null,
+    "lon": null
+  },
+  "russo|che": {
+    "lat": 46.2039462,
+    "lon": 8.6229632
+  },
+  "ruttelhorn|che": {
+    "lat": 47.2803076,
+    "lon": 7.606814
+  },
+  "salvan|che": {
+    "lat": 46.1219825,
+    "lon": 7.0208326
+  },
+  "schillingsflue|che": {
+    "lat": null,
+    "lon": null
+  },
+  "schollberg|che": {
+    "lat": 46.9748062,
+    "lon": 9.8648643
+  },
+  "sex du corbeau|che": {
+    "lat": 46.2671412,
+    "lon": 6.9257711
+  },
+  "simplon dorf|che": {
+    "lat": 46.1955875,
+    "lon": 8.0563136
+  },
+  "simplonpass|che": {
+    "lat": 46.2502113,
+    "lon": 8.0316806
+  },
+  "st george|che": {
+    "lat": 46.5138321,
+    "lon": 6.2602719
+  },
+  "st loup|che": {
+    "lat": 46.6682785,
+    "lon": 6.5047915
+  },
+  "st triphon|che": {
+    "lat": 46.2955422,
+    "lon": 6.9789669
+  },
+  "tessin|che": {
+    "lat": 46.3351913,
+    "lon": 8.7525902
+  },
+  "valais|che": {
+    "lat": 46.2303063,
+    "lon": 7.6605757
+  },
+  "van den haut|che": {
+    "lat": 51.4548148,
+    "lon": 5.6342661
+  },
+  "vattis|che": {
+    "lat": 46.9098162,
+    "lon": 9.4415215
+  },
+  "villeneuve|che": {
+    "lat": 46.3965712,
+    "lon": 6.9248129
+  },
+  "vingelz|che": {
+    "lat": 47.1293982,
+    "lon": 7.2168387
+  },
+  "voralpsee|che": {
+    "lat": 47.1562914,
+    "lon": 9.3765582
+  },
+  "walensee|che": {
+    "lat": 47.1255429,
+    "lon": 9.219882
+  },
+  "wenden|che": {
+    "lat": 46.750153,
+    "lon": 8.3877226
+  },
+  "yvorne|che": {
+    "lat": 46.3317116,
+    "lon": 6.9586852
+  },
+  "chilcas|chl": {
+    "lat": -13.1714014,
+    "lon": -73.9067773
+  },
+  "manyos|chl": {
+    "lat": 51.5780075,
+    "lon": 7.0588402
+  },
+  "mina|chl": {
+    "lat": 42.130056,
+    "lon": -79.688104
+  },
+  "palestras|chl": {
+    "lat": -33.5787279,
+    "lon": -70.3945618
+  },
+  "getu|chn": {
+    "lat": 25.7430853,
+    "lon": 106.2346128
+  },
+  "yangshuo|chn": {
+    "lat": 24.8630286,
+    "lon": 110.4871831
+  },
+  "mojarra|col": {
+    "lat": 19.2856283,
+    "lon": -99.0581842
+  },
+  "suesca|col": {
+    "lat": 5.1033413,
+    "lon": -73.7990059
+  },
+  "jeseniky|cze": {
+    "lat": 50.104232,
+    "lon": 17.2496941
+  },
+  "moravsky kras|cze": {
+    "lat": 49.2343279,
+    "lon": 16.6705605
+  },
+  "roviste|cze": {
+    "lat": 49.6653391,
+    "lon": 14.2547352
+  },
+  "allgau|deu": {
+    "lat": 47.8241593,
+    "lon": 11.6822424
+  },
+  "bad heilbrunn|deu": {
+    "lat": 47.7463564,
+    "lon": 11.455267
+  },
+  "beratzhausen|deu": {
+    "lat": 49.0958694,
+    "lon": 11.8072365
+  },
+  "bergen|deu": {
+    "lat": 49.7808936,
+    "lon": 7.4176059
+  },
+  "bessenbach|deu": {
+    "lat": 49.9670126,
+    "lon": 9.2510469
+  },
+  "bichlersee|deu": {
+    "lat": 47.6760983,
+    "lon": 12.1221776
+  },
+  "bixlwand|deu": {
+    "lat": 47.6808436,
+    "lon": 12.0904944
+  },
+  "blautal|deu": {
+    "lat": 48.4162671,
+    "lon": 9.8728061
+  },
+  "bochumer bruch|deu": {
+    "lat": 51.2903006,
+    "lon": 7.0520455
+  },
+  "donautal|deu": {
+    "lat": 48.0689496,
+    "lon": 9.0047011
+  },
+  "dorenther klippen|deu": {
+    "lat": 52.2397689,
+    "lon": 7.7151914
+  },
+  "ettringen|deu": {
+    "lat": 50.3574787,
+    "lon": 7.2197428
+  },
+  "flintsbach|deu": {
+    "lat": 48.714137,
+    "lon": 13.1047465
+  },
+  "frankenjura|deu": {
+    "lat": 49.8254266,
+    "lon": 11.3296217
+  },
+  "fuchsbau|deu": {
+    "lat": 51.7435078,
+    "lon": 10.5900157
+  },
+  "fuchslay|deu": {
+    "lat": 50.3161876,
+    "lon": 6.7570324
+  },
+  "fussen|deu": {
+    "lat": 47.5675998,
+    "lon": 10.6993217
+  },
+  "gimmeldingen|deu": {
+    "lat": 49.3761741,
+    "lon": 8.153936
+  },
+  "gottinger wald|deu": {
+    "lat": 51.5509037,
+    "lon": 10.0272303
+  },
+  "halle|deu": {
+    "lat": 51.4824354,
+    "lon": 11.9712985
+  },
+  "hochwand|deu": {
+    "lat": 47.705351,
+    "lon": 12.4976342
+  },
+  "hohburger berge|deu": {
+    "lat": 51.4283551,
+    "lon": 12.8090406
+  },
+  "isenberg|deu": {
+    "lat": 51.3829208,
+    "lon": 7.145107
+  },
+  "kaitersberg|deu": {
+    "lat": 49.1738751,
+    "lon": 12.9484359
+  },
+  "karlstein|deu": {
+    "lat": 50.0443203,
+    "lon": 9.0337844
+  },
+  "katastrophenfels|deu": {
+    "lat": 47.6919083,
+    "lon": 12.8043611
+  },
+  "kochel|deu": {
+    "lat": 47.6607076,
+    "lon": 11.3712127
+  },
+  "konigshain|deu": {
+    "lat": 51.1811385,
+    "lon": 14.8711
+  },
+  "konigshainer berge|deu": {
+    "lat": 51.2157105,
+    "lon": 14.83514
+  },
+  "konstein|deu": {
+    "lat": 48.8264015,
+    "lon": 11.0742101
+  },
+  "lobejun|deu": {
+    "lat": 51.6367961,
+    "lon": 11.9011036
+  },
+  "luegsteinsee|deu": {
+    "lat": 47.6421022,
+    "lon": 12.1714474
+  },
+  "monkey heaven|deu": {
+    "lat": -8.5139888,
+    "lon": 115.2602068
+  },
+  "mulde und bobritzschtal|deu": {
+    "lat": null,
+    "lon": null
+  },
+  "muldental|deu": {
+    "lat": 50.9583926,
+    "lon": 13.350269
+  },
+  "muldetal|deu": {
+    "lat": 50.5472188,
+    "lon": 12.6597698
+  },
+  "nideggen|deu": {
+    "lat": 50.6913559,
+    "lon": 6.482614
+  },
+  "odenwald|deu": {
+    "lat": 49.6087639,
+    "lon": 9.0443539
+  },
+  "pfalz|deu": {
+    "lat": 49.5421852,
+    "lon": 8.3609555
+  },
+  "plauenscher grund|deu": {
+    "lat": 51.0230112,
+    "lon": 13.699525
+  },
+  "pleitewandl|deu": {
+    "lat": 47.7062614,
+    "lon": 12.4869317
+  },
+  "ramserer stoa|deu": {
+    "lat": 47.6414127,
+    "lon": 12.1545807
+  },
+  "rote wand|deu": {
+    "lat": 47.4141517,
+    "lon": 10.1772222
+  },
+  "rottachberg|deu": {
+    "lat": 47.6100751,
+    "lon": 10.3156893
+  },
+  "schmalwassergrund|deu": {
+    "lat": null,
+    "lon": null
+  },
+  "schonhofen|deu": {
+    "lat": 49.0089495,
+    "lon": 11.9619671
+  },
+  "schwabische alb|deu": {
+    "lat": 48.3812677,
+    "lon": 9.4149595
+  },
+  "schwarzwald|deu": {
+    "lat": 48.2634439,
+    "lon": 8.1647488
+  },
+  "thuringen|deu": {
+    "lat": 50.9014721,
+    "lon": 11.0377839
+  },
+  "tritzmann ged wand|deu": {
+    "lat": null,
+    "lon": null
+  },
+  "uracher alb|deu": {
+    "lat": 48.4913279,
+    "lon": 9.3962302
+  },
+  "vogtland|deu": {
+    "lat": 50.5433275,
+    "lon": 12.0274645
+  },
+  "weigend wall|deu": {
+    "lat": 47.7294821,
+    "lon": 12.1703354
+  },
+  "zellerwand|deu": {
+    "lat": 47.7532498,
+    "lon": 12.2891318
+  },
+  "bornholm|dnk": {
+    "lat": 55.1431224,
+    "lon": 14.9226297
+  },
+  "paute|ecu": {
+    "lat": -2.7468493,
+    "lon": -78.7362416
+  },
+  "abdet|esp": {
+    "lat": 38.6940205,
+    "lon": -0.2571219
+  },
+  "abella de la conca|esp": {
+    "lat": 42.1614592,
+    "lon": 1.0923357
+  },
+  "adzaneta|esp": {
+    "lat": 40.2166007,
+    "lon": -0.1709719
+  },
+  "ager|esp": {
+    "lat": 42.0000405,
+    "lon": 0.7632134
+  },
+  "agost|esp": {
+    "lat": 38.436906,
+    "lon": -0.6396687
+  },
+  "aguero|esp": {
+    "lat": 42.355111,
+    "lon": -0.7942398
+  },
+  "agujas rojas|esp": {
+    "lat": 43.0316626,
+    "lon": -5.9616904
+  },
+  "aixorta|esp": {
+    "lat": 38.6950808,
+    "lon": -0.1722291
+  },
+  "alange|esp": {
+    "lat": 38.7851386,
+    "lon": -6.2472718
+  },
+  "albarracin|esp": {
+    "lat": 40.4072825,
+    "lon": -1.4442792
+  },
+  "alcalali|esp": {
+    "lat": 38.7496486,
+    "lon": -0.0414327
+  },
+  "alcaudete|esp": {
+    "lat": 37.5881403,
+    "lon": -4.0812937
+  },
+  "alfacar|esp": {
+    "lat": 37.2383551,
+    "lon": -3.5663721
+  },
+  "alos de balaguer|esp": {
+    "lat": 41.9124041,
+    "lon": 0.9607021
+  },
+  "alquezar|esp": {
+    "lat": 42.1801938,
+    "lon": 0.00135
+  },
+  "altea|esp": {
+    "lat": 38.6028245,
+    "lon": -0.0472059
+  },
+  "altea col|esp": {
+    "lat": 40.4637419,
+    "lon": -3.7159925
+  },
+  "altet|esp": {
+    "lat": 41.6839879,
+    "lon": 1.1437558
+  },
+  "ambolo|esp": {
+    "lat": 38.7302521,
+    "lon": 0.2176992
+  },
+  "apellaniz|esp": {
+    "lat": 42.7311714,
+    "lon": -2.4810472
+  },
+  "araotz|esp": {
+    "lat": 42.9917484,
+    "lon": -2.4557767
+  },
+  "araya|esp": {
+    "lat": 42.8895744,
+    "lon": -2.3175879
+  },
+  "arboli|esp": {
+    "lat": 41.2425941,
+    "lon": 0.9487676
+  },
+  "archidona|esp": {
+    "lat": 37.0945779,
+    "lon": -4.3906561
+  },
+  "arico|esp": {
+    "lat": 28.190527,
+    "lon": -16.49776
+  },
+  "arnedillo|esp": {
+    "lat": 42.2157979,
+    "lon": -2.243677
+  },
+  "atauri|esp": {
+    "lat": 42.7222321,
+    "lon": -2.4253292
+  },
+  "atxarte|esp": {
+    "lat": 43.2311742,
+    "lon": -2.944052
+  },
+  "atzeneta del maestrat|esp": {
+    "lat": 40.2166007,
+    "lon": -0.1709719
+  },
+  "ayagaures|esp": {
+    "lat": 27.85014,
+    "lon": -15.607921
+  },
+  "ayna|esp": {
+    "lat": 38.5532769,
+    "lon": -2.0715082
+  },
+  "baells|esp": {
+    "lat": 41.9534941,
+    "lon": 0.4593262
+  },
+  "baga|esp": {
+    "lat": 42.2527659,
+    "lon": 1.8625903
+  },
+  "bagergue|esp": {
+    "lat": 42.7190997,
+    "lon": 0.9161883
+  },
+  "baldellou|esp": {
+    "lat": 41.9389319,
+    "lon": 0.5370161
+  },
+  "baltzola|esp": {
+    "lat": 43.1254309,
+    "lon": -2.7181117
+  },
+  "banyadores|esp": {
+    "lat": 41.5379437,
+    "lon": 2.3787086
+  },
+  "barranco del fin del mundo|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "basconcillos|esp": {
+    "lat": 42.7028611,
+    "lon": -3.9893958
+  },
+  "beceite|esp": {
+    "lat": 40.8308335,
+    "lon": 0.1824413
+  },
+  "bellavista|esp": {
+    "lat": 37.3215196,
+    "lon": -5.9642315
+  },
+  "bellus|esp": {
+    "lat": 38.9452803,
+    "lon": -0.48611
+  },
+  "benabarre|esp": {
+    "lat": 42.1063137,
+    "lon": 0.4820182
+  },
+  "benaocaz|esp": {
+    "lat": 36.7006416,
+    "lon": -5.421687
+  },
+  "benaojan|esp": {
+    "lat": 36.7188117,
+    "lon": -5.2533743
+  },
+  "benasque|esp": {
+    "lat": 42.6052663,
+    "lon": 0.5237318
+  },
+  "benicarlo|esp": {
+    "lat": 40.4180244,
+    "lon": 0.4229813
+  },
+  "benizar|esp": {
+    "lat": 38.2719948,
+    "lon": -1.9834806
+  },
+  "berga|esp": {
+    "lat": 42.1011456,
+    "lon": 1.8454758
+  },
+  "bernia|esp": {
+    "lat": 38.7392333,
+    "lon": -0.0091008
+  },
+  "beuda|esp": {
+    "lat": 42.2372601,
+    "lon": 2.7097379
+  },
+  "biar|esp": {
+    "lat": 38.6305367,
+    "lon": -0.7646666
+  },
+  "bielsa|esp": {
+    "lat": 42.6335545,
+    "lon": 0.2188591
+  },
+  "blue mountains|esp": {
+    "lat": -33.609741,
+    "lon": 150.4052237
+  },
+  "bogarra|esp": {
+    "lat": 38.5815065,
+    "lon": -2.2129227
+  },
+  "bolulla|esp": {
+    "lat": 38.6766014,
+    "lon": -0.112208
+  },
+  "boos|esp": {
+    "lat": 41.6013677,
+    "lon": -2.898276
+  },
+  "borriol|esp": {
+    "lat": 40.0422215,
+    "lon": -0.0714919
+  },
+  "boyeriza|esp": {
+    "lat": 39.0176777,
+    "lon": -3.4497363
+  },
+  "brull|esp": {
+    "lat": 41.8168099,
+    "lon": 2.3052283
+  },
+  "budino|esp": {
+    "lat": 42.1920723,
+    "lon": -8.7270617
+  },
+  "bunker|esp": {
+    "lat": 42.4185272,
+    "lon": -3.5897083
+  },
+  "bunol|esp": {
+    "lat": 39.4189582,
+    "lon": -0.7909637
+  },
+  "busot|esp": {
+    "lat": 38.4848359,
+    "lon": -0.417211
+  },
+  "cabadas|esp": {
+    "lat": 43.0414991,
+    "lon": -7.6223413
+  },
+  "cabezo gordo|esp": {
+    "lat": 37.8015996,
+    "lon": -0.9080726
+  },
+  "cabezon de oro|esp": {
+    "lat": 43.0327405,
+    "lon": -5.7641816
+  },
+  "cabrera|esp": {
+    "lat": 39.1453231,
+    "lon": 2.9466726
+  },
+  "cacin|esp": {
+    "lat": 37.0599969,
+    "lon": -3.9166908
+  },
+  "cadalso|esp": {
+    "lat": 40.2375069,
+    "lon": -6.5397962
+  },
+  "cadalso de los vidrios|esp": {
+    "lat": 40.3014283,
+    "lon": -4.4408876
+  },
+  "cahorros|esp": {
+    "lat": 37.3355156,
+    "lon": -3.5708195
+  },
+  "caimari|esp": {
+    "lat": 39.7711008,
+    "lon": 2.9034496
+  },
+  "cala barques|esp": {
+    "lat": 39.9215232,
+    "lon": 3.0544099
+  },
+  "cala del moral|esp": {
+    "lat": 36.7177497,
+    "lon": -4.3149753
+  },
+  "cala llamp|esp": {
+    "lat": 39.5340571,
+    "lon": 2.3881371
+  },
+  "cala magraner|esp": {
+    "lat": 39.4865783,
+    "lon": 3.2879853
+  },
+  "cala santanyi|esp": {
+    "lat": 39.3305484,
+    "lon": 3.146408
+  },
+  "calanda|esp": {
+    "lat": 40.9469316,
+    "lon": -0.2203753
+  },
+  "calcena|esp": {
+    "lat": 41.6552887,
+    "lon": -1.7181092
+  },
+  "calders|esp": {
+    "lat": 41.7892144,
+    "lon": 1.9916386
+  },
+  "callosa del segura|esp": {
+    "lat": 38.1251825,
+    "lon": -0.8778548
+  },
+  "camarasa|esp": {
+    "lat": 41.8756649,
+    "lon": 0.8778945
+  },
+  "campo|esp": {
+    "lat": 42.409759,
+    "lon": 0.3972463
+  },
+  "can fil|esp": {
+    "lat": 39.6971861,
+    "lon": 2.7101251
+  },
+  "can ortigas|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "can paulet|esp": {
+    "lat": 41.4053261,
+    "lon": 1.9565565
+  },
+  "cancho bermejo valdesangil salamanca|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "candelilla|esp": {
+    "lat": 37.3816029,
+    "lon": -5.9569847
+  },
+  "canete la real|esp": {
+    "lat": 36.9515951,
+    "lon": -5.0246722
+  },
+  "canfranc|esp": {
+    "lat": 42.7533689,
+    "lon": -0.4796771
+  },
+  "canjorro|esp": {
+    "lat": 36.9091799,
+    "lon": -3.5955228
+  },
+  "canon de uceda|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "capcanes|esp": {
+    "lat": 41.1003901,
+    "lon": 0.7810956
+  },
+  "carbes|esp": {
+    "lat": 43.2630852,
+    "lon": -5.1100959
+  },
+  "cargolaire|esp": {
+    "lat": 41.7889118,
+    "lon": 1.9918806
+  },
+  "carrascal|esp": {
+    "lat": 41.0948515,
+    "lon": -3.9871984
+  },
+  "casares|esp": {
+    "lat": 36.4433477,
+    "lon": -5.2728863
+  },
+  "castell de santueri|esp": {
+    "lat": 39.4320235,
+    "lon": 3.1878164
+  },
+  "castellet de calp|esp": {
+    "lat": 38.6380512,
+    "lon": 0.0090066
+  },
+  "castellon|esp": {
+    "lat": 40.2518568,
+    "lon": -0.0615052
+  },
+  "castillo de bayuela|esp": {
+    "lat": 40.0998825,
+    "lon": -4.6851982
+  },
+  "castillo de santa catalina|esp": {
+    "lat": 36.5327654,
+    "lon": -6.3080657
+  },
+  "castro de barona|esp": {
+    "lat": 42.6946688,
+    "lon": -9.0319627
+  },
+  "caudete|esp": {
+    "lat": 38.7063356,
+    "lon": -0.9867523
+  },
+  "cavallers|esp": {
+    "lat": 41.6129616,
+    "lon": 0.6254587
+  },
+  "cellecs|esp": {
+    "lat": 41.5592962,
+    "lon": 2.3379204
+  },
+  "cerulleda|esp": {
+    "lat": 43.0007651,
+    "lon": -5.4256715
+  },
+  "chinchilla|esp": {
+    "lat": 38.8804873,
+    "lon": -1.5891138
+  },
+  "chorro|esp": {
+    "lat": 41.6862826,
+    "lon": -3.5644274
+  },
+  "chulilla|esp": {
+    "lat": 39.6563771,
+    "lon": -0.8921028
+  },
+  "cicera|esp": {
+    "lat": 43.23614,
+    "lon": -4.55034
+  },
+  "cieza|esp": {
+    "lat": 43.2230443,
+    "lon": -4.1248734
+  },
+  "claret|esp": {
+    "lat": 41.8161768,
+    "lon": 1.4600002
+  },
+  "clavijo|esp": {
+    "lat": 42.3494671,
+    "lon": -2.4262521
+  },
+  "clot de lespasa|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "cocentaina|esp": {
+    "lat": 38.744158,
+    "lon": -0.4400707
+  },
+  "cogollos|esp": {
+    "lat": 42.2015894,
+    "lon": -3.6985858
+  },
+  "coll de nargo|esp": {
+    "lat": 42.1739087,
+    "lon": 1.3161338
+  },
+  "collegats|esp": {
+    "lat": 42.2824403,
+    "lon": 1.0381594
+  },
+  "collsuspina|esp": {
+    "lat": 41.8260718,
+    "lon": 2.174353
+  },
+  "comuna de caimari|esp": {
+    "lat": 39.7813256,
+    "lon": 2.8983493
+  },
+  "congosto|esp": {
+    "lat": 42.6175246,
+    "lon": -6.5201227
+  },
+  "convento|esp": {
+    "lat": 43.3199412,
+    "lon": -8.4448609
+  },
+  "corbera|esp": {
+    "lat": 39.1580768,
+    "lon": -0.3540631
+  },
+  "corones|esp": {
+    "lat": 42.2508536,
+    "lon": 2.1797469
+  },
+  "cortos|esp": {
+    "lat": 42.9477171,
+    "lon": -8.4706074
+  },
+  "cova de locell|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "covas|esp": {
+    "lat": 43.6702614,
+    "lon": -7.6145834
+  },
+  "cresta del gallo|esp": {
+    "lat": 42.0998548,
+    "lon": 0.2505504
+  },
+  "creveta|esp": {
+    "lat": 41.0107042,
+    "lon": 0.5658811
+  },
+  "crevillent|esp": {
+    "lat": 38.2493099,
+    "lon": -0.8111359
+  },
+  "cueca|esp": {
+    "lat": 40.9544994,
+    "lon": -0.7033081
+  },
+  "cuenca|esp": {
+    "lat": 40.0661031,
+    "lon": -2.1313528
+  },
+  "cuervo|esp": {
+    "lat": 42.1265508,
+    "lon": -2.8351735
+  },
+  "cueva bollu|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "cueva de la mora|esp": {
+    "lat": 37.78022,
+    "lon": -6.802018
+  },
+  "cuevas|esp": {
+    "lat": 43.4312263,
+    "lon": -5.0733131
+  },
+  "cuevas del mar|esp": {
+    "lat": 43.4564907,
+    "lon": -4.9383973
+  },
+  "cuevas negras|esp": {
+    "lat": 28.0051249,
+    "lon": -15.4777944
+  },
+  "culla|esp": {
+    "lat": 40.3373914,
+    "lon": -0.1651408
+  },
+  "cullar|esp": {
+    "lat": 37.5835402,
+    "lon": -2.5766049
+  },
+  "desplomelandia|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "desplomilandia|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "diezma|esp": {
+    "lat": 37.3197784,
+    "lon": -3.3326523
+  },
+  "dilar|esp": {
+    "lat": 37.0737362,
+    "lon": -3.6010019
+  },
+  "echo valley|esp": {
+    "lat": 38.6269366,
+    "lon": -0.1578958
+  },
+  "entrepenas|esp": {
+    "lat": 42.6185303,
+    "lon": -8.3103093
+  },
+  "ermita de betlem|esp": {
+    "lat": 39.7372243,
+    "lon": 3.3112845
+  },
+  "es burga|esp": {
+    "lat": 43.1296774,
+    "lon": -1.4528201
+  },
+  "es burgar|esp": {
+    "lat": 39.8327219,
+    "lon": 2.840122
+  },
+  "es fumat|esp": {
+    "lat": 42.430054,
+    "lon": 1.4212017
+  },
+  "es grau des ruc|esp": {
+    "lat": 39.8056658,
+    "lon": 2.8966637
+  },
+  "escales|esp": {
+    "lat": 39.7925718,
+    "lon": -0.324005
+  },
+  "escalete|esp": {
+    "lat": 42.3473531,
+    "lon": -0.6578222
+  },
+  "espiel|esp": {
+    "lat": 38.1885533,
+    "lon": -5.0189717
+  },
+  "etxauri|esp": {
+    "lat": 42.7959451,
+    "lon": -1.8203571
+  },
+  "eume|esp": {
+    "lat": 43.4232599,
+    "lon": -7.9966276
+  },
+  "facu|esp": {
+    "lat": 41.2861065,
+    "lon": 1.7022764
+  },
+  "fasnia|esp": {
+    "lat": 28.2356006,
+    "lon": -16.4393504
+  },
+  "fataga|esp": {
+    "lat": 27.854619,
+    "lon": -15.5576212
+  },
+  "figols|esp": {
+    "lat": 42.1809467,
+    "lon": 1.8366637
+  },
+  "fin del mundo|esp": {
+    "lat": 37.9822894,
+    "lon": -1.1109825
+  },
+  "foixarda|esp": {
+    "lat": 41.3662936,
+    "lon": 2.1468055
+  },
+  "font daxia|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "forada|esp": {
+    "lat": 38.9932856,
+    "lon": 1.3621747
+  },
+  "forcada|esp": {
+    "lat": 43.443866,
+    "lon": -7.1261607
+  },
+  "foz de zafrane|esp": {
+    "lat": 41.365459,
+    "lon": -0.8726352
+  },
+  "fraguel|esp": {
+    "lat": 39.6993671,
+    "lon": 2.7195672
+  },
+  "fronton|esp": {
+    "lat": 40.6390058,
+    "lon": -1.8689856
+  },
+  "fuentes de penacorada|esp": {
+    "lat": 42.8354904,
+    "lon": -5.0905392
+  },
+  "fuixarda|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "galayos|esp": {
+    "lat": 38.8116031,
+    "lon": -4.1229018
+  },
+  "galdames|esp": {
+    "lat": 43.2541103,
+    "lon": -3.097637
+  },
+  "galilea|esp": {
+    "lat": 42.3475858,
+    "lon": -2.2370324
+  },
+  "galineiro|esp": {
+    "lat": 42.1355671,
+    "lon": -8.7014095
+  },
+  "gama|esp": {
+    "lat": 43.423031,
+    "lon": -3.5249556
+  },
+  "ganda|esp": {
+    "lat": 43.153075,
+    "lon": -9.1040525
+  },
+  "gandia|esp": {
+    "lat": 38.9675925,
+    "lon": -0.1803423
+  },
+  "garraf|esp": {
+    "lat": 41.2610462,
+    "lon": 1.804544
+  },
+  "gelida|esp": {
+    "lat": 41.4324961,
+    "lon": 1.8614458
+  },
+  "gestalgar|esp": {
+    "lat": 39.6042104,
+    "lon": -0.834243
+  },
+  "gombren|esp": {
+    "lat": 42.2484304,
+    "lon": 2.0905975
+  },
+  "gorg blau|esp": {
+    "lat": 42.1441854,
+    "lon": 2.5895998
+  },
+  "gratal|esp": {
+    "lat": 42.2903252,
+    "lon": -0.4632281
+  },
+  "grau dels matxos|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "grazalema|esp": {
+    "lat": 36.7583892,
+    "lon": -5.366074
+  },
+  "guadalest|esp": {
+    "lat": 38.6754609,
+    "lon": -0.1995862
+  },
+  "guaria|esp": {
+    "lat": 28.1950138,
+    "lon": -16.754589
+  },
+  "guayente|esp": {
+    "lat": 41.6453712,
+    "lon": -0.8600218
+  },
+  "guia de isora|esp": {
+    "lat": 28.2151934,
+    "lon": -16.7589818
+  },
+  "guiniguada|esp": {
+    "lat": 28.1005641,
+    "lon": -15.4190292
+  },
+  "hermida|esp": {
+    "lat": 42.7882109,
+    "lon": -8.8882251
+  },
+  "hoces de valdeteja|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "hoces de vegacervera|esp": {
+    "lat": 42.9035178,
+    "lon": -5.5397541
+  },
+  "hoces free|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "hoyo|esp": {
+    "lat": 42.4972063,
+    "lon": -4.0912671
+  },
+  "huesa del comun|esp": {
+    "lat": 41.0104815,
+    "lon": -0.9197856
+  },
+  "huetor santillan|esp": {
+    "lat": 37.2184811,
+    "lon": -3.5173045
+  },
+  "ibiza|esp": {
+    "lat": 38.9743901,
+    "lon": 1.4197463
+  },
+  "jaraba|esp": {
+    "lat": 41.1901172,
+    "lon": -1.8840541
+  },
+  "jarafuel|esp": {
+    "lat": 39.1398863,
+    "lon": -1.0728491
+  },
+  "jaulin|esp": {
+    "lat": 41.4520699,
+    "lon": -0.9925135
+  },
+  "jerica|esp": {
+    "lat": 39.9117383,
+    "lon": -0.5718739
+  },
+  "jolibud|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "jumilla|esp": {
+    "lat": 38.4735408,
+    "lon": -1.3285417
+  },
+  "l ocaive|esp": {
+    "lat": 38.7759566,
+    "lon": 0.0175628
+  },
+  "laboratorio|esp": {
+    "lat": 42.797837,
+    "lon": -5.6301336
+  },
+  "lagos|esp": {
+    "lat": 36.7443209,
+    "lon": -4.0220833
+  },
+  "lamindao|esp": {
+    "lat": 43.1261302,
+    "lon": -2.75038
+  },
+  "larraona|esp": {
+    "lat": 42.7793475,
+    "lon": -2.2572865
+  },
+  "ledesma|esp": {
+    "lat": 41.0903872,
+    "lon": -5.9987649
+  },
+  "leiva|esp": {
+    "lat": 42.5029174,
+    "lon": -3.04658
+  },
+  "les perxes|esp": {
+    "lat": 39.7762655,
+    "lon": 2.8892561
+  },
+  "leyva|esp": {
+    "lat": 41.6343009,
+    "lon": -4.7413096
+  },
+  "lliber|esp": {
+    "lat": 38.7429774,
+    "lon": 0.0061079
+  },
+  "llombera|esp": {
+    "lat": 42.8432056,
+    "lon": -5.592042
+  },
+  "locaive|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "loja|esp": {
+    "lat": 37.1523601,
+    "lon": -4.2057079
+  },
+  "lorcha|esp": {
+    "lat": 38.8438222,
+    "lon": -0.31146
+  },
+  "madronales|esp": {
+    "lat": 37.592351,
+    "lon": -3.9408132
+  },
+  "malle|esp": {
+    "lat": 39.613432,
+    "lon": 2.8829185
+  },
+  "mallorca|esp": {
+    "lat": 39.613432,
+    "lon": 2.8829185
+  },
+  "manilva|esp": {
+    "lat": 36.3769979,
+    "lon": -5.2489786
+  },
+  "manzaneda|esp": {
+    "lat": 42.2729555,
+    "lon": -7.2042469
+  },
+  "marabio|esp": {
+    "lat": 43.2368034,
+    "lon": -6.1462057
+  },
+  "margalef|esp": {
+    "lat": 41.2854434,
+    "lon": 0.7537968
+  },
+  "marin|esp": {
+    "lat": 42.358551,
+    "lon": -8.7114992
+  },
+  "martianez|esp": {
+    "lat": 38.1154993,
+    "lon": -4.4607897
+  },
+  "marxuquera|esp": {
+    "lat": 38.9797382,
+    "lon": -0.2517949
+  },
+  "masriudoms|esp": {
+    "lat": 41.0201325,
+    "lon": 0.8842681
+  },
+  "matienzo|esp": {
+    "lat": 43.3139582,
+    "lon": -3.5839963
+  },
+  "meano|esp": {
+    "lat": 42.6034983,
+    "lon": -2.4747239
+  },
+  "mediona|esp": {
+    "lat": 41.4773943,
+    "lon": 1.6350185
+  },
+  "meses|esp": {
+    "lat": 39.0050714,
+    "lon": -0.5056158
+  },
+  "miera|esp": {
+    "lat": 43.2754402,
+    "lon": -3.7126373
+  },
+  "mijas|esp": {
+    "lat": 36.5557539,
+    "lon": -4.6950428
+  },
+  "moclin|esp": {
+    "lat": 37.3650008,
+    "lon": -3.8033439
+  },
+  "moia|esp": {
+    "lat": 41.8130391,
+    "lon": 2.0978412
+  },
+  "molinicos|esp": {
+    "lat": 38.4665026,
+    "lon": -2.2405552
+  },
+  "molledo|esp": {
+    "lat": 43.15187,
+    "lon": -4.0428
+  },
+  "monsant|esp": {
+    "lat": 41.6491418,
+    "lon": -0.8818838
+  },
+  "mont ral|esp": {
+    "lat": 41.2871207,
+    "lon": 1.0980821
+  },
+  "montanejos|esp": {
+    "lat": 40.0693656,
+    "lon": -0.5389255
+  },
+  "montblanc|esp": {
+    "lat": 41.3762309,
+    "lon": 1.1620703
+  },
+  "montbru|esp": {
+    "lat": 41.7967223,
+    "lon": 2.079401
+  },
+  "montefrio|esp": {
+    "lat": 37.321018,
+    "lon": -4.011123
+  },
+  "montesa|esp": {
+    "lat": 38.9481556,
+    "lon": -0.6492732
+  },
+  "montgo|esp": {
+    "lat": 38.8205685,
+    "lon": 0.1233514
+  },
+  "montgrony|esp": {
+    "lat": 42.2656501,
+    "lon": 2.0859686
+  },
+  "montsant|esp": {
+    "lat": 41.116962,
+    "lon": 1.2110984
+  },
+  "montserrat|esp": {
+    "lat": 39.3576494,
+    "lon": -0.6031
+  },
+  "montsia|esp": {
+    "lat": 40.6525574,
+    "lon": 0.5270277
+  },
+  "mora|esp": {
+    "lat": 39.683223,
+    "lon": -3.7727849
+  },
+  "morata de jalon|esp": {
+    "lat": 41.4733125,
+    "lon": -1.4748743
+  },
+  "moretona|esp": {
+    "lat": 41.8094428,
+    "lon": 2.0466592
+  },
+  "moron de la frontera|esp": {
+    "lat": 37.1215305,
+    "lon": -5.4559583
+  },
+  "moya|esp": {
+    "lat": 28.1341366,
+    "lon": -15.5906223
+  },
+  "muela|esp": {
+    "lat": 42.0910178,
+    "lon": -3.5051814
+  },
+  "mula|esp": {
+    "lat": 38.0418669,
+    "lon": -1.4906872
+  },
+  "murla|esp": {
+    "lat": 38.7601227,
+    "lon": -0.0826912
+  },
+  "musara|esp": {
+    "lat": 41.2521418,
+    "lon": 1.028273
+  },
+  "mussara|esp": {
+    "lat": 41.2521418,
+    "lon": 1.028273
+  },
+  "naranjo|esp": {
+    "lat": 37.1804129,
+    "lon": -5.7805151
+  },
+  "naranjo de bulnes|esp": {
+    "lat": 43.200834,
+    "lon": -4.8177018
+  },
+  "naranjos|esp": {
+    "lat": 37.9514372,
+    "lon": -1.1254572
+  },
+  "navagallega|esp": {
+    "lat": 40.6996026,
+    "lon": -5.7889388
+  },
+  "navatalgordo|esp": {
+    "lat": 40.4157234,
+    "lon": -4.8718327
+  },
+  "niguelas|esp": {
+    "lat": 36.977772,
+    "lon": -3.5388692
+  },
+  "ogassa|esp": {
+    "lat": 42.2656267,
+    "lon": 2.2777794
+  },
+  "olba|esp": {
+    "lat": 40.1325902,
+    "lon": -0.6250429
+  },
+  "olesa|esp": {
+    "lat": 41.5439614,
+    "lon": 1.8913809
+  },
+  "oliana|esp": {
+    "lat": 42.0952259,
+    "lon": 1.3108367
+  },
+  "olivella|esp": {
+    "lat": 41.3103129,
+    "lon": 1.8114946
+  },
+  "olleros de sabero|esp": {
+    "lat": 42.8308034,
+    "lon": -5.178805
+  },
+  "olta|esp": {
+    "lat": 38.6639053,
+    "lon": 0.020514
+  },
+  "olvena|esp": {
+    "lat": 42.1078404,
+    "lon": 0.260347
+  },
+  "onate|esp": {
+    "lat": 43.0328523,
+    "lon": -2.4137149
+  },
+  "onati|esp": {
+    "lat": 43.0328523,
+    "lon": -2.4137149
+  },
+  "ontinyent|esp": {
+    "lat": 38.8208523,
+    "lon": -0.6099929
+  },
+  "organya|esp": {
+    "lat": 42.2107781,
+    "lon": 1.327822
+  },
+  "orgiva|esp": {
+    "lat": 36.8690899,
+    "lon": -3.4072057
+  },
+  "orihuela|esp": {
+    "lat": 38.0275575,
+    "lon": -0.9130957
+  },
+  "os de balaguer|esp": {
+    "lat": 41.8713099,
+    "lon": 0.7193399
+  },
+  "otinar|esp": {
+    "lat": 37.6805509,
+    "lon": -3.757605
+  },
+  "otura|esp": {
+    "lat": 43.3321276,
+    "lon": -5.941278
+  },
+  "oulego|esp": {
+    "lat": 42.5033556,
+    "lon": -6.9327428
+  },
+  "pancorbo|esp": {
+    "lat": 42.6353553,
+    "lon": -3.1109887
+  },
+  "panocha|esp": {
+    "lat": 38.3429663,
+    "lon": -0.4924863
+  },
+  "paparres|esp": {
+    "lat": 41.5966732,
+    "lon": 1.8206695
+  },
+  "patiras|esp": {
+    "lat": 38.7940084,
+    "lon": -0.6071498
+  },
+  "patones|esp": {
+    "lat": 40.8548194,
+    "lon": -3.483954
+  },
+  "pauta|esp": {
+    "lat": 42.8821344,
+    "lon": -8.5272007
+  },
+  "pechon|esp": {
+    "lat": 43.3902731,
+    "lon": -4.4892109
+  },
+  "pedriza|esp": {
+    "lat": 41.3979165,
+    "lon": -0.6942778
+  },
+  "pegalajar|esp": {
+    "lat": 37.7400607,
+    "lon": -3.6450264
+  },
+  "pelugano|esp": {
+    "lat": 43.1531105,
+    "lon": -5.5551247
+  },
+  "pena cabrera|esp": {
+    "lat": 40.4872596,
+    "lon": -4.8323628
+  },
+  "pena pintada|esp": {
+    "lat": 40.7603357,
+    "lon": -4.0062565
+  },
+  "pena rubia|esp": {
+    "lat": 43.3212561,
+    "lon": -5.7209972
+  },
+  "penahorada|esp": {
+    "lat": 42.4985856,
+    "lon": -3.6452146
+  },
+  "penarroya|esp": {
+    "lat": 40.3901656,
+    "lon": -0.6653107
+  },
+  "penarrubia|esp": {
+    "lat": 43.2463029,
+    "lon": -4.5764095
+  },
+  "penartea|esp": {
+    "lat": 42.6665916,
+    "lon": -1.6422538
+  },
+  "penas blancas|esp": {
+    "lat": 37.6041009,
+    "lon": -1.1537143
+  },
+  "penas de castro|esp": {
+    "lat": 37.732282,
+    "lon": -3.7934588
+  },
+  "penas de marin|esp": {
+    "lat": 43.4183129,
+    "lon": 5.2867719
+  },
+  "penon de ifach|esp": {
+    "lat": 38.6349593,
+    "lon": 0.0744591
+  },
+  "penya del moro|esp": {
+    "lat": 41.3967837,
+    "lon": 2.068779
+  },
+  "penya ginesta|esp": {
+    "lat": 41.2715812,
+    "lon": 1.9203703
+  },
+  "penya senyal|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "penyal de sa mel|esp": {
+    "lat": 39.7202988,
+    "lon": 2.7123026
+  },
+  "perchas|esp": {
+    "lat": 38.1548162,
+    "lon": -2.1559899
+  },
+  "perles|esp": {
+    "lat": 42.1782345,
+    "lon": 1.3938994
+  },
+  "piedrasecha|esp": {
+    "lat": 42.8239339,
+    "lon": -5.7788114
+  },
+  "pinar|esp": {
+    "lat": 39.6964051,
+    "lon": -2.5670599
+  },
+  "pinares de san anton|esp": {
+    "lat": 36.7386848,
+    "lon": -4.3597859
+  },
+  "pinos|esp": {
+    "lat": 41.8274504,
+    "lon": 1.5426078
+  },
+  "poloria|esp": {
+    "lat": 37.4535434,
+    "lon": -3.5597671
+  },
+  "ponoig|esp": {
+    "lat": 38.6128571,
+    "lon": -0.1762996
+  },
+  "ponton de la oliva|esp": {
+    "lat": 40.8833467,
+    "lon": -3.4419644
+  },
+  "poo de cabrales|esp": {
+    "lat": 43.3089335,
+    "lon": -4.8356008
+  },
+  "port de soller|esp": {
+    "lat": 39.797761,
+    "lon": 2.6964152
+  },
+  "port de valldemossa|esp": {
+    "lat": 39.7180152,
+    "lon": 2.5886003
+  },
+  "prianes|esp": {
+    "lat": 43.2985115,
+    "lon": -7.7977361
+  },
+  "puebla de guzman|esp": {
+    "lat": 37.6128869,
+    "lon": -7.2488901
+  },
+  "puente de canillejas|esp": {
+    "lat": 40.4484921,
+    "lon": -3.6260908
+  },
+  "puentequintos|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "puerto rico|esp": {
+    "lat": 27.7865973,
+    "lon": -15.7117774
+  },
+  "puerto roque|esp": {
+    "lat": 39.3423862,
+    "lon": -7.2865827
+  },
+  "puig campana|esp": {
+    "lat": 38.5897477,
+    "lon": -0.2061479
+  },
+  "puig de garrafa|esp": {
+    "lat": 39.5655071,
+    "lon": 2.4384979
+  },
+  "quiros|esp": {
+    "lat": 43.1519207,
+    "lon": -5.9732125
+  },
+  "rabanal de luna|esp": {
+    "lat": 42.9334939,
+    "lon": -5.9706635
+  },
+  "rafales|esp": {
+    "lat": 40.8374196,
+    "lon": 0.0202265
+  },
+  "ramales|esp": {
+    "lat": 43.257411,
+    "lon": -3.4646482
+  },
+  "rapun|esp": {
+    "lat": 42.4919394,
+    "lon": -0.3848866
+  },
+  "rasica|esp": {
+    "lat": 42.6755067,
+    "lon": -2.6834456
+  },
+  "rasica carbellino|esp": {
+    "lat": 41.2194709,
+    "lon": -6.1066325
+  },
+  "reconco|esp": {
+    "lat": 43.3568103,
+    "lon": -6.0383498
+  },
+  "recuevas|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "redipollos|esp": {
+    "lat": 43.0020328,
+    "lon": -5.2566124
+  },
+  "redovan|esp": {
+    "lat": 38.1151709,
+    "lon": -0.9069281
+  },
+  "reguchillo|esp": {
+    "lat": 37.7477683,
+    "lon": -3.8165216
+  },
+  "reserva|esp": {
+    "lat": 42.2619384,
+    "lon": -0.1118843
+  },
+  "revilla|esp": {
+    "lat": 43.4064272,
+    "lon": -3.8638096
+  },
+  "riba|esp": {
+    "lat": 43.2815921,
+    "lon": -3.5603628
+  },
+  "ricote|esp": {
+    "lat": 38.1540529,
+    "lon": -1.3668162
+  },
+  "riglos|esp": {
+    "lat": 42.3442412,
+    "lon": -0.7314733
+  },
+  "rioseco|esp": {
+    "lat": 43.2503638,
+    "lon": -3.373845
+  },
+  "risco de santibanez|esp": {
+    "lat": 40.5088276,
+    "lon": -5.6026688
+  },
+  "risco de santibanez salamanca|esp": {
+    "lat": 40.5088276,
+    "lon": -5.6026688
+  },
+  "riscos de villarejo|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "riugreixer|esp": {
+    "lat": 42.2704185,
+    "lon": 1.8508697
+  },
+  "roc de la lluna|esp": {
+    "lat": 42.2225711,
+    "lon": 1.9646708
+  },
+  "roca blanca|esp": {
+    "lat": 42.0955078,
+    "lon": 1.9992215
+  },
+  "rodelard|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "rodellar|esp": {
+    "lat": 42.2823684,
+    "lon": -0.0781395
+  },
+  "roques de cosdevia|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "rosildos|esp": {
+    "lat": 40.2924791,
+    "lon": -0.0458676
+  },
+  "sa gubia|esp": {
+    "lat": 39.6946501,
+    "lon": 2.6732729
+  },
+  "sa mola de felanitx|esp": {
+    "lat": 39.4670584,
+    "lon": 3.1355018
+  },
+  "sa taulera|esp": {
+    "lat": 40.5832573,
+    "lon": 8.3202124
+  },
+  "sadernes|esp": {
+    "lat": 42.2705066,
+    "lon": 2.5955915
+  },
+  "sahun|esp": {
+    "lat": 42.6029992,
+    "lon": 0.4470204
+  },
+  "sahun eriste|esp": {
+    "lat": 42.5887765,
+    "lon": 0.4928221
+  },
+  "sales de llierca|esp": {
+    "lat": 42.2358533,
+    "lon": 2.6499657
+  },
+  "salinas|esp": {
+    "lat": 38.519755,
+    "lon": -0.913229
+  },
+  "salt de la bella dona|esp": {
+    "lat": 39.8040883,
+    "lon": 2.8984248
+  },
+  "salto de la cabra|esp": {
+    "lat": 43.1371764,
+    "lon": -3.9580451
+  },
+  "salvatierra de esca|esp": {
+    "lat": 42.6916904,
+    "lon": -0.959052
+  },
+  "san bartolo|esp": {
+    "lat": 43.5667735,
+    "lon": -7.2336794
+  },
+  "san fausto|esp": {
+    "lat": 42.9550798,
+    "lon": -2.8553188
+  },
+  "san marcos|esp": {
+    "lat": 42.8917395,
+    "lon": -8.4901208
+  },
+  "san martin de valdeiglesias|esp": {
+    "lat": 40.3625,
+    "lon": -4.3986503
+  },
+  "san martin de valdonsera|esp": {
+    "lat": 42.2609315,
+    "lon": -0.3367118
+  },
+  "san pelayo|esp": {
+    "lat": 41.6808404,
+    "lon": -5.034009
+  },
+  "sant llorenc de montgai|esp": {
+    "lat": 41.8664115,
+    "lon": 0.8326339
+  },
+  "sant llorenc del munt|esp": {
+    "lat": 41.6517954,
+    "lon": 2.0133462
+  },
+  "sant miquel del fai|esp": {
+    "lat": 41.7161089,
+    "lon": 2.1904713
+  },
+  "santa ana|esp": {
+    "lat": 39.3088648,
+    "lon": -5.9902187
+  },
+  "santa anna|esp": {
+    "lat": 41.1825019,
+    "lon": 1.0945849
+  },
+  "santa linya|esp": {
+    "lat": 41.9318407,
+    "lon": 0.8525525
+  },
+  "santa ursula|esp": {
+    "lat": 28.4061767,
+    "lon": -16.4799173
+  },
+  "santibanez|esp": {
+    "lat": 41.8336543,
+    "lon": -3.7588164
+  },
+  "sella|esp": {
+    "lat": 38.6083783,
+    "lon": -0.2722519
+  },
+  "sena de luna|esp": {
+    "lat": 42.9290995,
+    "lon": -5.9524814
+  },
+  "senda|esp": {
+    "lat": 42.6439314,
+    "lon": -1.9450384
+  },
+  "sepulveda|esp": {
+    "lat": 41.2972525,
+    "lon": -3.7486519
+  },
+  "serra engarceran|esp": {
+    "lat": 40.2696396,
+    "lon": -0.0190324
+  },
+  "sestret|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "sierra de toix|esp": {
+    "lat": 38.6352988,
+    "lon": 0.0138548
+  },
+  "siurana|esp": {
+    "lat": 42.2095097,
+    "lon": 2.9940216
+  },
+  "solana|esp": {
+    "lat": 37.8021738,
+    "lon": -2.7728151
+  },
+  "somaen|esp": {
+    "lat": 41.1935261,
+    "lon": -2.3153085
+  },
+  "somahoz|esp": {
+    "lat": 43.2486607,
+    "lon": -4.063598
+  },
+  "sorralta|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "sorrueda|esp": {
+    "lat": 27.8900435,
+    "lon": -15.5396665
+  },
+  "st llorenc de montgai|esp": {
+    "lat": 41.8664115,
+    "lon": 0.8326339
+  },
+  "subirats|esp": {
+    "lat": 41.3951601,
+    "lon": 1.8112496
+  },
+  "tamadaba|esp": {
+    "lat": 28.0413392,
+    "lon": -15.7216849
+  },
+  "tartareu|esp": {
+    "lat": 41.9198456,
+    "lon": 0.7182244
+  },
+  "tavernes|esp": {
+    "lat": 39.0715565,
+    "lon": -0.2678045
+  },
+  "teba|esp": {
+    "lat": 36.9834861,
+    "lon": -4.9202568
+  },
+  "tenerife|esp": {
+    "lat": 28.1662702,
+    "lon": -16.5004261
+  },
+  "terradets|esp": {
+    "lat": 42.0684664,
+    "lon": 0.8828208
+  },
+  "teverga|esp": {
+    "lat": 43.1445043,
+    "lon": -6.1150972
+  },
+  "tijuana|esp": {
+    "lat": 41.389529,
+    "lon": 2.1466861
+  },
+  "tobes|esp": {
+    "lat": 43.3090122,
+    "lon": -4.6306517
+  },
+  "toix|esp": {
+    "lat": 38.6437955,
+    "lon": 0.0364476
+  },
+  "torcal|esp": {
+    "lat": 37.3788736,
+    "lon": -5.9805903
+  },
+  "torcal de antequera|esp": {
+    "lat": 36.9698247,
+    "lon": -4.5369295
+  },
+  "torozo|esp": {
+    "lat": 40.3177229,
+    "lon": -4.9866303
+  },
+  "torralba de los frailes|esp": {
+    "lat": 41.0367198,
+    "lon": -1.6609507
+  },
+  "torreblanca|esp": {
+    "lat": 40.2202661,
+    "lon": 0.1953363
+  },
+  "tossal de la creu|esp": {
+    "lat": 40.4818392,
+    "lon": -0.0539001
+  },
+  "tranco del diablo|esp": {
+    "lat": 40.3922359,
+    "lon": -5.8131942
+  },
+  "travessani|esp": {
+    "lat": 42.6090276,
+    "lon": 0.8876624
+  },
+  "tres ponts|esp": {
+    "lat": 38.3548825,
+    "lon": -0.7407473
+  },
+  "tunel|esp": {
+    "lat": 41.6942881,
+    "lon": 1.8490703
+  },
+  "turon|esp": {
+    "lat": 36.8406863,
+    "lon": -3.0794365
+  },
+  "turtzioz|esp": {
+    "lat": 43.2712711,
+    "lon": -3.2562469
+  },
+  "ubierna|esp": {
+    "lat": 42.4925375,
+    "lon": -3.6989892
+  },
+  "urduliz|esp": {
+    "lat": 43.3730262,
+    "lon": -2.9482016
+  },
+  "vadiello|esp": {
+    "lat": 42.2375223,
+    "lon": -0.2811575
+  },
+  "vados|esp": {
+    "lat": 42.5538286,
+    "lon": -6.7713767
+  },
+  "valdegobia|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "valdehuesa|esp": {
+    "lat": 42.936193,
+    "lon": -5.3279844
+  },
+  "valdesangil|esp": {
+    "lat": 40.4049829,
+    "lon": -5.7489313
+  },
+  "valeria|esp": {
+    "lat": 39.8125272,
+    "lon": -2.1470902
+  },
+  "vall de guadar|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "vallada|esp": {
+    "lat": 38.8959364,
+    "lon": -0.6890986
+  },
+  "valldemossa|esp": {
+    "lat": 39.7108465,
+    "lon": 2.6230264
+  },
+  "valle de abdalajis|esp": {
+    "lat": 36.9311713,
+    "lon": -4.682611
+  },
+  "valle del turon|esp": {
+    "lat": 43.2106139,
+    "lon": -5.7569598
+  },
+  "vallirana|esp": {
+    "lat": 41.3877623,
+    "lon": 1.9320806
+  },
+  "valmadrid|esp": {
+    "lat": 41.4434021,
+    "lon": -0.8844837
+  },
+  "vegacervera|esp": {
+    "lat": 42.8860413,
+    "lon": -5.5344461
+  },
+  "vegas|esp": {
+    "lat": 42.9393663,
+    "lon": -4.6533235
+  },
+  "vellon|esp": {
+    "lat": 40.7778995,
+    "lon": -3.6264559
+  },
+  "veredilla|esp": {
+    "lat": 38.2363882,
+    "lon": -1.5349215
+  },
+  "viana de jadraque|esp": {
+    "lat": 41.0258314,
+    "lon": -2.7696069
+  },
+  "vilanova de meia|esp": {
+    "lat": 41.9953518,
+    "lon": 1.0228846
+  },
+  "vilanova de prades|esp": {
+    "lat": 41.347873,
+    "lon": 0.9571484
+  },
+  "villalgordo|esp": {
+    "lat": 39.6822592,
+    "lon": -2.5088883
+  },
+  "villanova de meia|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "villanueva de cauche|esp": {
+    "lat": 36.9533268,
+    "lon": -4.4426988
+  },
+  "villanueva de la tercia|esp": {
+    "lat": 42.9649362,
+    "lon": -5.6674731
+  },
+  "villanueva de santo adriano|esp": {
+    "lat": 43.2738857,
+    "lon": -6.0009484
+  },
+  "villanueva de valdegovia|esp": {
+    "lat": 42.8471449,
+    "lon": -3.0983442
+  },
+  "villanueva del rosario|esp": {
+    "lat": 36.998599,
+    "lon": -4.3660482
+  },
+  "villanueva santo adriano|esp": {
+    "lat": 43.2738857,
+    "lon": -6.0009484
+  },
+  "villarejo|esp": {
+    "lat": 42.372862,
+    "lon": -2.88774
+  },
+  "vistamar|esp": {
+    "lat": 41.6077095,
+    "lon": 2.5873312
+  },
+  "xaqueto|esp": {
+    "lat": null,
+    "lon": null
+  },
+  "zona zero|esp": {
+    "lat": 37.1611403,
+    "lon": -3.5970062
+  },
+  "zuheros|esp": {
+    "lat": 37.543409,
+    "lon": -4.314876
+  },
+  "kakarsberget|fin": {
+    "lat": 60.236914,
+    "lon": 24.4948876
+  },
+  "rollarit|fin": {
+    "lat": null,
+    "lon": null
+  },
+  "viitapohja|fin": {
+    "lat": 61.6526047,
+    "lon": 24.0481779
+  },
+  "a richiusa|fra": {
+    "lat": 42.9389137,
+    "lon": 12.4051301
+  },
+  "a tozza|fra": {
+    "lat": 42.3551791,
+    "lon": 9.3797858
+  },
+  "ablon|fra": {
+    "lat": 49.3941667,
+    "lon": 0.2966667
+  },
+  "ailefroide|fra": {
+    "lat": 44.8873585,
+    "lon": 6.4458114
+  },
+  "alliat|fra": {
+    "lat": 42.8173427,
+    "lon": 1.5866013
+  },
+  "ardeche|fra": {
+    "lat": 44.5238424,
+    "lon": 4.392828
+  },
+  "auzat|fra": {
+    "lat": 42.7655046,
+    "lon": 1.4794271
+  },
+  "baderne|fra": {
+    "lat": 46.813059,
+    "lon": -76.2861098
+  },
+  "balme|fra": {
+    "lat": 46.5114485,
+    "lon": 5.3834804
+  },
+  "balme etrange|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "baou|fra": {
+    "lat": 42.9793661,
+    "lon": -0.1330054
+  },
+  "baou des  ouros|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "baume les dames|fra": {
+    "lat": 47.3526707,
+    "lon": 6.3614622
+  },
+  "baume rousse|fra": {
+    "lat": 44.2759232,
+    "lon": 5.8046495
+  },
+  "beruges|fra": {
+    "lat": 46.5672905,
+    "lon": 0.2063013
+  },
+  "blavet|fra": {
+    "lat": 47.7107,
+    "lon": -3.34807
+  },
+  "boffi|fra": {
+    "lat": 48.8533904,
+    "lon": 2.3271484
+  },
+  "bouilland|fra": {
+    "lat": 47.1330404,
+    "lon": 4.7762111
+  },
+  "briancon|fra": {
+    "lat": 44.8984037,
+    "lon": 6.6436313
+  },
+  "brigue|fra": {
+    "lat": 44.0618551,
+    "lon": 7.6158933
+  },
+  "buhl|fra": {
+    "lat": 48.9161045,
+    "lon": 8.0063486
+  },
+  "buis les baronnies|fra": {
+    "lat": 44.2767853,
+    "lon": 5.2747917
+  },
+  "buoux|fra": {
+    "lat": 43.8312883,
+    "lon": 5.3776276
+  },
+  "calames|fra": {
+    "lat": 42.8697088,
+    "lon": 1.5581734
+  },
+  "calanques|fra": {
+    "lat": 41.9080125,
+    "lon": 8.6579194
+  },
+  "cantobre|fra": {
+    "lat": 44.0576519,
+    "lon": 3.3055997
+  },
+  "carriere du maupas|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "carriere secrete|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "carros|fra": {
+    "lat": 43.7846,
+    "lon": 7.18785
+  },
+  "cascade|fra": {
+    "lat": 44.7850049,
+    "lon": 6.8674338
+  },
+  "casse de prelles|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "casserousse|fra": {
+    "lat": 45.1414961,
+    "lon": 5.8877888
+  },
+  "castillon|fra": {
+    "lat": 49.202326,
+    "lon": -0.796062
+  },
+  "ceou|fra": {
+    "lat": 44.7109135,
+    "lon": 1.3221602
+  },
+  "cessens|fra": {
+    "lat": 45.8166837,
+    "lon": 5.8841701
+  },
+  "ceuse|fra": {
+    "lat": 44.5126735,
+    "lon": 5.93969
+  },
+  "ceyreste|fra": {
+    "lat": 43.2183769,
+    "lon": 5.6391975
+  },
+  "chamandrin|fra": {
+    "lat": 44.8801271,
+    "lon": 6.6181925
+  },
+  "chambotte|fra": {
+    "lat": 45.7777634,
+    "lon": 5.8780927
+  },
+  "chateauneuf de chabre|fra": {
+    "lat": 44.2861903,
+    "lon": 5.7918282
+  },
+  "chateauvert|fra": {
+    "lat": 43.4998358,
+    "lon": 6.025787
+  },
+  "chaulet|fra": {
+    "lat": 44.6369691,
+    "lon": -0.0481207
+  },
+  "chauzon|fra": {
+    "lat": 44.4843999,
+    "lon": 4.359201
+  },
+  "cimai|fra": {
+    "lat": 43.1765237,
+    "lon": 5.8470298
+  },
+  "clape|fra": {
+    "lat": 44.6347274,
+    "lon": 0.7410089
+  },
+  "claret|fra": {
+    "lat": 43.8621481,
+    "lon": 3.9058717
+  },
+  "col du marocaz|fra": {
+    "lat": 45.5439409,
+    "lon": 6.0671906
+  },
+  "colle sur loup|fra": {
+    "lat": 43.6969104,
+    "lon": 6.9369065
+  },
+  "collias|fra": {
+    "lat": 43.9544,
+    "lon": 4.47701
+  },
+  "combe obscure|fra": {
+    "lat": 43.8384963,
+    "lon": 4.168063
+  },
+  "comboire|fra": {
+    "lat": 45.1457906,
+    "lon": 5.6908042
+  },
+  "conca|fra": {
+    "lat": 41.7343259,
+    "lon": 9.3358428
+  },
+  "consolation|fra": {
+    "lat": 47.1574866,
+    "lon": 6.6056064
+  },
+  "correncon|fra": {
+    "lat": 45.031815,
+    "lon": 5.5272737
+  },
+  "courchon|fra": {
+    "lat": 44.5048241,
+    "lon": -0.7893836
+  },
+  "couyrac|fra": {
+    "lat": 44.8058419,
+    "lon": 0.750844
+  },
+  "crept|fra": {
+    "lat": 45.7846094,
+    "lon": 5.5098664
+  },
+  "crete du raisin|fra": {
+    "lat": 45.0106653,
+    "lon": 6.5310216
+  },
+  "daladom|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "dent dorlu|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "dentelles de montmirail|fra": {
+    "lat": 44.1554146,
+    "lon": 5.023763
+  },
+  "destel|fra": {
+    "lat": 44.2430227,
+    "lon": 4.4660265
+  },
+  "dj face|fra": {
+    "lat": 44.4592891,
+    "lon": 23.657012
+  },
+  "dourbie|fra": {
+    "lat": 43.9313789,
+    "lon": 2.8507353
+  },
+  "dube|fra": {
+    "lat": 47.4157992,
+    "lon": -0.5231305
+  },
+  "eaux claires|fra": {
+    "lat": 45.6045711,
+    "lon": 0.1823042
+  },
+  "elsass|fra": {
+    "lat": 48.4845157,
+    "lon": 6.113035
+  },
+  "entraygues|fra": {
+    "lat": 48.9720119,
+    "lon": 0.5277026
+  },
+  "entrechaux|fra": {
+    "lat": 44.2175682,
+    "lon": 5.1367375
+  },
+  "espace|fra": {
+    "lat": 45.8246314,
+    "lon": 4.6071259
+  },
+  "espace comboire|fra": {
+    "lat": 45.1483128,
+    "lon": 5.6928451
+  },
+  "etoile noire|fra": {
+    "lat": 48.6611861,
+    "lon": 6.1810521
+  },
+  "excideuil|fra": {
+    "lat": 45.336641,
+    "lon": 1.0490102
+  },
+  "faron|fra": {
+    "lat": 43.1468483,
+    "lon": 5.9189408
+  },
+  "faron lierres|fra": {
+    "lat": 43.1427081,
+    "lon": 5.9415873
+  },
+  "faron nord|fra": {
+    "lat": 49.1117671,
+    "lon": 2.9139556
+  },
+  "fauzan|fra": {
+    "lat": 43.3451217,
+    "lon": 2.6920921
+  },
+  "fenouillet|fra": {
+    "lat": 43.6788559,
+    "lon": 1.3912065
+  },
+  "fessourier|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "fontaine|fra": {
+    "lat": 46.0182047,
+    "lon": 6.9028868
+  },
+  "fontgarnide|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "foron|fra": {
+    "lat": 46.2130999,
+    "lon": 6.2814896
+  },
+  "francardu|fra": {
+    "lat": 42.3986871,
+    "lon": 9.1909072
+  },
+  "gargantua|fra": {
+    "lat": 48.8441578,
+    "lon": 2.3503565
+  },
+  "geligny|fra": {
+    "lat": 47.3075122,
+    "lon": 4.6683563
+  },
+  "genat|fra": {
+    "lat": 42.8233895,
+    "lon": 1.5727315
+  },
+  "gietroz|fra": {
+    "lat": 45.9886191,
+    "lon": 7.35819
+  },
+  "gorbio|fra": {
+    "lat": 43.7866361,
+    "lon": 7.4438847
+  },
+  "gorge du ce|fra": {
+    "lat": 46.0564433,
+    "lon": 6.4817751
+  },
+  "gorges de la jonte|fra": {
+    "lat": 44.1972141,
+    "lon": 3.2670131
+  },
+  "gorges du ce|fra": {
+    "lat": 44.3637459,
+    "lon": 3.4381563
+  },
+  "gorges du loup|fra": {
+    "lat": 43.7435595,
+    "lon": 6.999427
+  },
+  "gorges du tarn|fra": {
+    "lat": 44.2515047,
+    "lon": 3.2309948
+  },
+  "goulandiere|fra": {
+    "lat": 47.9314152,
+    "lon": 0.3359155
+  },
+  "gozzi|fra": {
+    "lat": 42.0050231,
+    "lon": 8.7939736
+  },
+  "grand bois|fra": {
+    "lat": 44.8108013,
+    "lon": 6.512919
+  },
+  "greolieres|fra": {
+    "lat": 43.7951809,
+    "lon": 6.9435947
+  },
+  "grotte du brotsch|fra": {
+    "lat": 48.7025006,
+    "lon": 7.325888
+  },
+  "gueberschwihr|fra": {
+    "lat": 48.0026716,
+    "lon": 7.2657838
+  },
+  "guignoterie|fra": {
+    "lat": 46.6696683,
+    "lon": 0.903237
+  },
+  "guillestre|fra": {
+    "lat": 44.6597849,
+    "lon": 6.6493945
+  },
+  "i curriali|fra": {
+    "lat": 42.613937,
+    "lon": 8.93924
+  },
+  "jonte|fra": {
+    "lat": 44.1955215,
+    "lon": 3.3933127
+  },
+  "klingenthal|fra": {
+    "lat": 48.4683074,
+    "lon": 7.4017149
+  },
+  "krappenfels|fra": {
+    "lat": 48.7372367,
+    "lon": 7.256755
+  },
+  "kronthal|fra": {
+    "lat": 48.6318609,
+    "lon": 7.4680922
+  },
+  "lalbenc|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "lauberge espagnole|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "le capucin|fra": {
+    "lat": 43.3702876,
+    "lon": 5.9787388
+  },
+  "le coup de sabre|fra": {
+    "lat": 45.1929391,
+    "lon": 5.6660885
+  },
+  "le cruz|fra": {
+    "lat": 46.1578899,
+    "lon": 6.4784154
+  },
+  "le fayet|fra": {
+    "lat": 45.9001093,
+    "lon": 6.7064446
+  },
+  "le luisset|fra": {
+    "lat": 46.3023436,
+    "lon": 6.8313123
+  },
+  "le ponteil|fra": {
+    "lat": 45.1261582,
+    "lon": 1.3744847
+  },
+  "le rif doriol|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "le suet|fra": {
+    "lat": 45.940375,
+    "lon": 6.3817507
+  },
+  "le tarn|fra": {
+    "lat": 43.9963841,
+    "lon": 2.5471439
+  },
+  "les actinidias|fra": {
+    "lat": 44.3999633,
+    "lon": 4.2007492
+  },
+  "les ayes|fra": {
+    "lat": 45.2155615,
+    "lon": 5.4037345
+  },
+  "les concluses|fra": {
+    "lat": 44.1819685,
+    "lon": 4.4030221
+  },
+  "les ecouges|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "les gorges du loup|fra": {
+    "lat": 43.702252,
+    "lon": 6.9955243
+  },
+  "les lames|fra": {
+    "lat": 45.203484,
+    "lon": 5.7215356
+  },
+  "les petits goulets|fra": {
+    "lat": 45.030128,
+    "lon": 5.383859
+  },
+  "les tines|fra": {
+    "lat": 45.9532637,
+    "lon": 6.9010489
+  },
+  "les traverses|fra": {
+    "lat": 45.0390705,
+    "lon": 5.5363682
+  },
+  "les traverses et la vignette|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "levens|fra": {
+    "lat": 43.8477377,
+    "lon": 7.2401105
+  },
+  "lolette|fra": {
+    "lat": 45.1410189,
+    "lon": 5.5898464
+  },
+  "lourmarin|fra": {
+    "lat": 43.7755825,
+    "lon": 5.3515561
+  },
+  "malaucene|fra": {
+    "lat": 44.1732744,
+    "lon": 5.1321258
+  },
+  "manjo carn|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "marcilhac sur cele|fra": {
+    "lat": 44.5537968,
+    "lon": 1.7714629
+  },
+  "marseille|fra": {
+    "lat": 43.2963986,
+    "lon": 5.3777888
+  },
+  "mas doris|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "mazet|fra": {
+    "lat": 45.5524975,
+    "lon": 2.3305224
+  },
+  "melin|fra": {
+    "lat": 47.7392,
+    "lon": 5.82698
+  },
+  "mollans|fra": {
+    "lat": 47.6478,
+    "lon": 6.37065
+  },
+  "mont caume|fra": {
+    "lat": 43.184508,
+    "lon": 5.9082396
+  },
+  "mont dauphin|fra": {
+    "lat": 44.66862,
+    "lon": 6.62328
+  },
+  "mont dauphin fort|fra": {
+    "lat": 44.6703458,
+    "lon": 6.6245902
+  },
+  "montagne du tranchant|fra": {
+    "lat": 46.3003273,
+    "lon": -73.8554926
+  },
+  "mouries|fra": {
+    "lat": 43.6891957,
+    "lon": 4.871428
+  },
+  "muhlberg|fra": {
+    "lat": 48.6581777,
+    "lon": 7.2514342
+  },
+  "narbonne|fra": {
+    "lat": 43.1837757,
+    "lon": 3.0041906
+  },
+  "ombleze|fra": {
+    "lat": 44.863108,
+    "lon": 5.2200831
+  },
+  "ontinyent|fra": {
+    "lat": 38.8208523,
+    "lon": -0.6099929
+  },
+  "orgon|fra": {
+    "lat": 43.790843,
+    "lon": 5.0394918
+  },
+  "orpierre|fra": {
+    "lat": 44.3132374,
+    "lon": 5.6919044
+  },
+  "parves|fra": {
+    "lat": 45.7412482,
+    "lon": 5.7418024
+  },
+  "peillon|fra": {
+    "lat": 43.7783963,
+    "lon": 7.3821208
+  },
+  "penya senyal|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "petit desert|fra": {
+    "lat": 45.182,
+    "lon": 5.678877
+  },
+  "pierrot beach|fra": {
+    "lat": -4.3790625,
+    "lon": 55.8318235
+  },
+  "plampinet|fra": {
+    "lat": 45.0031348,
+    "lon": 6.6616678
+  },
+  "pont de vence|fra": {
+    "lat": 45.248243,
+    "lon": 5.7422542
+  },
+  "pouilly|fra": {
+    "lat": 49.2733471,
+    "lon": 2.0319006
+  },
+  "quinson|fra": {
+    "lat": 43.7019544,
+    "lon": 6.0397855
+  },
+  "roc d aude|fra": {
+    "lat": 42.5736774,
+    "lon": 2.0410218
+  },
+  "rochefort samson|fra": {
+    "lat": 44.9716981,
+    "lon": 5.1499676
+  },
+  "rocher baron|fra": {
+    "lat": 44.8460392,
+    "lon": 6.5906022
+  },
+  "rocher ecole desquit|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "rocher gafouille|fra": {
+    "lat": 44.8804714,
+    "lon": 6.6459716
+  },
+  "rocher maubert|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "roque|fra": {
+    "lat": 43.7380105,
+    "lon": 4.1238854
+  },
+  "roquevaire|fra": {
+    "lat": 43.3492766,
+    "lon": 5.6046147
+  },
+  "rue des masques|fra": {
+    "lat": 47.1828434,
+    "lon": 0.0490403
+  },
+  "rurey|fra": {
+    "lat": 47.0966131,
+    "lon": 6.0080318
+  },
+  "russan|fra": {
+    "lat": 43.9271832,
+    "lon": 4.3384076
+  },
+  "saint antonin|fra": {
+    "lat": 43.7234378,
+    "lon": 0.8147386
+  },
+  "saleve|fra": {
+    "lat": 46.1347139,
+    "lon": 6.1597343
+  },
+  "saume|fra": {
+    "lat": 43.0508155,
+    "lon": 2.7333971
+  },
+  "saussois|fra": {
+    "lat": 47.5659639,
+    "lon": 3.6486943
+  },
+  "secret spot|fra": {
+    "lat": 43.7911789,
+    "lon": -1.2915939
+  },
+  "sedour|fra": {
+    "lat": 42.865844,
+    "lon": 1.5844231
+  },
+  "seynes|fra": {
+    "lat": 44.1162795,
+    "lon": 4.2843973
+  },
+  "sinsat|fra": {
+    "lat": 42.8075744,
+    "lon": 1.6626056
+  },
+  "st antonin|fra": {
+    "lat": 43.7234378,
+    "lon": 0.8147386
+  },
+  "st cezaire|fra": {
+    "lat": 43.6505213,
+    "lon": 6.7925537
+  },
+  "st didier|fra": {
+    "lat": 47.32951,
+    "lon": 4.18247
+  },
+  "st egreve|fra": {
+    "lat": 45.2325079,
+    "lon": 5.681781
+  },
+  "st gery|fra": {
+    "lat": 44.9844017,
+    "lon": 0.3250577
+  },
+  "st guilhem|fra": {
+    "lat": 43.8573737,
+    "lon": -0.1142492
+  },
+  "st jeannet|fra": {
+    "lat": 43.9519438,
+    "lon": 6.1241538
+  },
+  "st leger|fra": {
+    "lat": 45.4363476,
+    "lon": 6.2766341
+  },
+  "st leger du vantoux|fra": {
+    "lat": null,
+    "lon": null
+  },
+  "st leger du ventoux|fra": {
+    "lat": 44.2119809,
+    "lon": 5.2757819
+  },
+  "st martin vesubie|fra": {
+    "lat": 44.0700773,
+    "lon": 7.2565002
+  },
+  "st pancrasse|fra": {
+    "lat": 45.2957495,
+    "lon": 5.8517181
+  },
+  "suare|fra": {
+    "lat": 42.489243,
+    "lon": 8.7955167
+  },
+  "surgy|fra": {
+    "lat": 47.5090053,
+    "lon": 3.5144017
+  },
+  "tamee|fra": {
+    "lat": 44.9870029,
+    "lon": 5.2521936
+  },
+  "tarn|fra": {
+    "lat": 43.7921741,
+    "lon": 2.1339648
+  },
+  "tina dalle|fra": {
+    "lat": 45.0801202,
+    "lon": 5.3715005
+  },
+  "toulon|fra": {
+    "lat": 43.1257311,
+    "lon": 5.9304919
+  },
+  "tournoux|fra": {
+    "lat": 44.8105831,
+    "lon": 6.5114325
+  },
+  "traverses|fra": {
+    "lat": 44.7352196,
+    "lon": 4.5877223
+  },
+  "turbie|fra": {
+    "lat": 43.7452982,
+    "lon": 7.4011252
+  },
+  "venasque|fra": {
+    "lat": 43.996197,
+    "lon": 5.1465183
+  },
+  "verdon|fra": {
+    "lat": 48.9484473,
+    "lon": 3.6191697
+  },
+  "vergisson|fra": {
+    "lat": 46.3094275,
+    "lon": 4.7155576
+  },
+  "virieu|fra": {
+    "lat": 45.8568092,
+    "lon": 5.6534579
+  },
+  "virignin|fra": {
+    "lat": 45.7177761,
+    "lon": 5.7132456
+  },
+  "volx|fra": {
+    "lat": 43.8782944,
+    "lon": 5.8411915
+  },
+  "voreppe|fra": {
+    "lat": 45.2928424,
+    "lon": 5.6361825
+  },
+  "vosges du nord|fra": {
+    "lat": 48.9431083,
+    "lon": 7.4603168
+  },
+  "wachtfels|fra": {
+    "lat": 49.0376239,
+    "lon": 7.6854963
+  },
+  "waldeck|fra": {
+    "lat": 49.0164931,
+    "lon": 7.5291443
+  },
+  "windstein|fra": {
+    "lat": 48.9951998,
+    "lon": 7.6838386
+  },
+  "avon gorge|gbr": {
+    "lat": 55.7299906,
+    "lon": -3.9844951
+  },
+  "ban y gor|gbr": {
+    "lat": 34.164328,
+    "lon": -115.750051
+  },
+  "castle inn quarry|gbr": {
+    "lat": 52.4582955,
+    "lon": -2.1181662
+  },
+  "cheddar|gbr": {
+    "lat": 51.2753365,
+    "lon": -2.7766545
+  },
+  "chee dale|gbr": {
+    "lat": 53.2494093,
+    "lon": -1.8311426
+  },
+  "cheedale|gbr": {
+    "lat": 53.2567009,
+    "lon": -1.8986272
+  },
+  "dinas rock|gbr": {
+    "lat": 51.759541,
+    "lon": -3.5778496
+  },
+  "dumbarton|gbr": {
+    "lat": 55.9432443,
+    "lon": -4.5708479
+  },
+  "giggleswick|gbr": {
+    "lat": 54.0718632,
+    "lon": -2.2881032
+  },
+  "harpur hill|gbr": {
+    "lat": 53.2372864,
+    "lon": -1.9062344
+  },
+  "horseshoe quarry|gbr": {
+    "lat": 53.282642,
+    "lon": -1.6886839
+  },
+  "llanymynech|gbr": {
+    "lat": 52.780611,
+    "lon": -3.0883335
+  },
+  "malham|gbr": {
+    "lat": 54.0612719,
+    "lon": -2.1529001
+  },
+  "margalef|gbr": {
+    "lat": 41.2854434,
+    "lon": 0.7537968
+  },
+  "masson lees|gbr": {
+    "lat": 53.1278031,
+    "lon": -1.5719935
+  },
+  "pant quarry|gbr": {
+    "lat": 51.4727489,
+    "lon": -3.5956249
+  },
+  "peak district|gbr": {
+    "lat": 53.3158274,
+    "lon": -1.727034
+  },
+  "portland|gbr": {
+    "lat": 50.5672516,
+    "lon": -2.4472529
+  },
+  "raven tor|gbr": {
+    "lat": 54.3796098,
+    "lon": -3.1141464
+  },
+  "smalldale|gbr": {
+    "lat": 53.2928062,
+    "lon": -1.8584566
+  },
+  "swanage|gbr": {
+    "lat": 50.6086976,
+    "lon": -1.9571971
+  },
+  "tintern quarry|gbr": {
+    "lat": 51.6745758,
+    "lon": -2.6750369
+  },
+  "trollers gill|gbr": {
+    "lat": 54.0522139,
+    "lon": -1.8965758
+  },
+  "trow gill|gbr": {
+    "lat": 54.1404708,
+    "lon": -2.3768967
+  },
+  "water cum jolly|gbr": {
+    "lat": 53.2520399,
+    "lon": -1.745249
+  },
+  "alepochori|grc": {
+    "lat": 41.4522965,
+    "lon": 26.2081109
+  },
+  "balcony|grc": {
+    "lat": 37.1769409,
+    "lon": 22.8468597
+  },
+  "blue zinas cave|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "chaos|grc": {
+    "lat": 37.7206982,
+    "lon": 24.0219833
+  },
+  "chatzouri|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "chouni|grc": {
+    "lat": 38.8400087,
+    "lon": 21.5367883
+  },
+  "damari pentelis|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "daskaleio|grc": {
+    "lat": 36.7513676,
+    "lon": 23.0895453
+  },
+  "emin aga|grc": {
+    "lat": 40.8747443,
+    "lon": 24.70643
+  },
+  "epos fylis|grc": {
+    "lat": 38.0997651,
+    "lon": 23.6673547
+  },
+  "great cave|grc": {
+    "lat": 44.3491011,
+    "lon": -68.1903572
+  },
+  "iera odos|grc": {
+    "lat": 37.9972406,
+    "lon": 23.667947
+  },
+  "kalymnos|grc": {
+    "lat": 37.0025735,
+    "lon": 26.9923072
+  },
+  "kamari|grc": {
+    "lat": 36.3761502,
+    "lon": 25.4806336
+  },
+  "kleisoura|grc": {
+    "lat": 39.9535965,
+    "lon": 22.0696691
+  },
+  "kokkina|grc": {
+    "lat": 39.3321086,
+    "lon": 22.6964738
+  },
+  "korakofolia|grc": {
+    "lat": 38.1301261,
+    "lon": 23.7223223
+  },
+  "korakospilia|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "koukouvagias cave|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "kyparissi|grc": {
+    "lat": 35.1906944,
+    "lon": 25.0779643
+  },
+  "lagada|grc": {
+    "lat": 35.1605153,
+    "lon": 26.2476053
+  },
+  "leonidio|grc": {
+    "lat": 37.1663308,
+    "lon": 22.8604198
+  },
+  "limni|grc": {
+    "lat": 40.7821219,
+    "lon": 23.5277951
+  },
+  "magoula|grc": {
+    "lat": 38.0791202,
+    "lon": 23.5217004
+  },
+  "markopoulo|grc": {
+    "lat": 37.8828306,
+    "lon": 23.9323453
+  },
+  "mavrosouvala|grc": {
+    "lat": 38.2518,
+    "lon": 23.8059
+  },
+  "megas lakkos|grc": {
+    "lat": 38.1612939,
+    "lon": 20.4280503
+  },
+  "meteora|grc": {
+    "lat": 39.7993707,
+    "lon": 21.5969031
+  },
+  "mikri varasova|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "mouzaki|grc": {
+    "lat": 39.4278258,
+    "lon": 21.664177
+  },
+  "neraki|grc": {
+    "lat": 38.0234991,
+    "lon": 23.4472619
+  },
+  "pano alogopetra|grc": {
+    "lat": 38.1189876,
+    "lon": 23.6691218
+  },
+  "paou cave|grc": {
+    "lat": 39.2043239,
+    "lon": 23.19683
+  },
+  "pigi avrami|grc": {
+    "lat": 38.1251476,
+    "lon": 23.6611723
+  },
+  "platosi|grc": {
+    "lat": 38.0986725,
+    "lon": 23.6746413
+  },
+  "portes achaias|grc": {
+    "lat": 38.1101371,
+    "lon": 22.1612123
+  },
+  "pyli|grc": {
+    "lat": 36.8460617,
+    "lon": 27.1603596
+  },
+  "remvi|grc": {
+    "lat": 40.5683928,
+    "lon": 22.9559536
+  },
+  "sesi|grc": {
+    "lat": 39.2580595,
+    "lon": 21.1638651
+  },
+  "spilia daveli|grc": {
+    "lat": 38.0706248,
+    "lon": 23.8769723
+  },
+  "spilia roussou|grc": {
+    "lat": null,
+    "lon": null
+  },
+  "sympligades|grc": {
+    "lat": 35.3693412,
+    "lon": 24.4738903
+  },
+  "varasova|grc": {
+    "lat": 38.362506,
+    "lon": 21.5925199
+  },
+  "veria|grc": {
+    "lat": 40.5215342,
+    "lon": 22.2036834
+  },
+  "vrachokipos|grc": {
+    "lat": 35.3184227,
+    "lon": 25.2438744
+  },
+  "baska|hrv": {
+    "lat": 48.7079937,
+    "lon": 21.1821634
+  },
+  "bobanova greda|hrv": {
+    "lat": null,
+    "lon": null
+  },
+  "buzet|hrv": {
+    "lat": 45.4078767,
+    "lon": 13.9655905
+  },
+  "buzetski kanjon|hrv": {
+    "lat": 45.3923524,
+    "lon": 13.9902795
+  },
+  "golubinjak|hrv": {
+    "lat": 45.5599789,
+    "lon": 17.1622301
+  },
+  "hvar|hrv": {
+    "lat": 43.1739411,
+    "lon": 16.5565161
+  },
+  "izvor mirne|hrv": {
+    "lat": null,
+    "lon": null
+  },
+  "kalnik|hrv": {
+    "lat": 46.1278483,
+    "lon": 16.4642668
+  },
+  "karin|hrv": {
+    "lat": 37.3155277,
+    "lon": 48.6666566
+  },
+  "kompanj|hrv": {
+    "lat": 45.3927013,
+    "lon": 14.0717128
+  },
+  "limski kanal|hrv": {
+    "lat": 45.1323635,
+    "lon": 13.653878
+  },
+  "markezina greda|hrv": {
+    "lat": 43.5646749,
+    "lon": 16.5165911
+  },
+  "omis|hrv": {
+    "lat": 43.4434966,
+    "lon": 16.6922771
+  },
+  "paklenica|hrv": {
+    "lat": 45.3198485,
+    "lon": 17.0244128
+  },
+  "pokojec|hrv": {
+    "lat": 46.1706153,
+    "lon": 16.2293336
+  },
+  "tpwpo|hrv": {
+    "lat": null,
+    "lon": null
+  },
+  "bajot|hun": {
+    "lat": 47.7258495,
+    "lon": 18.5579539
+  },
+  "csokako|hun": {
+    "lat": 47.3563896,
+    "lon": 18.2757791
+  },
+  "dedes|hun": {
+    "lat": 47.4910054,
+    "lon": 19.2915565
+  },
+  "hamor|hun": {
+    "lat": 48.1060238,
+    "lon": 20.6355668
+  },
+  "kecske hegy|hun": {
+    "lat": 47.5429997,
+    "lon": 18.9910884
+  },
+  "kis gerecse|hun": {
+    "lat": 47.6855214,
+    "lon": 18.5016573
+  },
+  "roka hegy|hun": {
+    "lat": 47.5922618,
+    "lon": 19.0352672
+  },
+  "tardosbanya|hun": {
+    "lat": 47.6633891,
+    "lon": 18.4449341
+  },
+  "vargesztes|hun": {
+    "lat": 47.4723494,
+    "lon": 18.3971059
+  },
+  "veszprem|hun": {
+    "lat": 47.0933824,
+    "lon": 17.9080406
+  },
+  "badami|ind": {
+    "lat": 15.9203874,
+    "lon": 75.6807865
+  },
+  "hnappavellir|isl": {
+    "lat": 63.9062957,
+    "lon": -16.5944272
+  },
+  "beit oren|isr": {
+    "lat": 32.730556,
+    "lon": 35.005556
+  },
+  "dalton|isr": {
+    "lat": 34.7691867,
+    "lon": -84.9702475
+  },
+  "ein fara|isr": {
+    "lat": null,
+    "lon": null
+  },
+  "gita|isr": {
+    "lat": 32.9672482,
+    "lon": 35.249074
+  },
+  "keshet cave|isr": {
+    "lat": 33.0765348,
+    "lon": 35.1950297
+  },
+  "shilat|isr": {
+    "lat": 31.9205606,
+    "lon": 35.0173195
+  },
+  "vanishing cliff|isr": {
+    "lat": 40.0077341,
+    "lon": -105.4083761
+  },
+  "yonim|isr": {
+    "lat": null,
+    "lon": null
+  },
+  "albenga|ita": {
+    "lat": 44.0492503,
+    "lon": 8.2131239
+  },
+  "alta val aupa|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "amiata|ita": {
+    "lat": 42.8843494,
+    "lon": 11.5354669
+  },
+  "andonno|ita": {
+    "lat": 44.2959854,
+    "lon": 7.4299561
+  },
+  "anduins|ita": {
+    "lat": 46.2339962,
+    "lon": 12.9592053
+  },
+  "angelone|ita": {
+    "lat": 42.4588768,
+    "lon": 14.215571
+  },
+  "arco|ita": {
+    "lat": 45.9180304,
+    "lon": 10.8786049
+  },
+  "aufhofen|ita": {
+    "lat": 46.8146955,
+    "lon": 11.9468554
+  },
+  "badolo|ita": {
+    "lat": 44.3613332,
+    "lon": 11.2779448
+  },
+  "bagnasco|ita": {
+    "lat": 44.2928421,
+    "lon": 8.0347474
+  },
+  "bagni vecchi|ita": {
+    "lat": 46.4924191,
+    "lon": 10.3609273
+  },
+  "baita|ita": {
+    "lat": 45.7919304,
+    "lon": 9.4833588
+  },
+  "balma|ita": {
+    "lat": 45.646991,
+    "lon": 8.0182505
+  },
+  "balze|ita": {
+    "lat": 43.7772885,
+    "lon": 12.0915109
+  },
+  "bandito|ita": {
+    "lat": 44.7208516,
+    "lon": 7.8225448
+  },
+  "bassiano|ita": {
+    "lat": 41.5497551,
+    "lon": 13.032233
+  },
+  "baunei|ita": {
+    "lat": 40.0323613,
+    "lon": 9.6634049
+  },
+  "bauso rosso|ita": {
+    "lat": 38.0029244,
+    "lon": 13.5663928
+  },
+  "bec raty|ita": {
+    "lat": 45.5921745,
+    "lon": 7.6545089
+  },
+  "bismantova|ita": {
+    "lat": 44.4310314,
+    "lon": 10.3939284
+  },
+  "bosco|ita": {
+    "lat": 45.3369166,
+    "lon": 11.1637179
+  },
+  "burgkofel|ita": {
+    "lat": 46.7922579,
+    "lon": 11.8818305
+  },
+  "cadarese|ita": {
+    "lat": 46.2978644,
+    "lon": 8.3609312
+  },
+  "cainallo|ita": {
+    "lat": 45.9877465,
+    "lon": 9.3623943
+  },
+  "caionvico|ita": {
+    "lat": 45.525306,
+    "lon": 10.288554
+  },
+  "cala fuili|ita": {
+    "lat": 40.2560655,
+    "lon": 9.6248824
+  },
+  "cala gonone|ita": {
+    "lat": 40.2820879,
+    "lon": 9.6343396
+  },
+  "cala luna|ita": {
+    "lat": 40.2264753,
+    "lon": 9.6259242
+  },
+  "calar|ita": {
+    "lat": 36.8427289,
+    "lon": -3.0529415
+  },
+  "camaiore|ita": {
+    "lat": 43.9380611,
+    "lon": 10.3039553
+  },
+  "camoglieres|ita": {
+    "lat": 44.5033438,
+    "lon": 7.1962768
+  },
+  "campelli|ita": {
+    "lat": 45.9299005,
+    "lon": 10.0777801
+  },
+  "candalla|ita": {
+    "lat": 43.9573866,
+    "lon": 10.3239369
+  },
+  "canne dorgano|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "capanna bill|ita": {
+    "lat": 46.4511398,
+    "lon": 11.9031676
+  },
+  "capo caccia|ita": {
+    "lat": 40.5605717,
+    "lon": 8.1635053
+  },
+  "caprie|ita": {
+    "lat": 45.118845,
+    "lon": 7.331914
+  },
+  "carate urio|ita": {
+    "lat": 45.8805196,
+    "lon": 9.1104957
+  },
+  "carbonaia|ita": {
+    "lat": 45.9474718,
+    "lon": 13.3745838
+  },
+  "castellafiume|ita": {
+    "lat": 41.9783771,
+    "lon": 13.3260078
+  },
+  "castellaneta|ita": {
+    "lat": 40.630424,
+    "lon": 16.9346775
+  },
+  "castelvecchio|ita": {
+    "lat": 42.89087,
+    "lon": 13.0209578
+  },
+  "ceredo|ita": {
+    "lat": 45.6204314,
+    "lon": 10.9740485
+  },
+  "ceselli|ita": {
+    "lat": 42.6849965,
+    "lon": 12.8173594
+  },
+  "cesnola|ita": {
+    "lat": 45.5583479,
+    "lon": 7.8317973
+  },
+  "chianocco|ita": {
+    "lat": 45.1486267,
+    "lon": 7.1681539
+  },
+  "ciampino|ita": {
+    "lat": 41.8002891,
+    "lon": 12.6004706
+  },
+  "cimbergo|ita": {
+    "lat": 46.0256086,
+    "lon": 10.4050969
+  },
+  "ciolo|ita": {
+    "lat": 39.844007,
+    "lon": 18.3852862
+  },
+  "citta dei sassi|ita": {
+    "lat": 46.5142724,
+    "lon": 11.7517689
+  },
+  "cividate|ita": {
+    "lat": 45.5463206,
+    "lon": 9.8246918
+  },
+  "civitella del tronto|ita": {
+    "lat": 42.773446,
+    "lon": 13.672291
+  },
+  "codula fuili|ita": {
+    "lat": 40.2605224,
+    "lon": 9.6167457
+  },
+  "collepardo|ita": {
+    "lat": 41.764322,
+    "lon": 13.369499
+  },
+  "colloro|ita": {
+    "lat": 46.0106335,
+    "lon": 8.3263123
+  },
+  "corte|ita": {
+    "lat": 45.3095061,
+    "lon": 12.0742749
+  },
+  "covolo|ita": {
+    "lat": 45.85496,
+    "lon": 12.0248085
+  },
+  "cranna|ita": {
+    "lat": 46.3343884,
+    "lon": 9.4226451
+  },
+  "crepe de oucera bassi|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "croveo|ita": {
+    "lat": 46.2724365,
+    "lon": 8.3038931
+  },
+  "crown of aragon|ita": {
+    "lat": 38.1151269,
+    "lon": 12.7410272
+  },
+  "deiva marina|ita": {
+    "lat": 44.2182308,
+    "lon": 9.5200465
+  },
+  "deposito inerti|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "discoteca|ita": {
+    "lat": 42.7098202,
+    "lon": 11.0036872
+  },
+  "dolomites|ita": {
+    "lat": 46.294572,
+    "lon": 12.0513238
+  },
+  "domusnovas|ita": {
+    "lat": 39.324736,
+    "lon": 8.648734
+  },
+  "donnas|ita": {
+    "lat": 45.5878399,
+    "lon": 7.7537705
+  },
+  "drei zinnen tre cime di lavaredo|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "durrensee|ita": {
+    "lat": 46.6301977,
+    "lon": 12.231017
+  },
+  "eiszeit|ita": {
+    "lat": 46.7677889,
+    "lon": 11.6348568
+  },
+  "erna|ita": {
+    "lat": 45.8633112,
+    "lon": 9.4283181
+  },
+  "esigo|ita": {
+    "lat": 46.2809865,
+    "lon": 8.2849579
+  },
+  "falesia del tramonto|ita": {
+    "lat": 45.2680595,
+    "lon": 7.4826878
+  },
+  "fara san martino|ita": {
+    "lat": 42.0915379,
+    "lon": 14.1491289
+  },
+  "ferentillo|ita": {
+    "lat": 42.6207678,
+    "lon": 12.7887263
+  },
+  "finale|ita": {
+    "lat": 38.0198811,
+    "lon": 14.1622345
+  },
+  "fiorano|ita": {
+    "lat": 44.8949314,
+    "lon": 9.5710646
+  },
+  "folchi|ita": {
+    "lat": 44.2106415,
+    "lon": 7.5180481
+  },
+  "fonte avellana|ita": {
+    "lat": 43.4715306,
+    "lon": 12.7264931
+  },
+  "fonzaso|ita": {
+    "lat": 45.9973627,
+    "lon": 11.8016309
+  },
+  "foresto|ita": {
+    "lat": 44.7305959,
+    "lon": 7.7315678
+  },
+  "fortezza|ita": {
+    "lat": 46.7972588,
+    "lon": 11.5557984
+  },
+  "fosso delleremo|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "frachiamo|ita": {
+    "lat": 45.4284933,
+    "lon": 7.5539857
+  },
+  "furlo|ita": {
+    "lat": 43.6405225,
+    "lon": 12.7149393
+  },
+  "fusine|ita": {
+    "lat": 46.106058,
+    "lon": 9.7572921
+  },
+  "gabellaccia|ita": {
+    "lat": 44.1237162,
+    "lon": 10.098242
+  },
+  "gais|ita": {
+    "lat": 46.8557542,
+    "lon": 11.9716607
+  },
+  "gajum|ita": {
+    "lat": 45.8508305,
+    "lon": 9.3021095
+  },
+  "galbiate|ita": {
+    "lat": 45.8175344,
+    "lon": 9.3750153
+  },
+  "garda|ita": {
+    "lat": 45.5787967,
+    "lon": 10.6848253
+  },
+  "gavi|ita": {
+    "lat": 44.6886154,
+    "lon": 8.8061389
+  },
+  "gelagna|ita": {
+    "lat": 43.0756126,
+    "lon": 13.0024558
+  },
+  "gole del melfa|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "gravere|ita": {
+    "lat": 45.1061354,
+    "lon": 7.0274329
+  },
+  "gressoney|ita": {
+    "lat": 45.7827926,
+    "lon": 7.8314544
+  },
+  "groscavallo|ita": {
+    "lat": 45.3684966,
+    "lon": 7.2587768
+  },
+  "grotti|ita": {
+    "lat": 42.753402,
+    "lon": 12.8295756
+  },
+  "guadagnolo|ita": {
+    "lat": 41.9136821,
+    "lon": 12.9277459
+  },
+  "gutturu cardaxius|ita": {
+    "lat": 39.3756952,
+    "lon": 8.4300751
+  },
+  "i ciar|ita": {
+    "lat": 45.8473999,
+    "lon": 10.0710109
+  },
+  "iaddinara|ita": {
+    "lat": 36.8804859,
+    "lon": 14.7507612
+  },
+  "iglesias|ita": {
+    "lat": 39.3125402,
+    "lon": 8.5341109
+  },
+  "il covolo|ita": {
+    "lat": 45.9484075,
+    "lon": 11.7278104
+  },
+  "introbio|ita": {
+    "lat": 45.972641,
+    "lon": 9.4530705
+  },
+  "isili|ita": {
+    "lat": 39.7404048,
+    "lon": 9.1085903
+  },
+  "isolaccia|ita": {
+    "lat": 46.4891065,
+    "lon": 10.2951485
+  },
+  "jerzu|ita": {
+    "lat": 39.791151,
+    "lon": 9.518445
+  },
+  "kluan roatwandtl|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "kurtatsch|ita": {
+    "lat": 46.3134726,
+    "lon": 11.2235011
+  },
+  "lagoni|ita": {
+    "lat": 41.5468599,
+    "lon": 14.0326665
+  },
+  "laguna|ita": {
+    "lat": 45.8187083,
+    "lon": 11.8578005
+  },
+  "landro|ita": {
+    "lat": 38.1613367,
+    "lon": 14.9389279
+  },
+  "lariosauro|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "laste|ita": {
+    "lat": 46.4553365,
+    "lon": 11.9728657
+  },
+  "le rocche|ita": {
+    "lat": 43.5902695,
+    "lon": 12.5507774
+  },
+  "le torrette|ita": {
+    "lat": 45.8404175,
+    "lon": 8.0255207
+  },
+  "lecco|ita": {
+    "lat": 45.9005485,
+    "lon": 9.4120248
+  },
+  "leverogne|ita": {
+    "lat": 45.7020417,
+    "lon": 7.1551491
+  },
+  "libro|ita": {
+    "lat": 44.1812272,
+    "lon": 10.7439653
+  },
+  "lomaso|ita": {
+    "lat": 46.0132824,
+    "lon": 10.8693488
+  },
+  "loreto|ita": {
+    "lat": 43.4368052,
+    "lon": 13.6233152
+  },
+  "lumignano|ita": {
+    "lat": 45.45985,
+    "lon": 11.5876371
+  },
+  "maccagno|ita": {
+    "lat": 46.0432626,
+    "lon": 8.7376122
+  },
+  "machaby|ita": {
+    "lat": 45.6336441,
+    "lon": 7.7415526
+  },
+  "maddalena|ita": {
+    "lat": 45.0293003,
+    "lon": 7.3023687
+  },
+  "madonna della rota|ita": {
+    "lat": 45.580819,
+    "lon": 9.2933118
+  },
+  "madonna delle rota|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "mahr|ita": {
+    "lat": 46.6961873,
+    "lon": 11.6419361
+  },
+  "malga ciapela|ita": {
+    "lat": 46.4276747,
+    "lon": 11.9117939
+  },
+  "massi di prabi|ita": {
+    "lat": 45.9273102,
+    "lon": 10.8913022
+  },
+  "masua|ita": {
+    "lat": 39.3314552,
+    "lon": 8.4323177
+  },
+  "menaggio|ita": {
+    "lat": 46.0197842,
+    "lon": 9.2389513
+  },
+  "mezzegra|ita": {
+    "lat": 45.9824822,
+    "lon": 9.2039657
+  },
+  "militi|ita": {
+    "lat": 38.159464,
+    "lon": 15.2053678
+  },
+  "moneta|ita": {
+    "lat": 45.5411172,
+    "lon": 9.4359152
+  },
+  "monsummano|ita": {
+    "lat": 43.8707438,
+    "lon": 10.8140162
+  },
+  "mont carogne|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "montcarogne|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "monte moneta|ita": {
+    "lat": 41.2445258,
+    "lon": 13.4952894
+  },
+  "monte san liberatore|ita": {
+    "lat": 40.6795071,
+    "lon": 14.7299114
+  },
+  "montenero|ita": {
+    "lat": 42.7191293,
+    "lon": 12.4444538
+  },
+  "montestrutto|ita": {
+    "lat": 45.5388577,
+    "lon": 7.837426
+  },
+  "montorfano|ita": {
+    "lat": 45.7854578,
+    "lon": 9.1460789
+  },
+  "monzone|ita": {
+    "lat": 44.1527848,
+    "lon": 10.1299389
+  },
+  "mt dauphine|ita": {
+    "lat": 32.5529406,
+    "lon": -92.6586038
+  },
+  "muzzerone|ita": {
+    "lat": 44.05759,
+    "lon": 9.8271197
+  },
+  "napoleonica|ita": {
+    "lat": 45.6989401,
+    "lon": 13.7407798
+  },
+  "narango|ita": {
+    "lat": 45.8890127,
+    "lon": 10.9206111
+  },
+  "nasswand|ita": {
+    "lat": 46.6702742,
+    "lon": 12.2329972
+  },
+  "noriglio|ita": {
+    "lat": 45.8838773,
+    "lon": 11.0686843
+  },
+  "norma|ita": {
+    "lat": 41.585964,
+    "lon": 12.9744412
+  },
+  "novalesa|ita": {
+    "lat": 45.1896401,
+    "lon": 7.0154982
+  },
+  "olimpo|ita": {
+    "lat": 41.8630074,
+    "lon": 12.5546402
+  },
+  "onore|ita": {
+    "lat": 45.8930281,
+    "lon": 10.0257781
+  },
+  "ormea|ita": {
+    "lat": 44.1488707,
+    "lon": 7.9126065
+  },
+  "ornavasso|ita": {
+    "lat": 45.9620833,
+    "lon": 8.3936243
+  },
+  "orsomarso|ita": {
+    "lat": 39.8001724,
+    "lon": 15.9095285
+  },
+  "osilo|ita": {
+    "lat": 40.744063,
+    "lon": 8.671115
+  },
+  "ozein|ita": {
+    "lat": 45.6773771,
+    "lon": 7.2388823
+  },
+  "paderno|ita": {
+    "lat": 45.5719082,
+    "lon": 9.1682143
+  },
+  "paderno dadda|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "pale|ita": {
+    "lat": 42.9831528,
+    "lon": 12.7751732
+  },
+  "palinuro|ita": {
+    "lat": 40.0346017,
+    "lon": 15.2872624
+  },
+  "palombaio|ita": {
+    "lat": 41.0696504,
+    "lon": 16.6093812
+  },
+  "parete dei militi|ita": {
+    "lat": 45.058939,
+    "lon": 6.6365978
+  },
+  "paretone|ita": {
+    "lat": 44.0025868,
+    "lon": 10.3628244
+  },
+  "pennadomo|ita": {
+    "lat": 42.004834,
+    "lon": 14.324316
+  },
+  "pennapiedimonte|ita": {
+    "lat": 42.1520551,
+    "lon": 14.19476
+  },
+  "perticara|ita": {
+    "lat": 43.9061473,
+    "lon": 12.2405863
+  },
+  "pian bernardo|ita": {
+    "lat": 44.1846718,
+    "lon": 7.9752491
+  },
+  "pian schiavaneis|ita": {
+    "lat": 46.501876,
+    "lon": 11.7937452
+  },
+  "piana|ita": {
+    "lat": 43.1382988,
+    "lon": 12.0090107
+  },
+  "piatta|ita": {
+    "lat": 46.4525981,
+    "lon": 10.3736684
+  },
+  "pietra di bismantova|ita": {
+    "lat": 44.4211553,
+    "lon": 10.414128
+  },
+  "pietragrande|ita": {
+    "lat": 38.7418231,
+    "lon": 16.5574383
+  },
+  "pietrasecca|ita": {
+    "lat": 42.1350644,
+    "lon": 13.1288434
+  },
+  "pont|ita": {
+    "lat": 45.4205265,
+    "lon": 7.5968553
+  },
+  "positano|ita": {
+    "lat": 40.6286581,
+    "lon": 14.4854955
+  },
+  "pradello|ita": {
+    "lat": 46.0434706,
+    "lon": 9.3157837
+  },
+  "predore|ita": {
+    "lat": 45.680784,
+    "lon": 10.014361
+  },
+  "pulo di altamura|ita": {
+    "lat": 40.8900915,
+    "lon": 16.5675244
+  },
+  "punta fiames|ita": {
+    "lat": 46.5759336,
+    "lon": 12.129961
+  },
+  "pursteinwand|ita": {
+    "lat": 46.9130828,
+    "lon": 11.9466644
+  },
+  "quincinetto|ita": {
+    "lat": 45.56296,
+    "lon": 7.807315
+  },
+  "revello|ita": {
+    "lat": 44.6764749,
+    "lon": 7.4206687
+  },
+  "rienztal|ita": {
+    "lat": 46.6333906,
+    "lon": 12.2552084
+  },
+  "ripa majala|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "rocca pendice|ita": {
+    "lat": 45.3534028,
+    "lon": 11.7648471
+  },
+  "roccamorice|ita": {
+    "lat": 42.2134993,
+    "lon": 14.0245894
+  },
+  "roccarina|ita": {
+    "lat": 44.3007664,
+    "lon": 7.4968292
+  },
+  "roncobello|ita": {
+    "lat": 45.9540065,
+    "lon": 9.7587463
+  },
+  "rovereto|ita": {
+    "lat": 45.886548,
+    "lon": 11.0452369
+  },
+  "rupe rossa|ita": {
+    "lat": 40.4941497,
+    "lon": 15.2439831
+  },
+  "s vito lo capo|ita": {
+    "lat": 38.172347,
+    "lon": 12.734932
+  },
+  "salares|ita": {
+    "lat": 46.5456136,
+    "lon": 11.987729
+  },
+  "san giorgio|ita": {
+    "lat": 42.7495189,
+    "lon": 13.0174067
+  },
+  "san pellegrino|ita": {
+    "lat": 42.7576323,
+    "lon": 13.1492171
+  },
+  "san vito lo capo|ita": {
+    "lat": 38.172347,
+    "lon": 12.734932
+  },
+  "san vivaldo|ita": {
+    "lat": 43.524759,
+    "lon": 10.8967951
+  },
+  "sardinia|ita": {
+    "lat": 40.0912813,
+    "lon": 9.0305773
+  },
+  "sass dlacia|ita": {
+    "lat": 46.5545636,
+    "lon": 11.9797164
+  },
+  "sassari|ita": {
+    "lat": 40.7234746,
+    "lon": 8.5612674
+  },
+  "sasso del drago|ita": {
+    "lat": 46.3241562,
+    "lon": 9.4193077
+  },
+  "sasso pelo|ita": {
+    "lat": 46.1602031,
+    "lon": 9.3030257
+  },
+  "sasso remenno|ita": {
+    "lat": 46.2299995,
+    "lon": 9.6351731
+  },
+  "scagiun da lellua|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "scarenna|ita": {
+    "lat": 45.8567614,
+    "lon": 9.2655462
+  },
+  "sella|ita": {
+    "lat": 45.6299206,
+    "lon": 8.0501964
+  },
+  "sennori|ita": {
+    "lat": 40.7894457,
+    "lon": 8.5916589
+  },
+  "sindio|ita": {
+    "lat": -7.1187195,
+    "lon": -34.8676675
+  },
+  "siracusa|ita": {
+    "lat": 37.0315752,
+    "lon": 15.2124277
+  },
+  "somplago|ita": {
+    "lat": 46.3485069,
+    "lon": 13.0679208
+  },
+  "sonnenburg|ita": {
+    "lat": 46.7869242,
+    "lon": 11.8897164
+  },
+  "sora|ita": {
+    "lat": 41.7329181,
+    "lon": 13.5713325
+  },
+  "sottosassa|ita": {
+    "lat": 46.3076471,
+    "lon": 11.6463421
+  },
+  "specchio del grifone|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "sperlonga|ita": {
+    "lat": 41.260212,
+    "lon": 13.433107
+  },
+  "st vigil|ita": {
+    "lat": 46.5417498,
+    "lon": 11.541481
+  },
+  "statte|ita": {
+    "lat": 40.563225,
+    "lon": 17.209799
+  },
+  "stohlwond|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "striature nere|ita": {
+    "lat": 45.145582,
+    "lon": 7.1228269
+  },
+  "subiaco|ita": {
+    "lat": 41.9267153,
+    "lon": 13.0944317
+  },
+  "sulfuria|ita": {
+    "lat": 43.4018723,
+    "lon": 12.9641803
+  },
+  "supino|ita": {
+    "lat": 41.6102092,
+    "lon": 13.224731
+  },
+  "tanarello|ita": {
+    "lat": 44.059978,
+    "lon": 7.7388308
+  },
+  "tenerano|ita": {
+    "lat": 44.1528706,
+    "lon": 10.1028776
+  },
+  "tifata|ita": {
+    "lat": 41.1150643,
+    "lon": 14.2791975
+  },
+  "tobl|ita": {
+    "lat": 46.9191571,
+    "lon": 11.9837291
+  },
+  "toirano|ita": {
+    "lat": 44.1264478,
+    "lon": 8.208862
+  },
+  "tornetti|ita": {
+    "lat": 45.2504819,
+    "lon": 7.3415862
+  },
+  "torrette|ita": {
+    "lat": 44.5827971,
+    "lon": 7.0995825
+  },
+  "traversella|ita": {
+    "lat": 45.508458,
+    "lon": 7.749415
+  },
+  "trento|ita": {
+    "lat": 46.1029536,
+    "lon": 11.1297425
+  },
+  "tridentina|ita": {
+    "lat": 47.0799281,
+    "lon": 12.2064082
+  },
+  "tupalo gaby|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "ulassai|ita": {
+    "lat": 39.810552,
+    "lon": 9.499045
+  },
+  "ullassai|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "unterinn|ita": {
+    "lat": 46.5119624,
+    "lon": 11.4420847
+  },
+  "vaccarese|ita": {
+    "lat": 45.9096326,
+    "lon": 9.4131729
+  },
+  "vaccarezza|ita": {
+    "lat": 44.7916707,
+    "lon": 9.369483
+  },
+  "val di mello|ita": {
+    "lat": 46.2696026,
+    "lon": 9.6751003
+  },
+  "val romana|ita": {
+    "lat": 46.4714844,
+    "lon": 13.6091206
+  },
+  "val rosandra|ita": {
+    "lat": 45.6144592,
+    "lon": 13.858826
+  },
+  "valbrona|ita": {
+    "lat": 45.8810551,
+    "lon": 9.3016314
+  },
+  "valdesi|ita": {
+    "lat": 38.1961728,
+    "lon": 13.3309509
+  },
+  "valganna|ita": {
+    "lat": 45.9022199,
+    "lon": 8.8254492
+  },
+  "valgrisenche|ita": {
+    "lat": 45.6311691,
+    "lon": 7.0647408
+  },
+  "valgua|ita": {
+    "lat": 45.7764439,
+    "lon": 9.7816936
+  },
+  "valle dei laghi|ita": {
+    "lat": 46.0643041,
+    "lon": 10.981255
+  },
+  "valle dei mulini|ita": {
+    "lat": 40.6820584,
+    "lon": 14.5341284
+  },
+  "valle dellorco|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "valle delloro|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "valle santa felicita|ita": {
+    "lat": 45.8131054,
+    "lon": 11.7550419
+  },
+  "vallone di bourcet|ita": {
+    "lat": null,
+    "lon": null
+  },
+  "varana|ita": {
+    "lat": 44.5181616,
+    "lon": 10.984834
+  },
+  "vernante|ita": {
+    "lat": 44.2100745,
+    "lon": 7.50812
+  },
+  "versasio|ita": {
+    "lat": 45.8701025,
+    "lon": 9.429885
+  },
+  "villette|ita": {
+    "lat": 46.1322035,
+    "lon": 8.5353171
+  },
+  "virle|ita": {
+    "lat": 45.5175099,
+    "lon": 10.3362414
+  },
+  "wurzjoch|ita": {
+    "lat": 46.6751109,
+    "lon": 11.8143123
+  },
+  "zoia|ita": {
+    "lat": 46.1746933,
+    "lon": 9.8567909
+  },
+  "wadi rum|jor": {
+    "lat": 29.5084443,
+    "lon": 35.3362154
+  },
+  "thakhek|lao": {
+    "lat": 17.3946183,
+    "lon": 104.8064526
+  },
+  "vang vieng|lao": {
+    "lat": 18.9538961,
+    "lon": 102.4563909
+  },
+  "berdorf|lux": {
+    "lat": 49.8210345,
+    "lon": 6.3560653
+  },
+  "caiat|mar": {
+    "lat": 35.2671812,
+    "lon": -5.2336145
+  },
+  "todra|mar": {
+    "lat": 31.6238037,
+    "lon": -7.9863544
+  },
+  "actopan|mex": {
+    "lat": 19.5609208,
+    "lon": -96.5291228
+  },
+  "aculco|mex": {
+    "lat": 20.1358065,
+    "lon": -99.8274673
+  },
+  "aguacatitlan|mex": {
+    "lat": 17.978611,
+    "lon": -98.333889
+  },
+  "ajusco|mex": {
+    "lat": 19.2072772,
+    "lon": -99.2580852
+  },
+  "arenal|mex": {
+    "lat": 20.2511,
+    "lon": -97.5156
+  },
+  "bernal|mex": {
+    "lat": 20.7389779,
+    "lon": -99.9410797
+  },
+  "bufa|mex": {
+    "lat": 20.9929998,
+    "lon": -101.2521789
+  },
+  "calixtlahuaca|mex": {
+    "lat": 19.3343316,
+    "lon": -99.6889279
+  },
+  "canada del gigante|mex": {
+    "lat": 21.0838894,
+    "lon": -101.6334687
+  },
+  "cantil|mex": {
+    "lat": 20.4398546,
+    "lon": -97.0859571
+  },
+  "chiquilistlan|mex": {
+    "lat": 20.0801076,
+    "lon": -103.8815785
+  },
+  "chonta|mex": {
+    "lat": 18.6481817,
+    "lon": -99.5237426
+  },
+  "cuajo|mex": {
+    "lat": 17.436111,
+    "lon": -101.195833
+  },
+  "cuarto y medio|mex": {
+    "lat": 41.7221721,
+    "lon": 0.2023442
+  },
+  "cueva|mex": {
+    "lat": 15.2067118,
+    "lon": -92.1731512
+  },
+  "culo de gato|mex": {
+    "lat": null,
+    "lon": null
+  },
+  "diente|mex": {
+    "lat": 24.5260758,
+    "lon": -98.9551234
+  },
+  "dinamos|mex": {
+    "lat": 19.299869,
+    "lon": -99.2500285
+  },
+  "escalon|mex": {
+    "lat": 21.0025,
+    "lon": -103.424444
+  },
+  "guadalcazar|mex": {
+    "lat": 22.9009999,
+    "lon": -100.2957141
+  },
+  "hidro|mex": {
+    "lat": 25.7553509,
+    "lon": -100.2484597
+  },
+  "huasteca|mex": {
+    "lat": 19.4743339,
+    "lon": -99.1245531
+  },
+  "ixcatan|mex": {
+    "lat": 20.8605859,
+    "lon": -103.3418064
+  },
+  "jilotepec|mex": {
+    "lat": 20.0169568,
+    "lon": -99.6281796
+  },
+  "masha|mex": {
+    "lat": 20.6901212,
+    "lon": -88.2116276
+  },
+  "pena de bernal|mex": {
+    "lat": 20.7496017,
+    "lon": -99.9458978
+  },
+  "penon de los camachos|mex": {
+    "lat": null,
+    "lon": null
+  },
+  "pericos|mex": {
+    "lat": 25.0822556,
+    "lon": -107.701829
+  },
+  "plutonia|mex": {
+    "lat": 52.4952945,
+    "lon": 13.4449023
+  },
+  "potrero chico|mex": {
+    "lat": 25.6810114,
+    "lon": -100.4362522
+  },
+  "primer dinamo|mex": {
+    "lat": 19.288215,
+    "lon": -99.2640931
+  },
+  "remedios|mex": {
+    "lat": 20.531389,
+    "lon": -99.310556
+  },
+  "salto|mex": {
+    "lat": 17.0669143,
+    "lon": -96.7165363
+  },
+  "segundo dinamo|mex": {
+    "lat": 19.2841722,
+    "lon": -99.2744082
+  },
+  "tapias viejas|mex": {
+    "lat": 21.8478242,
+    "lon": -102.5358428
+  },
+  "virgin canyon|mex": {
+    "lat": 36.9123448,
+    "lon": -113.9414644
+  },
+  "weekend wall|mex": {
+    "lat": null,
+    "lon": null
+  },
+  "wekkend wall|mex": {
+    "lat": null,
+    "lon": null
+  },
+  "yagul|mex": {
+    "lat": 17.0560353,
+    "lon": -96.7338041
+  },
+  "zabaleta lajitas|mex": {
+    "lat": null,
+    "lon": null
+  },
+  "demir kapija|mkd": {
+    "lat": 41.4087136,
+    "lon": 22.2418571
+  },
+  "kadina|mkd": {
+    "lat": -33.9647842,
+    "lon": 137.7158969
+  },
+  "mavrovo|mkd": {
+    "lat": 41.0298074,
+    "lon": 21.3272375
+  },
+  "ghar lapsi|mlt": {
+    "lat": 35.8268645,
+    "lon": 14.4234201
+  },
+  "san blas|mlt": {
+    "lat": 9.1875975,
+    "lon": -77.8713723
+  },
+  "victoria lines|mlt": {
+    "lat": 35.9035435,
+    "lon": 14.3773594
+  },
+  "wied babu|mlt": {
+    "lat": 35.8243351,
+    "lon": 14.4602175
+  },
+  "wied il mielah|mlt": {
+    "lat": 36.0726696,
+    "lon": 14.2100659
+  },
+  "calders|msr": {
+    "lat": 41.7892144,
+    "lon": 1.9916386
+  },
+  "moia|msr": {
+    "lat": 41.8130391,
+    "lon": 2.0978412
+  },
+  "montserrat|msr": {
+    "lat": 16.7417041,
+    "lon": -62.1916844
+  },
+  "bomal|nld": {
+    "lat": 50.3761975,
+    "lon": 5.5229647
+  },
+  "buoux|nld": {
+    "lat": 43.8312883,
+    "lon": 5.3776276
+  },
+  "baugen|nor": {
+    "lat": 62.0904653,
+    "lon": 10.6212183
+  },
+  "beachen|nor": {
+    "lat": 61.8763145,
+    "lon": 6.7731077
+  },
+  "bersagel|nor": {
+    "lat": 58.9316959,
+    "lon": 5.968824
+  },
+  "btteveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "bymuren|nor": {
+    "lat": 55.6293556,
+    "lon": 12.4424278
+  },
+  "dale|nor": {
+    "lat": 59.914515,
+    "lon": 10.7368523
+  },
+  "damtjern|nor": {
+    "lat": 60.1261905,
+    "lon": 10.4151408
+  },
+  "den hemmelige veggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "drmmehagen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "egumm|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "ekne|nor": {
+    "lat": 63.6961661,
+    "lon": 11.042709
+  },
+  "ersfjord|nor": {
+    "lat": 69.6944118,
+    "lon": 18.6208344
+  },
+  "espedalen|nor": {
+    "lat": 61.2680408,
+    "lon": 5.3262789
+  },
+  "fetsund|nor": {
+    "lat": 59.9270625,
+    "lon": 11.1623481
+  },
+  "flatanger|nor": {
+    "lat": 64.5290919,
+    "lon": 10.6226784
+  },
+  "furunkulose|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "gjkeredet|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "hammern|nor": {
+    "lat": 59.1602548,
+    "lon": 11.1127859
+  },
+  "hank|nor": {
+    "lat": 61.1272955,
+    "lon": 11.3489906
+  },
+  "hauktjern|nor": {
+    "lat": 59.8940649,
+    "lon": 10.8857372
+  },
+  "hell|nor": {
+    "lat": 63.4449171,
+    "lon": 10.9127178
+  },
+  "hellen festning|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "helleneset|nor": {
+    "lat": 61.4553188,
+    "lon": 5.4823522
+  },
+  "hellerud|nor": {
+    "lat": 59.9100673,
+    "lon": 10.8298389
+  },
+  "hesteveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "hjallaveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "husvik|nor": {
+    "lat": 59.2521787,
+    "lon": 10.4735623
+  },
+  "hvalsberget|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "hvitebjrnasen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "hyggen|nor": {
+    "lat": 59.7163677,
+    "lon": 10.3691838
+  },
+  "jarlsberget|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "karst|nor": {
+    "lat": 60.2569533,
+    "lon": 10.671948
+  },
+  "kilen|nor": {
+    "lat": 78.7439852,
+    "lon": 16.1076715
+  },
+  "kolsas|nor": {
+    "lat": 59.9140604,
+    "lon": 10.5017133
+  },
+  "krabbeveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "kvam|nor": {
+    "lat": 64.1400117,
+    "lon": 11.7392779
+  },
+  "lahell|nor": {
+    "lat": 59.7273497,
+    "lon": 10.3140204
+  },
+  "leirvik|nor": {
+    "lat": 59.7809398,
+    "lon": 5.5005712
+  },
+  "lier|nor": {
+    "lat": 59.8453135,
+    "lon": 10.2115525
+  },
+  "lkenhavna|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "loddefjord|nor": {
+    "lat": 60.361483,
+    "lon": 5.2331114
+  },
+  "lofoten|nor": {
+    "lat": 60.5112045,
+    "lon": 5.5375292
+  },
+  "maurholen|nor": {
+    "lat": 58.4701769,
+    "lon": 5.9195997
+  },
+  "mekka|nor": {
+    "lat": 21.420847,
+    "lon": 39.826869
+  },
+  "missingmyr|nor": {
+    "lat": 59.3467209,
+    "lon": 10.9369866
+  },
+  "missiveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "mokollen|nor": {
+    "lat": 59.680264,
+    "lon": 9.518734
+  },
+  "mtteveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "muserud|nor": {
+    "lat": 59.7305139,
+    "lon": 10.366262
+  },
+  "neseveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "norangsdalen|nor": {
+    "lat": 62.1440127,
+    "lon": 6.7470734
+  },
+  "oksasen|nor": {
+    "lat": 61.1316039,
+    "lon": 11.4261156
+  },
+  "oltedal|nor": {
+    "lat": 58.8274088,
+    "lon": 6.0362828
+  },
+  "pianokrakken|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "piratbukta|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "reachen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "reskjem|nor": {
+    "lat": 59.5455771,
+    "lon": 9.0969793
+  },
+  "rjukan|nor": {
+    "lat": 59.8786976,
+    "lon": 8.5941579
+  },
+  "rolvsy|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "sageveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "sandbakken|nor": {
+    "lat": 59.2450889,
+    "lon": 11.1931611
+  },
+  "sandmlen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "sandviken|nor": {
+    "lat": 60.4109022,
+    "lon": 5.3056623
+  },
+  "sdalen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "selnes|nor": {
+    "lat": 64.4308121,
+    "lon": 11.413585
+  },
+  "selvagen|nor": {
+    "lat": 66.0300458,
+    "lon": 12.8767419
+  },
+  "signalen|nor": {
+    "lat": 62.5144224,
+    "lon": 6.1119146
+  },
+  "sirekrok|nor": {
+    "lat": 58.9980082,
+    "lon": 6.9011318
+  },
+  "sjsvaet|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "skogshorn|nor": {
+    "lat": 60.8815026,
+    "lon": 8.6948374
+  },
+  "slettafossen|nor": {
+    "lat": 62.3245243,
+    "lon": 8.0778253
+  },
+  "srkedalen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "stetind|nor": {
+    "lat": 68.0990325,
+    "lon": 16.3903589
+  },
+  "stryn|nor": {
+    "lat": 61.8218058,
+    "lon": 6.8029685
+  },
+  "sykehusveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "sylty|nor": {
+    "lat": 52.251295,
+    "lon": 72.9226633
+  },
+  "trellskar|nor": {
+    "lat": 58.9487159,
+    "lon": 6.0108399
+  },
+  "trollveggen|nor": {
+    "lat": 62.4829997,
+    "lon": 7.7216888
+  },
+  "tury|nor": {
+    "lat": 52.19909,
+    "lon": 18.46525
+  },
+  "urdviki|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "uteveggen|nor": {
+    "lat": null,
+    "lon": null
+  },
+  "vardasen|nor": {
+    "lat": 59.8140168,
+    "lon": 10.4141995
+  },
+  "ytre lahell|nor": {
+    "lat": 59.7343448,
+    "lon": 10.3118953
+  },
+  "bayleys|nzl": {
+    "lat": -36.8450274,
+    "lon": 174.7563806
+  },
+  "bayleys rd|nzl": {
+    "lat": -43.816905,
+    "lon": 172.6211132
+  },
+  "britten crags|nzl": {
+    "lat": null,
+    "lon": null
+  },
+  "castle rock|nzl": {
+    "lat": -38.1308736,
+    "lon": 175.5204652
+  },
+  "cave|nzl": {
+    "lat": -43.7511536,
+    "lon": 173.0146209
+  },
+  "cleddau valley|nzl": {
+    "lat": null,
+    "lon": null
+  },
+  "cledday valley|nzl": {
+    "lat": null,
+    "lon": null
+  },
+  "creese wall|nzl": {
+    "lat": -40.8839719,
+    "lon": 172.8113973
+  },
+  "froggatt edge|nzl": {
+    "lat": -38.1567075,
+    "lon": 175.5240418
+  },
+  "hanging rock|nzl": {
+    "lat": -44.1972402,
+    "lon": 171.0210374
+  },
+  "kawakawa bay|nzl": {
+    "lat": -36.9481145,
+    "lon": 175.168965
+  },
+  "long beach|nzl": {
+    "lat": -45.756629,
+    "lon": 170.6445687
+  },
+  "mangaokewa|nzl": {
+    "lat": -38.3153415,
+    "lon": 175.1463497
+  },
+  "mapoutahi|nzl": {
+    "lat": -45.734687,
+    "lon": 170.6174023
+  },
+  "mt eden quarry|nzl": {
+    "lat": -36.8705503,
+    "lon": 174.7658697
+  },
+  "paynes ford|nzl": {
+    "lat": -40.8848358,
+    "lon": 172.8115497
+  },
+  "plateau|nzl": {
+    "lat": -41.10232,
+    "lon": 175.149769
+  },
+  "pohara|nzl": {
+    "lat": -40.8333822,
+    "lon": 172.8847131
+  },
+  "ti point|nzl": {
+    "lat": -36.3161632,
+    "lon": 174.7875062
+  },
+  "titahi bay|nzl": {
+    "lat": -41.1086925,
+    "lon": 174.8374978
+  },
+  "wahnganui bay|nzl": {
+    "lat": null,
+    "lon": null
+  },
+  "waipapa|nzl": {
+    "lat": -38.286547,
+    "lon": 175.6867887
+  },
+  "wanaka|nzl": {
+    "lat": -44.7118303,
+    "lon": 169.1363883
+  },
+  "whanganui bay|nzl": {
+    "lat": -38.7824789,
+    "lon": 175.7336637
+  },
+  "wye creek|nzl": {
+    "lat": -45.1418141,
+    "lon": 168.7702117
+  },
+  "camacho|per": {
+    "lat": -7.8842971,
+    "lon": -40.1876627
+  },
+  "canchacalla|per": {
+    "lat": -11.8445161,
+    "lon": -76.5314406
+  },
+  "hatun machay|per": {
+    "lat": -10.096624,
+    "lon": -77.3490541
+  },
+  "vinas|per": {
+    "lat": 41.7909353,
+    "lon": -6.4596252
+  },
+  "yuracmayo|per": {
+    "lat": -11.8374713,
+    "lon": -76.1587975
+  },
+  "cantabaco|phl": {
+    "lat": 10.3073417,
+    "lon": 123.7293842
+  },
+  "abajowa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "adept|pol": {
+    "lat": 50.4540468,
+    "lon": 19.5549539
+  },
+  "apteka|pol": {
+    "lat": 50.562475,
+    "lon": 19.5206004
+  },
+  "baba|pol": {
+    "lat": 53.27976,
+    "lon": 21.58871
+  },
+  "babel|pol": {
+    "lat": 50.0546504,
+    "lon": 19.9354554
+  },
+  "baszta|pol": {
+    "lat": 51.1677964,
+    "lon": 23.3481425
+  },
+  "biedruniowa|pol": {
+    "lat": 50.6789073,
+    "lon": 19.3409058
+  },
+  "birow|pol": {
+    "lat": 50.464263,
+    "lon": 19.5507932
+  },
+  "bliznieta|pol": {
+    "lat": 50.164856,
+    "lon": 19.7650352
+  },
+  "bolechowice|pol": {
+    "lat": 52.6587254,
+    "lon": 19.7746263
+  },
+  "boniek|pol": {
+    "lat": 50.7287514,
+    "lon": 19.2695082
+  },
+  "borowy jar|pol": {
+    "lat": 50.9169756,
+    "lon": 15.712698
+  },
+  "brandysowa|pol": {
+    "lat": 50.1727717,
+    "lon": 19.7373327
+  },
+  "chorobliwa gran|pol": {
+    "lat": 50.1651294,
+    "lon": 19.7651293
+  },
+  "cmentarzysko|pol": {
+    "lat": 50.1744535,
+    "lon": 19.7437406
+  },
+  "cycowka|pol": {
+    "lat": 49.4565622,
+    "lon": 20.7038404
+  },
+  "cyrk iii|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "czarnorzeki|pol": {
+    "lat": 49.7460128,
+    "lon": 21.8027168
+  },
+  "czarny kot|pol": {
+    "lat": 50.6684697,
+    "lon": 19.3887824
+  },
+  "czasnorzeki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "czwarta grzeda|pol": {
+    "lat": 50.6153156,
+    "lon": 19.4810147
+  },
+  "diabelskie mosty|pol": {
+    "lat": 50.6832251,
+    "lon": 19.4102723
+  },
+  "dluga gran|pol": {
+    "lat": 50.5725264,
+    "lon": 19.5286119
+  },
+  "dolina bedkowska|pol": {
+    "lat": 50.179014,
+    "lon": 19.7495294
+  },
+  "dolina bolechowicka|pol": {
+    "lat": 50.1528584,
+    "lon": 19.7846212
+  },
+  "dolina brzoskwinki|pol": {
+    "lat": 50.0853944,
+    "lon": 19.7294473
+  },
+  "dolina czubrowicka|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolina garliczki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolina kamiennej|pol": {
+    "lat": 50.8290974,
+    "lon": 15.4516119
+  },
+  "dolina kluczwody|pol": {
+    "lat": 50.1621285,
+    "lon": 19.8219025
+  },
+  "dolina kobylanska|pol": {
+    "lat": 50.1502786,
+    "lon": 19.7618102
+  },
+  "dolina nielepicka|pol": {
+    "lat": 50.104857,
+    "lon": 19.7012887
+  },
+  "dolina porzeczki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolina pradnika|pol": {
+    "lat": 50.104904,
+    "lon": 19.9331874
+  },
+  "dolina racawki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolina raclawki|pol": {
+    "lat": 50.169343,
+    "lon": 19.6833546
+  },
+  "dolina sanki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolina szklarki|pol": {
+    "lat": 50.1894945,
+    "lon": 19.7236458
+  },
+  "dolina wedonki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolina wiercicy|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dolszklarki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "dupa slonia|pol": {
+    "lat": 50.1758228,
+    "lon": 19.7430291
+  },
+  "dziewczynka|pol": {
+    "lat": 50.2066114,
+    "lon": 19.726013
+  },
+  "dziurki|pol": {
+    "lat": 49.7247912,
+    "lon": 20.126208
+  },
+  "dzwon|pol": {
+    "lat": 49.7412475,
+    "lon": 21.8228569
+  },
+  "eigerek|pol": {
+    "lat": 49.7425488,
+    "lon": 21.7850891
+  },
+  "fiala|pol": {
+    "lat": 50.2028496,
+    "lon": 19.7642673
+  },
+  "filar abazego|pol": {
+    "lat": 50.152783,
+    "lon": 19.7851332
+  },
+  "filar centralny|pol": {
+    "lat": 49.7436514,
+    "lon": 21.8187815
+  },
+  "filar obok garazu|pol": {
+    "lat": 50.1564063,
+    "lon": 19.7551563
+  },
+  "filarek obok garazu|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "garliczka|pol": {
+    "lat": 50.1561953,
+    "lon": 19.9142277
+  },
+  "golebnik|pol": {
+    "lat": 50.8602376,
+    "lon": 15.7439261
+  },
+  "gora biako|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "gora birow|pol": {
+    "lat": 50.464263,
+    "lon": 19.5507932
+  },
+  "gora kooczek|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "gory towarne|pol": {
+    "lat": 50.7661573,
+    "lon": 19.2699141
+  },
+  "grochowiec|pol": {
+    "lat": 53.4235795,
+    "lon": 17.5374086
+  },
+  "hokejka|pol": {
+    "lat": 49.7437841,
+    "lon": 21.8199403
+  },
+  "januszkowa gora|pol": {
+    "lat": 50.308499,
+    "lon": 19.6168256
+  },
+  "januszowice|pol": {
+    "lat": 50.3719576,
+    "lon": 20.387496
+  },
+  "jaroniec|pol": {
+    "lat": 49.2753311,
+    "lon": 19.8570527
+  },
+  "jaskolka|pol": {
+    "lat": 51.5625107,
+    "lon": 18.5789242
+  },
+  "jastrzebnik|pol": {
+    "lat": 52.0303394,
+    "lon": 20.7182422
+  },
+  "jebel|pol": {
+    "lat": 50.1890163,
+    "lon": 19.7683669
+  },
+  "jura|pol": {
+    "lat": 49.83928,
+    "lon": 21.12453
+  },
+  "kacza skaa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "kacza skala|pol": {
+    "lat": 50.6688779,
+    "lon": 19.4372875
+  },
+  "kalcytowa|pol": {
+    "lat": 50.8316887,
+    "lon": 20.424342
+  },
+  "kamieniec|pol": {
+    "lat": 50.457298,
+    "lon": 16.549226
+  },
+  "kapitan garliczka|pol": {
+    "lat": 50.1577577,
+    "lon": 19.9198642
+  },
+  "karkonosze|pol": {
+    "lat": 50.7764504,
+    "lon": 15.6052733
+  },
+  "karlin|pol": {
+    "lat": 51.4704457,
+    "lon": 19.6595731
+  },
+  "karpacz|pol": {
+    "lat": 50.7747485,
+    "lon": 15.7542035
+  },
+  "kazalnica suliszowicka|pol": {
+    "lat": 50.665762,
+    "lon": 19.3596216
+  },
+  "koloczek|pol": {
+    "lat": 50.9941957,
+    "lon": 17.9444785
+  },
+  "kreta|pol": {
+    "lat": 53.0266667,
+    "lon": 22.8322223
+  },
+  "krowia turnia|pol": {
+    "lat": 49.742273,
+    "lon": 21.7844088
+  },
+  "kruk|pol": {
+    "lat": 50.6396039,
+    "lon": 20.3787749
+  },
+  "kula|pol": {
+    "lat": 54.0594444,
+    "lon": 17.8455556
+  },
+  "kursowa|pol": {
+    "lat": 50.4284547,
+    "lon": 19.6744287
+  },
+  "kursowa ii|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "kursowa iii|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "ladek zdroj|pol": {
+    "lat": 50.3458254,
+    "lon": 16.8725948
+  },
+  "lechwor|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "lesna turnia|pol": {
+    "lat": 50.1994926,
+    "lon": 19.7345188
+  },
+  "lotniki|pol": {
+    "lat": 50.1656247,
+    "lon": 19.763981
+  },
+  "lutowiec|pol": {
+    "lat": 50.627276,
+    "lon": 19.4503727
+  },
+  "madej|pol": {
+    "lat": 50.7391667,
+    "lon": 20.9625
+  },
+  "migdakowa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "migdalkowa|pol": {
+    "lat": 50.1592481,
+    "lon": 19.7419373
+  },
+  "mirow|pol": {
+    "lat": 50.6147285,
+    "lon": 19.468112
+  },
+  "mirow nad warta|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "mlynarz|pol": {
+    "lat": 50.5830556,
+    "lon": 16.4530556
+  },
+  "mnich|pol": {
+    "lat": 49.8875947,
+    "lon": 18.8091792
+  },
+  "morsko|pol": {
+    "lat": 50.5416892,
+    "lon": 19.501762
+  },
+  "muminek|pol": {
+    "lat": 50.2004594,
+    "lon": 19.7251039
+  },
+  "niedzwiedz|pol": {
+    "lat": 53.83889,
+    "lon": 20.81536
+  },
+  "nielepice|pol": {
+    "lat": 50.1086797,
+    "lon": 19.7029789
+  },
+  "obelisk|pol": {
+    "lat": 50.1638068,
+    "lon": 19.7654731
+  },
+  "oblazowa|pol": {
+    "lat": 49.4289781,
+    "lon": 20.1265072
+  },
+  "ogrodzieniec|pol": {
+    "lat": 50.4521463,
+    "lon": 19.5213629
+  },
+  "okiennik wielki|pol": {
+    "lat": 50.5240724,
+    "lon": 19.522835
+  },
+  "olkusz|pol": {
+    "lat": 50.2788158,
+    "lon": 19.5596307
+  },
+  "olsztyn|pol": {
+    "lat": 53.776644,
+    "lon": 20.4777531
+  },
+  "ostatnia|pol": {
+    "lat": 50.2063044,
+    "lon": 19.7259053
+  },
+  "ostra turniczka|pol": {
+    "lat": 50.1524819,
+    "lon": 19.7848555
+  },
+  "ostreznik|pol": {
+    "lat": 50.674888,
+    "lon": 19.4005016
+  },
+  "ostrysznia|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "pazurek|pol": {
+    "lat": 50.33459,
+    "lon": 19.64107
+  },
+  "petwa|pol": {
+    "lat": 48.2326841,
+    "lon": 16.3681386
+  },
+  "piaseczno|pol": {
+    "lat": 52.0747377,
+    "lon": 21.0270885
+  },
+  "pielgrzym|pol": {
+    "lat": 50.7300019,
+    "lon": 19.2696308
+  },
+  "piramidki|pol": {
+    "lat": 49.7436929,
+    "lon": 21.819156
+  },
+  "plemnik|pol": {
+    "lat": 49.7439573,
+    "lon": 21.8212083
+  },
+  "pochylec|pol": {
+    "lat": 50.2265087,
+    "lon": 19.8307078
+  },
+  "podlesice|pol": {
+    "lat": 50.5647678,
+    "lon": 19.534455
+  },
+  "podzamcze|pol": {
+    "lat": 50.4539826,
+    "lon": 19.5479615
+  },
+  "polozna|pol": {
+    "lat": 50.0837643,
+    "lon": 19.7292671
+  },
+  "ponton|pol": {
+    "lat": 50.7280255,
+    "lon": 19.2700254
+  },
+  "popielarka|pol": {
+    "lat": 52.9211852,
+    "lon": 21.1166875
+  },
+  "porzeczki|pol": {
+    "lat": 52.2416136,
+    "lon": 21.3714411
+  },
+  "przelom bialki|pol": {
+    "lat": 49.4283979,
+    "lon": 20.124188
+  },
+  "przeom biaki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "przewodziszowice|pol": {
+    "lat": 50.6404393,
+    "lon": 19.3832088
+  },
+  "przydrozna skala|pol": {
+    "lat": 50.3999949,
+    "lon": 19.4346481
+  },
+  "ptak|pol": {
+    "lat": 49.2279283,
+    "lon": 20.0450426
+  },
+  "ptasia turnia|pol": {
+    "lat": 50.2005171,
+    "lon": 19.7248819
+  },
+  "pytajnik|pol": {
+    "lat": 50.1666508,
+    "lon": 19.7425657
+  },
+  "pytajniki|pol": {
+    "lat": 50.1665427,
+    "lon": 19.7424778
+  },
+  "rogata gran|pol": {
+    "lat": 50.1670202,
+    "lon": 19.7424649
+  },
+  "roznow|pol": {
+    "lat": 49.7755401,
+    "lon": 20.7020173
+  },
+  "rudawy|pol": {
+    "lat": 49.9502778,
+    "lon": 19.905
+  },
+  "rudawy janowickie|pol": {
+    "lat": 50.835485,
+    "lon": 15.9216299
+  },
+  "ryczow|pol": {
+    "lat": 50.4233556,
+    "lon": 19.5902156
+  },
+  "rzedkowice|pol": {
+    "lat": 50.5682337,
+    "lon": 19.4816731
+  },
+  "sakoliki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "sarni murek|pol": {
+    "lat": 49.7401586,
+    "lon": 21.8202692
+  },
+  "scianka rozrywkowa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "scieszkow gron|pol": {
+    "lat": 49.7491667,
+    "lon": 19.2991667
+  },
+  "sepia|pol": {
+    "lat": 50.6683591,
+    "lon": 17.9245951
+  },
+  "sepia baszta|pol": {
+    "lat": 50.1647771,
+    "lon": 19.7652137
+  },
+  "skaa nad zrodem|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "skalki ladeckie|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "skalna brama|pol": {
+    "lat": 50.8197409,
+    "lon": 15.4712781
+  },
+  "skalny mur|pol": {
+    "lat": 50.1612493,
+    "lon": 19.7644701
+  },
+  "skarzyce|pol": {
+    "lat": 52.6523295,
+    "lon": 20.9748739
+  },
+  "skay morskie|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "skotnicowa|pol": {
+    "lat": 50.2320619,
+    "lon": 19.6989724
+  },
+  "sloneczna turnia|pol": {
+    "lat": 50.1654939,
+    "lon": 19.7637925
+  },
+  "sloneczne skaly|pol": {
+    "lat": 50.2047869,
+    "lon": 19.7281969
+  },
+  "smolen|pol": {
+    "lat": 50.438944,
+    "lon": 19.6791135
+  },
+  "sokole gory|pol": {
+    "lat": 50.7193932,
+    "lon": 19.275596
+  },
+  "sokolik|pol": {
+    "lat": 50.8697854,
+    "lon": 15.8698772
+  },
+  "sokoliki|pol": {
+    "lat": 49.0946213,
+    "lon": 22.8874178
+  },
+  "soneczna turnia|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "soneczne|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "soneczne skay|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "stokowka|pol": {
+    "lat": 50.8321557,
+    "lon": 20.4242207
+  },
+  "strzegowa|pol": {
+    "lat": 50.4283628,
+    "lon": 19.7005179
+  },
+  "strzelnica|pol": {
+    "lat": 50.5800581,
+    "lon": 21.1469764
+  },
+  "studnisko|pol": {
+    "lat": 51.0291747,
+    "lon": 21.9035537
+  },
+  "suliszowice|pol": {
+    "lat": 50.6738896,
+    "lon": 19.3588422
+  },
+  "suloszowa|pol": {
+    "lat": 50.2672276,
+    "lon": 19.7330471
+  },
+  "suoszowa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "szafa|pol": {
+    "lat": 49.2229803,
+    "lon": 20.0155175
+  },
+  "szara pyta|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "szczytnik|pol": {
+    "lat": 50.4761448,
+    "lon": 20.884525
+  },
+  "szeroka turnia|pol": {
+    "lat": 50.1651852,
+    "lon": 19.7645395
+  },
+  "szklarska poreba|pol": {
+    "lat": 50.8142837,
+    "lon": 15.4544967
+  },
+  "tatry|pol": {
+    "lat": 49.2401648,
+    "lon": 19.93595
+  },
+  "trzebinow|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "trzebniow|pol": {
+    "lat": 50.6631958,
+    "lon": 19.4358883
+  },
+  "trzy siostry|pol": {
+    "lat": 50.6147838,
+    "lon": 19.4795445
+  },
+  "turnia dlugosza|pol": {
+    "lat": 50.1571339,
+    "lon": 19.756077
+  },
+  "turnia dugosza|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "turnia kursantow|pol": {
+    "lat": 50.5725062,
+    "lon": 19.4925248
+  },
+  "turnia lechwora|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "turnia marcinkiewicza|pol": {
+    "lat": 50.1561088,
+    "lon": 19.7547348
+  },
+  "turnia nad obozem|pol": {
+    "lat": 50.4646277,
+    "lon": 19.5509059
+  },
+  "turnia z krokiem|pol": {
+    "lat": 50.1568506,
+    "lon": 19.7555823
+  },
+  "tyniec|pol": {
+    "lat": 50.0157359,
+    "lon": 19.8090243
+  },
+  "utowiec|pol": {
+    "lat": 55.5894402,
+    "lon": 26.6493936
+  },
+  "wadowickie piachy|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "wawoz ostryszni|pol": {
+    "lat": 50.3105467,
+    "lon": 19.8564086
+  },
+  "wawoz podskalanski|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "wawoz polrzeczki|pol": {
+    "lat": 50.076414,
+    "lon": 19.7058979
+  },
+  "wawoz porzeczki|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "wielblad|pol": {
+    "lat": 50.0162133,
+    "lon": 18.3690526
+  },
+  "wielki mlynarz|pol": {
+    "lat": 50.5732586,
+    "lon": 19.5280609
+  },
+  "wielki okap|pol": {
+    "lat": 49.7436089,
+    "lon": 21.8186295
+  },
+  "wronia baszta|pol": {
+    "lat": 50.1620447,
+    "lon": 19.7653297
+  },
+  "wysoka|pol": {
+    "lat": 53.1829333,
+    "lon": 17.0797137
+  },
+  "zakrzowek|pol": {
+    "lat": 51.8025753,
+    "lon": 21.9421422
+  },
+  "zapytajnik|pol": {
+    "lat": 50.1668384,
+    "lon": 19.7424701
+  },
+  "zastudnie|pol": {
+    "lat": 50.1207918,
+    "lon": 19.6739972
+  },
+  "zielona gora|pol": {
+    "lat": 51.9275737,
+    "lon": 15.5490421
+  },
+  "zjazdowa turnia|pol": {
+    "lat": 50.1570182,
+    "lon": 19.7559623
+  },
+  "zmijowa|pol": {
+    "lat": 49.7671185,
+    "lon": 19.5486236
+  },
+  "zmijowa petwa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "zmijowa skaa|pol": {
+    "lat": null,
+    "lon": null
+  },
+  "zmijowe|pol": {
+    "lat": 50.0847743,
+    "lon": 19.7286215
+  },
+  "zreb|pol": {
+    "lat": 50.0841511,
+    "lon": 19.7292505
+  },
+  "zurowa|pol": {
+    "lat": 49.8259825,
+    "lon": 21.1690449
+  },
+  "bayamon ii|pri": {
+    "lat": 18.372276,
+    "lon": -66.1909185
+  },
+  "albufeira|prt": {
+    "lat": 37.088241,
+    "lon": -8.2526339
+  },
+  "azoia|prt": {
+    "lat": 38.7764649,
+    "lon": -9.4812519
+  },
+  "buracas|prt": {
+    "lat": 40.0453964,
+    "lon": -8.4958477
+  },
+  "cabo da roca|prt": {
+    "lat": 38.7809045,
+    "lon": -9.4994163
+  },
+  "caramulinho|prt": {
+    "lat": 40.5472672,
+    "lon": -8.2020536
+  },
+  "caramulo|prt": {
+    "lat": 40.5723037,
+    "lon": -8.1668801
+  },
+  "escusa|prt": {
+    "lat": 41.8351138,
+    "lon": -8.6646619
+  },
+  "escusa caleiras de cima|prt": {
+    "lat": null,
+    "lon": null
+  },
+  "fenda|prt": {
+    "lat": 38.4799005,
+    "lon": -8.9831978
+  },
+  "fojo|prt": {
+    "lat": 42.0081917,
+    "lon": -8.2560979
+  },
+  "guia|prt": {
+    "lat": 37.1270278,
+    "lon": -8.2996371
+  },
+  "meio mango|prt": {
+    "lat": null,
+    "lon": null
+  },
+  "montejunto|prt": {
+    "lat": 39.173358,
+    "lon": -9.0485936
+  },
+  "pafarrao|prt": {
+    "lat": 39.5529226,
+    "lon": -8.5645077
+  },
+  "penedo barroco|prt": {
+    "lat": 40.0838851,
+    "lon": -7.7535643
+  },
+  "penedo da amizade|prt": {
+    "lat": 38.7923552,
+    "lon": -9.3912778
+  },
+  "penha garcia|prt": {
+    "lat": 40.0422569,
+    "lon": -7.0163521
+  },
+  "poios|prt": {
+    "lat": 39.9897137,
+    "lon": -8.559604
+  },
+  "poios velho|prt": {
+    "lat": null,
+    "lon": null
+  },
+  "redinha|prt": {
+    "lat": 40.0048219,
+    "lon": -8.5852453
+  },
+  "reguengo do fetal|prt": {
+    "lat": 39.6401496,
+    "lon": -8.7631615
+  },
+  "sagres|prt": {
+    "lat": 37.0078288,
+    "lon": -8.941924
+  },
+  "senhora do salto|prt": {
+    "lat": 41.1283055,
+    "lon": -8.433502
+  },
+  "serra de passos|prt": {
+    "lat": 41.5233783,
+    "lon": -8.506905
+  },
+  "sintra|prt": {
+    "lat": 38.8355446,
+    "lon": -9.3522371
+  },
+  "torredeita|prt": {
+    "lat": 40.6440835,
+    "lon": -8.0152818
+  },
+  "vale de poios|prt": {
+    "lat": 39.9802384,
+    "lon": -8.5490176
+  },
+  "cilaos|reu": {
+    "lat": -21.1360575,
+    "lon": 55.472515
+  },
+  "fleurs jaunes|reu": {
+    "lat": -21.0304712,
+    "lon": 55.4965297
+  },
+  "ouaki|reu": {
+    "lat": 7.5383645,
+    "lon": 18.6395152
+  },
+  "piton de sucre|reu": {
+    "lat": -21.1319637,
+    "lon": 55.4483226
+  },
+  "aboland|rom": {
+    "lat": 59.9822575,
+    "lon": 21.9687737
+  },
+  "ampoita|rom": {
+    "lat": 46.1176088,
+    "lon": 23.4501112
+  },
+  "belvedere|rom": {
+    "lat": 41.8746453,
+    "lon": 12.9155415
+  },
+  "cheile aiudului|rom": {
+    "lat": 46.3743273,
+    "lon": 23.5835847
+  },
+  "cheile bicazului|rom": {
+    "lat": 46.8107652,
+    "lon": 25.8193366
+  },
+  "cheile cetii|rom": {
+    "lat": 46.2490559,
+    "lon": 23.5536029
+  },
+  "cheile mada|rom": {
+    "lat": 46.011218,
+    "lon": 23.1248098
+  },
+  "cheile tureni|rom": {
+    "lat": 46.6076894,
+    "lon": 23.7074762
+  },
+  "cheile turzii|rom": {
+    "lat": 46.5632408,
+    "lon": 23.6901902
+  },
+  "herculane|rom": {
+    "lat": 46.7683775,
+    "lon": 23.6199774
+  },
+  "ignis|rom": {
+    "lat": 19.2835612,
+    "lon": 72.9557028
+  },
+  "moroeni|rom": {
+    "lat": 45.2143769,
+    "lon": 25.4370789
+  },
+  "pietrele lui solomon|rom": {
+    "lat": 45.6182352,
+    "lon": 25.5567488
+  },
+  "postavaru|rom": {
+    "lat": 45.5689643,
+    "lon": 25.5678561
+  },
+  "remetea|rom": {
+    "lat": 46.1199665,
+    "lon": 23.4275684
+  },
+  "rimetea|rom": {
+    "lat": 46.4465203,
+    "lon": 23.5536428
+  },
+  "sinaia|rom": {
+    "lat": 45.3455492,
+    "lon": 25.5481496
+  },
+  "sohodol|rom": {
+    "lat": 46.3270025,
+    "lon": 22.9806997
+  },
+  "solomon brasov|rom": {
+    "lat": 45.6201966,
+    "lon": 25.5586201
+  },
+  "suncuius|rom": {
+    "lat": 46.9457577,
+    "lon": 22.5357405
+  },
+  "tamina|rom": {
+    "lat": 46.9122316,
+    "lon": 9.4215061
+  },
+  "tampa|rom": {
+    "lat": 27.9449854,
+    "lon": -82.4583107
+  },
+  "zarnesti|rom": {
+    "lat": 45.5607354,
+    "lon": 25.3161793
+  },
+  "bahchisaraj|rus": {
+    "lat": null,
+    "lon": null
+  },
+  "berezovka|rus": {
+    "lat": 57.303715,
+    "lon": 28.670429
+  },
+  "georgievskie|rus": {
+    "lat": 44.1698073,
+    "lon": 39.2818161
+  },
+  "guamka|rus": {
+    "lat": 44.2302575,
+    "lon": 39.9024304
+  },
+  "hiitola|rus": {
+    "lat": 61.2393399,
+    "lon": 29.6927385
+  },
+  "palcevo|rus": {
+    "lat": 60.7892503,
+    "lon": 28.8091091
+  },
+  "paltzevo|rus": {
+    "lat": null,
+    "lon": null
+  },
+  "raek|rus": {
+    "lat": 58.4469477,
+    "lon": 29.3232034
+  },
+  "rodnichok|rus": {
+    "lat": 51.4184272,
+    "lon": 42.9128306
+  },
+  "tolstik|rus": {
+    "lat": 56.9871107,
+    "lon": 60.3783413
+  },
+  "triangular lake|rus": {
+    "lat": 51.4429353,
+    "lon": -87.8597328
+  },
+  "vorgol|rus": {
+    "lat": 52.7053683,
+    "lon": 37.9859615
+  },
+  "vorgolskie scali|rus": {
+    "lat": null,
+    "lon": null
+  },
+  "jelasnica|srb": {
+    "lat": 43.044465,
+    "lon": 22.009009
+  },
+  "ljubovija|srb": {
+    "lat": 44.2045346,
+    "lon": 19.357738
+  },
+  "prokletije|srb": {
+    "lat": 42.480392,
+    "lon": 19.8351825
+  },
+  "valjevo|srb": {
+    "lat": 44.2708719,
+    "lon": 19.8863297
+  },
+  "jelenec|svk": {
+    "lat": 48.3796711,
+    "lon": 18.2224084
+  },
+  "precin|svk": {
+    "lat": 49.0838302,
+    "lon": 18.519636
+  },
+  "sulov|svk": {
+    "lat": 49.5005068,
+    "lon": 18.5457569
+  },
+  "bitnje|svn": {
+    "lat": 46.2838358,
+    "lon": 13.95929
+  },
+  "bohinj|svn": {
+    "lat": 46.3020337,
+    "lon": 13.9090155
+  },
+  "bohinjska bela|svn": {
+    "lat": 46.3474595,
+    "lon": 14.0609056
+  },
+  "creta|svn": {
+    "lat": 35.3084952,
+    "lon": 24.4633423
+  },
+  "crni kal|svn": {
+    "lat": 44.9194512,
+    "lon": 15.0665656
+  },
+  "korosica|svn": {
+    "lat": 46.2981793,
+    "lon": 14.5782509
+  },
+  "kotecnik|svn": {
+    "lat": 46.2787879,
+    "lon": 15.1421641
+  },
+  "osp misja pec|svn": {
+    "lat": 45.5680516,
+    "lon": 13.8640278
+  },
+  "soder graben|svn": {
+    "lat": null,
+    "lon": null
+  },
+  "vipava|svn": {
+    "lat": 45.8215297,
+    "lon": 13.9799911
+  },
+  "agelsjon|swe": {
+    "lat": 58.6827723,
+    "lon": 16.0938234
+  },
+  "algarda|swe": {
+    "lat": 57.4878291,
+    "lon": 12.2378804
+  },
+  "alvbroklippan|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "billingen|swe": {
+    "lat": 58.4433517,
+    "lon": 13.7756853
+  },
+  "bistaberget|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "bjorkberget|swe": {
+    "lat": 66.4385122,
+    "lon": 21.9449016
+  },
+  "blaberget|swe": {
+    "lat": 62.083998,
+    "lon": 15.4414558
+  },
+  "bohuslan|swe": {
+    "lat": 58.3810949,
+    "lon": 11.4411783
+  },
+  "brattberget|swe": {
+    "lat": 64.2750924,
+    "lon": 15.8412394
+  },
+  "checkers|swe": {
+    "lat": -26.3242586,
+    "lon": 31.1257118
+  },
+  "dodskalleberget|swe": {
+    "lat": 58.4329935,
+    "lon": 15.6860659
+  },
+  "ekstubbeberget|swe": {
+    "lat": 59.2467999,
+    "lon": 18.1705485
+  },
+  "flaten|swe": {
+    "lat": 59.2491874,
+    "lon": 18.1533616
+  },
+  "froson|swe": {
+    "lat": 63.1930406,
+    "lon": 14.534365
+  },
+  "gaseborg|swe": {
+    "lat": 59.4021235,
+    "lon": 17.7625639
+  },
+  "granitgrottan|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "gubben i berget|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "gunnilse|swe": {
+    "lat": 57.7863105,
+    "lon": 12.0906502
+  },
+  "hallsunga|swe": {
+    "lat": 57.8435275,
+    "lon": 11.7543329
+  },
+  "hylteberget|swe": {
+    "lat": 57.69902,
+    "lon": 14.8930445
+  },
+  "jallsjoklippan|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "kopegarda|swe": {
+    "lat": 56.1932053,
+    "lon": 15.0474603
+  },
+  "landvetterklippan|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "lexby|swe": {
+    "lat": 57.7579202,
+    "lon": 11.8634436
+  },
+  "midskogs|swe": {
+    "lat": 59.3518199,
+    "lon": 18.0980284
+  },
+  "morkberget|swe": {
+    "lat": 61.6678024,
+    "lon": 16.2184167
+  },
+  "munchenbryggeriet|swe": {
+    "lat": 59.3207259,
+    "lon": 18.0537778
+  },
+  "nacka kvarn|swe": {
+    "lat": 59.3000412,
+    "lon": 18.1488751
+  },
+  "olberget|swe": {
+    "lat": 61.311729,
+    "lon": 16.8165706
+  },
+  "ornberget|swe": {
+    "lat": 59.2074761,
+    "lon": 17.8823615
+  },
+  "ramnaslatt|swe": {
+    "lat": 57.7273384,
+    "lon": 12.8665374
+  },
+  "rankullaberget|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "ringkallen|swe": {
+    "lat": 62.8830587,
+    "lon": 18.3179468
+  },
+  "rosas|swe": {
+    "lat": 57.1674561,
+    "lon": 16.9940615
+  },
+  "rosendal|swe": {
+    "lat": 59.8318099,
+    "lon": 17.6339963
+  },
+  "runsa|swe": {
+    "lat": 59.5596889,
+    "lon": 17.8249268
+  },
+  "seglora|swe": {
+    "lat": 57.5821883,
+    "lon": 12.7420732
+  },
+  "sibracka|swe": {
+    "lat": 58.0060799,
+    "lon": 11.6146228
+  },
+  "sjoanda|swe": {
+    "lat": 57.9976283,
+    "lon": 16.2122579
+  },
+  "skevik|swe": {
+    "lat": 59.3403441,
+    "lon": 18.391896
+  },
+  "smalinden|swe": {
+    "lat": 58.4609127,
+    "lon": 11.5387545
+  },
+  "soffabacken|swe": {
+    "lat": 56.0824988,
+    "lon": 13.1108359
+  },
+  "starberget|swe": {
+    "lat": 59.5135466,
+    "lon": 18.5415438
+  },
+  "tjornbroklippan|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "tjursbo|swe": {
+    "lat": 57.7218447,
+    "lon": 16.3988747
+  },
+  "tollsjo|swe": {
+    "lat": 56.3154648,
+    "lon": 13.0706935
+  },
+  "traleberget|swe": {
+    "lat": null,
+    "lon": null
+  },
+  "trellebystrand|swe": {
+    "lat": 58.3063086,
+    "lon": 11.4603162
+  },
+  "uggelberget|swe": {
+    "lat": 60.1827764,
+    "lon": 15.7674362
+  },
+  "utby|swe": {
+    "lat": 58.3338114,
+    "lon": 11.7868925
+  },
+  "valberget|swe": {
+    "lat": 57.8574967,
+    "lon": 11.9472747
+  },
+  "vardberget|swe": {
+    "lat": 60.9184822,
+    "lon": 13.0758762
+  },
+  "vastervik|swe": {
+    "lat": 57.7594186,
+    "lon": 16.6385035
+  },
+  "viks kile|swe": {
+    "lat": 58.0547202,
+    "lon": 11.5691493
+  },
+  "vindon|swe": {
+    "lat": 58.2992034,
+    "lon": 11.6917183
+  },
+  "chiang mai|tha": {
+    "lat": 18.7668427,
+    "lon": 98.9648781
+  },
+  "chong phli|tha": {
+    "lat": 8.0771181,
+    "lon": 98.8286989
+  },
+  "chong pli|tha": {
+    "lat": 8.0899202,
+    "lon": 98.8218935
+  },
+  "crazy horse buttress|tha": {
+    "lat": null,
+    "lon": null
+  },
+  "escher wall|tha": {
+    "lat": 8.0079453,
+    "lon": 98.8366338
+  },
+  "ko phi phi|tha": {
+    "lat": 14.4954908,
+    "lon": 100.1916627
+  },
+  "ko yao noi|tha": {
+    "lat": 8.1338522,
+    "lon": 98.6099377
+  },
+  "koh laoliang|tha": {
+    "lat": null,
+    "lon": null
+  },
+  "koh phi phi|tha": {
+    "lat": 12.5748563,
+    "lon": 101.4635254
+  },
+  "koh yao noi|tha": {
+    "lat": 8.1146971,
+    "lon": 98.6237613
+  },
+  "lao liang|tha": {
+    "lat": 5.4173342,
+    "lon": 100.333943
+  },
+  "marley wall|tha": {
+    "lat": 8.0234378,
+    "lon": 98.832632
+  },
+  "phiphi|tha": {
+    "lat": 55.6677017,
+    "lon": 12.5498758
+  },
+  "railay|tha": {
+    "lat": 8.0141401,
+    "lon": 98.8418696
+  },
+  "akyarlar|tur": {
+    "lat": 36.9675442,
+    "lon": 27.2906844
+  },
+  "ballikayalar|tur": {
+    "lat": 40.8542337,
+    "lon": 29.5187402
+  },
+  "cakit|tur": {
+    "lat": 37.2526223,
+    "lon": 35.0041491
+  },
+  "citdibi|tur": {
+    "lat": 36.791186,
+    "lon": 30.435309
+  },
+  "datca|tur": {
+    "lat": 36.7263403,
+    "lon": 27.6873855
+  },
+  "denizli|tur": {
+    "lat": 37.8275892,
+    "lon": 29.2389539
+  },
+  "geyik bayiri|tur": {
+    "lat": 36.8761815,
+    "lon": 30.4774629
+  },
+  "geyikbayiri|tur": {
+    "lat": 36.8760526,
+    "lon": 30.4588682
+  },
+  "karakayalar|tur": {
+    "lat": 41.7852714,
+    "lon": 27.1854793
+  },
+  "kaynaklar|tur": {
+    "lat": 38.3641299,
+    "lon": 27.2831167
+  },
+  "kazikli ali|tur": {
+    "lat": null,
+    "lon": null
+  },
+  "okuzini|tur": {
+    "lat": 38.9165438,
+    "lon": 36.0812688
+  },
+  "olympos|tur": {
+    "lat": 36.3950121,
+    "lon": 30.4735644
+  },
+  "pelitozu|tur": {
+    "lat": 40.4979922,
+    "lon": 31.2773928
+  },
+  "long dong|twn": {
+    "lat": 5.4142654,
+    "lon": 100.337592
+  },
+  "bahchisaraj|ukr": {
+    "lat": null,
+    "lon": null
+  },
+  "batiliman|ukr": {
+    "lat": 38.7409021,
+    "lon": 26.9334542
+  },
+  "booki|ukr": {
+    "lat": null,
+    "lon": null
+  },
+  "fontany|ukr": {
+    "lat": 46.3279107,
+    "lon": 6.6689731
+  },
+  "grifon|ukr": {
+    "lat": 45.5623129,
+    "lon": 3.7978704
+  },
+  "kamjanec podilskyj|ukr": {
+    "lat": 48.6781294,
+    "lon": 26.5854027
+  },
+  "koshka|ukr": {
+    "lat": 42.2207489,
+    "lon": 44.0912476
+  },
+  "nikita|ukr": {
+    "lat": 44.5158616,
+    "lon": 34.2379522
+  },
+  "parus|ukr": {
+    "lat": 44.3978348,
+    "lon": 33.7697201
+  },
+  "red stone|ukr": {
+    "lat": -29.1134215,
+    "lon": 167.9537499
+  },
+  "sarich|ukr": {
+    "lat": 46.3841847,
+    "lon": -82.6481615
+  },
+  "sudak|ukr": {
+    "lat": 44.8488369,
+    "lon": 34.971099
+  },
+  "uarch kaja|ukr": {
+    "lat": null,
+    "lon": null
+  },
+  "vinnitsa|ukr": {
+    "lat": 49.2330824,
+    "lon": 28.4692275
+  },
+  "american fork|usa": {
+    "lat": 40.3768064,
+    "lon": -111.7959146
+  },
+  "arrow canyon|usa": {
+    "lat": 32.8170808,
+    "lon": -105.9259385
+  },
+  "banks lake|usa": {
+    "lat": 47.7853721,
+    "lon": -119.216909
+  },
+  "bear crag|usa": {
+    "lat": 34.2554942,
+    "lon": -116.8806428
+  },
+  "big chief|usa": {
+    "lat": 39.2410175,
+    "lon": -120.1963068
+  },
+  "birdsboro|usa": {
+    "lat": 40.2507165,
+    "lon": -75.8244334
+  },
+  "black and tan|usa": {
+    "lat": 35.8954652,
+    "lon": -94.9770386
+  },
+  "black cliffs|usa": {
+    "lat": 36.072353,
+    "lon": -115.315479
+  },
+  "black rocks|usa": {
+    "lat": 37.1545804,
+    "lon": -113.6063088
+  },
+  "blacksmith fork|usa": {
+    "lat": 41.6248118,
+    "lon": -111.7864191
+  },
+  "blacktail butte|usa": {
+    "lat": 48.6779645,
+    "lon": -117.6566427
+  },
+  "boney bluff|usa": {
+    "lat": 30.6276836,
+    "lon": -82.6713734
+  },
+  "boulder canyon|usa": {
+    "lat": 44.3991566,
+    "lon": -103.6092298
+  },
+  "breakneck|usa": {
+    "lat": 41.8867646,
+    "lon": -72.6592581
+  },
+  "brian head|usa": {
+    "lat": 37.6927551,
+    "lon": -112.850776
+  },
+  "broughton bluff|usa": {
+    "lat": 45.5401515,
+    "lon": -122.3763846
+  },
+  "button rock|usa": {
+    "lat": 40.2606293,
+    "lon": -105.3708423
+  },
+  "buzzard point|usa": {
+    "lat": 38.8673587,
+    "lon": -77.0111612
+  },
+  "castle rock|usa": {
+    "lat": 38.877437,
+    "lon": -120.0174326
+  },
+  "castle rocks idaho|usa": {
+    "lat": 43.3282295,
+    "lon": -115.3145232
+  },
+  "cathedral|usa": {
+    "lat": 38.0958289,
+    "lon": -107.0339372
+  },
+  "china bend|usa": {
+    "lat": 36.0596155,
+    "lon": -115.2263059
+  },
+  "chuckawalla|usa": {
+    "lat": 36.2661468,
+    "lon": -116.0077192
+  },
+  "city of rocks|usa": {
+    "lat": 42.7901743,
+    "lon": -115.8414757
+  },
+  "clark canyon|usa": {
+    "lat": 37.7657479,
+    "lon": -118.9095275
+  },
+  "clear creek canyon|usa": {
+    "lat": 34.0032251,
+    "lon": -117.8055031
+  },
+  "column of the giants|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "cookie cliff|usa": {
+    "lat": 50.057869,
+    "lon": -122.9454149
+  },
+  "coopers rock|usa": {
+    "lat": 42.8325065,
+    "lon": -89.0115002
+  },
+  "cowell|usa": {
+    "lat": 35.8206351,
+    "lon": -93.1643426
+  },
+  "crawdad canyon|usa": {
+    "lat": 37.3329558,
+    "lon": -113.691132
+  },
+  "crowders mountain state park|usa": {
+    "lat": 35.2130501,
+    "lon": -81.3041193
+  },
+  "dank choss|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "deep creek|usa": {
+    "lat": 37.7673512,
+    "lon": -75.7527083
+  },
+  "deep creek tn|usa": {
+    "lat": 35.2922483,
+    "lon": -85.1994397
+  },
+  "deepcreek|usa": {
+    "lat": 33.6420212,
+    "lon": -117.6312091
+  },
+  "devils lake|usa": {
+    "lat": 48.112779,
+    "lon": -98.86512
+  },
+  "devils tower|usa": {
+    "lat": 44.5906122,
+    "lon": -104.715103
+  },
+  "dierkes lake|usa": {
+    "lat": 42.5955192,
+    "lon": -114.3882122
+  },
+  "dike wall|usa": {
+    "lat": 34.6652936,
+    "lon": -116.9843234
+  },
+  "donner summit|usa": {
+    "lat": 39.3415556,
+    "lon": -120.3399113
+  },
+  "dump|usa": {
+    "lat": 41.7366472,
+    "lon": -72.7806712
+  },
+  "dungeon|usa": {
+    "lat": 42.0675044,
+    "lon": -113.7053023
+  },
+  "echo|usa": {
+    "lat": 45.7419049,
+    "lon": -119.194834
+  },
+  "echo canyon|usa": {
+    "lat": 33.5178318,
+    "lon": -111.9667146
+  },
+  "echo cliffs|usa": {
+    "lat": 36.2139483,
+    "lon": -111.3855198
+  },
+  "eldorado canyon|usa": {
+    "lat": 39.9301159,
+    "lon": -105.3277164
+  },
+  "emeralds|usa": {
+    "lat": 30.8149418,
+    "lon": -98.3723813
+  },
+  "enchanted rock|usa": {
+    "lat": 30.5064691,
+    "lon": -98.8187969
+  },
+  "enchanted tower|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "exit|usa": {
+    "lat": 36.76792,
+    "lon": -119.7199842
+  },
+  "farley|usa": {
+    "lat": 42.4428009,
+    "lon": -91.0063067
+  },
+  "fins|usa": {
+    "lat": 32.7339043,
+    "lon": -96.6322875
+  },
+  "flatirons|usa": {
+    "lat": 39.9888108,
+    "lon": -105.0931309
+  },
+  "fossil hill|usa": {
+    "lat": 42.7125487,
+    "lon": -108.8514005
+  },
+  "foster falls|usa": {
+    "lat": 46.4225261,
+    "lon": -90.4586506
+  },
+  "frenchs dome|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "gallatin canyon|usa": {
+    "lat": 43.6255903,
+    "lon": -116.5594711
+  },
+  "gold wall|usa": {
+    "lat": 34.3077704,
+    "lon": -116.8781925
+  },
+  "golf wall|usa": {
+    "lat": 36.7609507,
+    "lon": -108.1704461
+  },
+  "graveside matter wall|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "green valley gap|usa": {
+    "lat": 36.416364,
+    "lon": -81.7157297
+  },
+  "greenbelt|usa": {
+    "lat": 39.004607,
+    "lon": -76.8756838
+  },
+  "gunks|usa": {
+    "lat": 41.7405129,
+    "lon": -74.1827593
+  },
+  "hawksbill|usa": {
+    "lat": 38.555363,
+    "lon": -78.3951378
+  },
+  "hidden valley|usa": {
+    "lat": 39.168867,
+    "lon": -84.8445755
+  },
+  "holloway|usa": {
+    "lat": 45.248572,
+    "lon": -95.9081
+  },
+  "horseshoe canyon ranch|usa": {
+    "lat": 36.0037532,
+    "lon": -93.2898844
+  },
+  "horshoe canyon ranch|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "hurricave|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "index|usa": {
+    "lat": 47.8203106,
+    "lon": -121.554387
+  },
+  "indian creek|usa": {
+    "lat": 42.2269684,
+    "lon": -87.9797968
+  },
+  "jacks canyon|usa": {
+    "lat": 34.7935449,
+    "lon": -111.7178915
+  },
+  "jackson falls|usa": {
+    "lat": 44.1480451,
+    "lon": -71.1816411
+  },
+  "jailhouse|usa": {
+    "lat": 38.4020791,
+    "lon": -111.2193936
+  },
+  "kellys rock|usa": {
+    "lat": 43.0212609,
+    "lon": -76.2403701
+  },
+  "laurel snow|usa": {
+    "lat": 39.0918491,
+    "lon": -76.8455086
+  },
+  "leda|usa": {
+    "lat": 36.9043054,
+    "lon": -79.0861276
+  },
+  "leeda|usa": {
+    "lat": 30.3375892,
+    "lon": -81.7533519
+  },
+  "lime kiln canyon|usa": {
+    "lat": 47.1349749,
+    "lon": -109.3535123
+  },
+  "little cottonwood|usa": {
+    "lat": 40.5738375,
+    "lon": -111.78882
+  },
+  "little river canyon|usa": {
+    "lat": 34.3920234,
+    "lon": -85.625115
+  },
+  "little si|usa": {
+    "lat": 47.4986861,
+    "lon": -121.7560032
+  },
+  "little wilsons|usa": {
+    "lat": 37.2759818,
+    "lon": -77.9200716
+  },
+  "logan canyon|usa": {
+    "lat": 41.7436655,
+    "lon": -111.7696827
+  },
+  "looking glass|usa": {
+    "lat": 39.4687607,
+    "lon": -104.7924701
+  },
+  "lovers leap|usa": {
+    "lat": 41.3634785,
+    "lon": -122.6914145
+  },
+  "malibu canyon|usa": {
+    "lat": 38.2843487,
+    "lon": -84.5934041
+  },
+  "malibu creek|usa": {
+    "lat": 34.0709787,
+    "lon": -118.7059325
+  },
+  "maple canyon|usa": {
+    "lat": 47.6857059,
+    "lon": -120.2981504
+  },
+  "marcus|usa": {
+    "lat": 42.82471,
+    "lon": -95.8079104
+  },
+  "massacre rocks|usa": {
+    "lat": 42.6738006,
+    "lon": -112.9863839
+  },
+  "mazama|usa": {
+    "lat": 48.5920867,
+    "lon": -120.4039844
+  },
+  "meadow river gorge|usa": {
+    "lat": 38.1460644,
+    "lon": -80.9225957
+  },
+  "metaline falls|usa": {
+    "lat": 48.8636212,
+    "lon": -117.371888
+  },
+  "mickeys beach|usa": {
+    "lat": 32.4055956,
+    "lon": -80.4342166
+  },
+  "milagrossa canyon|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "mill creek|usa": {
+    "lat": 38.4951659,
+    "lon": -109.311097
+  },
+  "miller fork|usa": {
+    "lat": 40.4655707,
+    "lon": -105.4257266
+  },
+  "mission gorge|usa": {
+    "lat": 32.7826136,
+    "lon": -117.097374
+  },
+  "moores wall|usa": {
+    "lat": 36.3965269,
+    "lon": -80.2864412
+  },
+  "mt charleston|usa": {
+    "lat": 36.2641617,
+    "lon": -115.6055241
+  },
+  "mt saint helena|usa": {
+    "lat": 38.6693509,
+    "lon": -122.6333189
+  },
+  "mt st helena|usa": {
+    "lat": 38.6693509,
+    "lon": -122.6333189
+  },
+  "narrows|usa": {
+    "lat": 37.3315103,
+    "lon": -80.8111867
+  },
+  "new river gorge|usa": {
+    "lat": 37.8967311,
+    "lon": -81.0429734
+  },
+  "obed|usa": {
+    "lat": 39.5653162,
+    "lon": -88.9025763
+  },
+  "ouray co|usa": {
+    "lat": 38.146044,
+    "lon": -107.7414887
+  },
+  "owens river gorge|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "ozone|usa": {
+    "lat": 35.8820155,
+    "lon": -84.8091122
+  },
+  "pie shop|usa": {
+    "lat": 38.8999218,
+    "lon": -76.9869224
+  },
+  "pilot mountain|usa": {
+    "lat": 36.3851349,
+    "lon": -80.4671211
+  },
+  "pine creek|usa": {
+    "lat": 41.5273648,
+    "lon": -77.4480717
+  },
+  "pinnacles|usa": {
+    "lat": 36.5307965,
+    "lon": -121.1451978
+  },
+  "pinnacles national monument|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "pistol ridge|usa": {
+    "lat": 31.0032395,
+    "lon": -89.3181164
+  },
+  "poptire|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "potrero chico|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "poudre canyon|usa": {
+    "lat": 40.6979288,
+    "lon": -105.6232389
+  },
+  "pratts crack gully|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "prohibition|usa": {
+    "lat": 40.7852443,
+    "lon": -73.9728265
+  },
+  "puoux|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "queen creek|usa": {
+    "lat": 33.2483858,
+    "lon": -111.634158
+  },
+  "rasta farm|usa": {
+    "lat": 59.9272528,
+    "lon": 10.9371721
+  },
+  "rat cave|usa": {
+    "lat": 37.3725465,
+    "lon": -91.2276317
+  },
+  "red river gorge|usa": {
+    "lat": 37.7422418,
+    "lon": -83.5752761
+  },
+  "red rocks|usa": {
+    "lat": 39.8116045,
+    "lon": -114.4030685
+  },
+  "red wing|usa": {
+    "lat": 44.5624676,
+    "lon": -92.5338013
+  },
+  "reimers|usa": {
+    "lat": 46.2006492,
+    "lon": -89.221019
+  },
+  "rifle|usa": {
+    "lat": 39.5313327,
+    "lon": -107.7848127
+  },
+  "riggins|usa": {
+    "lat": 45.4221105,
+    "lon": -116.315411
+  },
+  "riverside quarry|usa": {
+    "lat": 42.3970202,
+    "lon": -74.4519409
+  },
+  "rmnp|usa": {
+    "lat": 40.3788551,
+    "lon": -105.5138303
+  },
+  "rock canyon|usa": {
+    "lat": 47.547352,
+    "lon": -120.6947393
+  },
+  "rostrum|usa": {
+    "lat": 35.6983576,
+    "lon": -105.9501814
+  },
+  "royal arches|usa": {
+    "lat": 37.7486288,
+    "lon": -119.570043
+  },
+  "rumney|usa": {
+    "lat": 43.8045189,
+    "lon": -71.8130772
+  },
+  "sandrock|usa": {
+    "lat": 39.7450808,
+    "lon": -80.3997971
+  },
+  "shaffer rock|usa": {
+    "lat": 39.8124208,
+    "lon": -77.4819859
+  },
+  "shagg|usa": {
+    "lat": 44.4329075,
+    "lon": -70.5265657
+  },
+  "shawangunks|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "shelf road|usa": {
+    "lat": 34.4648793,
+    "lon": -119.2376022
+  },
+  "ship rock|usa": {
+    "lat": 41.5231902,
+    "lon": -71.0628723
+  },
+  "shoshone|usa": {
+    "lat": 47.305486,
+    "lon": -115.9583164
+  },
+  "shoshone ice cave|usa": {
+    "lat": null,
+    "lon": null
+  },
+  "sinks canyon|usa": {
+    "lat": 41.9344821,
+    "lon": -111.4825989
+  },
+  "smith rocks|usa": {
+    "lat": 38.8496429,
+    "lon": -79.3951175
+  },
+  "spearfish canyon|usa": {
+    "lat": 30.2900356,
+    "lon": -97.9236399
+  },
+  "steele|usa": {
+    "lat": 44.0137336,
+    "lon": -93.2203671
+  },
+  "sugar hollow|usa": {
+    "lat": 43.7652895,
+    "lon": -73.0245572
+  },
+  "sugarloaf|usa": {
+    "lat": 33.9888527,
+    "lon": -117.3078366
+  },
+  "summersville lake|usa": {
+    "lat": 38.2471351,
+    "lon": -80.8836419
+  },
+  "sundown|usa": {
+    "lat": 33.456207,
+    "lon": -102.489357
+  },
+  "sunny and steep|usa": {
+    "lat": 36.1699692,
+    "lon": -115.4231894
+  },
+  "sunset park|usa": {
+    "lat": 40.6442221,
+    "lon": -74.0075907
+  },
+  "t wall|usa": {
+    "lat": 45.5406045,
+    "lon": -122.3774998
+  },
+  "table mountain|usa": {
+    "lat": 41.958642,
+    "lon": -74.4048687
+  },
+  "ten sleep|usa": {
+    "lat": 44.034183,
+    "lon": -107.448002
+  },
+  "tennessee wall|usa": {
+    "lat": 35.0739767,
+    "lon": -85.4002751
+  },
+  "teton canyon|usa": {
+    "lat": 43.7554916,
+    "lon": -110.929613
+  },
+  "tick rock|usa": {
+    "lat": 40.4146645,
+    "lon": -105.3785307
+  },
+  "tieton|usa": {
+    "lat": 46.7020686,
+    "lon": -120.75535
+  },
+  "tioga cliff|usa": {
+    "lat": 41.7949791,
+    "lon": -77.5096089
+  },
+  "tunnel|usa": {
+    "lat": 39.923892,
+    "lon": -105.2867538
+  },
+  "turtle wall|usa": {
+    "lat": 37.1497684,
+    "lon": -113.6121125
+  },
+  "uintas|usa": {
+    "lat": 40.7438047,
+    "lon": -110.4941856
+  },
+  "utah hills|usa": {
+    "lat": 40.8829552,
+    "lon": -111.8467881
+  },
+  "vantage|usa": {
+    "lat": 46.943742,
+    "lon": -119.9895042
+  },
+  "vedauwoo|usa": {
+    "lat": 41.1660934,
+    "lon": -105.3755405
+  },
+  "welcome springs|usa": {
+    "lat": 37.0985431,
+    "lon": -113.9084801
+  },
+  "white rock|usa": {
+    "lat": 42.753968,
+    "lon": -73.2803869
+  },
+  "wild iris|usa": {
+    "lat": 29.7332236,
+    "lon": -98.0515363
+  },
+  "willow river|usa": {
+    "lat": 46.3201763,
+    "lon": -92.8383129
+  },
+  "yellow bluff|usa": {
+    "lat": 31.9676491,
+    "lon": -87.4680519
+  },
+  "yosemite|usa": {
+    "lat": 37.346742,
+    "lon": -84.8246715
+  },
+  "zion|usa": {
+    "lat": 42.4501169,
+    "lon": -87.8337753
+  },
+  "azulita|ven": {
+    "lat": 7.9431062,
+    "lon": -71.3368942
+  },
+  "guairita|ven": {
+    "lat": 10.4727337,
+    "lon": -66.6158731
+  },
+  "humocaro|ven": {
+    "lat": 9.6780315,
+    "lon": -69.9737914
+  },
+  "lobatera|ven": {
+    "lat": 7.9304177,
+    "lon": -72.245854
+  },
+  "paurario|ven": {
+    "lat": null,
+    "lon": null
+  },
+  "puertas de miraflores|ven": {
+    "lat": 10.1810109,
+    "lon": -63.6998767
+  },
+  "sanare de la costa|ven": {
+    "lat": null,
+    "lon": null
+  },
+  "santuario|ven": {
+    "lat": 45.6479377,
+    "lon": 10.8558349
+  },
+  "torrellero|ven": {
+    "lat": 9.6829989,
+    "lon": -69.1625405
+  },
+  "butterfly valley|vnm": {
+    "lat": 22.344106,
+    "lon": 114.1445946
+  },
+  "cat ba island|vnm": {
+    "lat": 20.7951657,
+    "lon": 107.0049301
+  },
+  "alternative rock|zaf": {
+    "lat": 42.3573811,
+    "lon": -87.8441392
+  },
+  "boneyard|zaf": {
+    "lat": -29.7609911,
+    "lon": 30.8347525
+  },
+  "bonni boulder|zaf": {
+    "lat": 35.996055,
+    "lon": -114.8340245
+  },
+  "boven|zaf": {
+    "lat": -25.637836,
+    "lon": 30.334927
+  },
+  "bronkies|zaf": {
+    "lat": -25.8811462,
+    "lon": 28.7273327
+  },
+  "canyon|zaf": {
+    "lat": -33.9389824,
+    "lon": 18.8606749
+  },
+  "cauldron|zaf": {
+    "lat": -33.780208,
+    "lon": 20.1035562
+  },
+  "chosspile|zaf": {
+    "lat": -25.7206545,
+    "lon": 27.8475698
+  },
+  "cloud nine wall|zaf": {
+    "lat": null,
+    "lon": null
+  },
+  "deep freeze boulder|zaf": {
+    "lat": null,
+    "lon": null
+  },
+  "farley side|zaf": {
+    "lat": 39.757759,
+    "lon": -84.2249314
+  },
+  "fernkloof|zaf": {
+    "lat": -34.3913049,
+    "lon": 19.2797882
+  },
+  "gecko rock|zaf": {
+    "lat": -33.5368833,
+    "lon": 20.1073333
+  },
+  "god no wall|zaf": {
+    "lat": -25.6717021,
+    "lon": 30.3652084
+  },
+  "hidden kloof|zaf": {
+    "lat": 41.7823425,
+    "lon": -72.7995353
+  },
+  "hole|zaf": {
+    "lat": -28.7391467,
+    "lon": 24.7585415
+  },
+  "houdenbek|zaf": {
+    "lat": -32.9553442,
+    "lon": 19.4295433
+  },
+  "howies|zaf": {
+    "lat": 55.9540924,
+    "lon": -3.1857179
+  },
+  "kirk falls|zaf": {
+    "lat": -29.8343031,
+    "lon": 30.7232229
+  },
+  "kleinmond|zaf": {
+    "lat": -34.338889,
+    "lon": 19.025278
+  },
+  "kloof|zaf": {
+    "lat": -29.7350913,
+    "lon": 30.6757795
+  },
+  "kloof gorge|zaf": {
+    "lat": -34.0386448,
+    "lon": 19.0541763
+  },
+  "legoland|zaf": {
+    "lat": -33.8136775,
+    "lon": 20.0914738
+  },
+  "montagu|zaf": {
+    "lat": -33.7869944,
+    "lon": 20.1178282
+  },
+  "morgan bay|zaf": {
+    "lat": -32.7052778,
+    "lon": 28.3397222
+  },
+  "oorlogskloof|zaf": {
+    "lat": -31.5192117,
+    "lon": 19.467451
+  },
+  "ostrich egg boulder|zaf": {
+    "lat": null,
+    "lon": null
+  },
+  "oudtshoorn|zaf": {
+    "lat": -33.5902954,
+    "lon": 22.204206
+  },
+  "outshoorn|zaf": {
+    "lat": 52.3816236,
+    "lon": 4.799695
+  },
+  "palace|zaf": {
+    "lat": -25.5787724,
+    "lon": 27.160813
+  },
+  "peanut gallery|zaf": {
+    "lat": 40.5799375,
+    "lon": -75.533454
+  },
+  "playground|zaf": {
+    "lat": -29.0867437,
+    "lon": 26.2384367
+  },
+  "pocket city|zaf": {
+    "lat": -34.1129164,
+    "lon": 18.424701
+  },
+  "ramset|zaf": {
+    "lat": 60.6576765,
+    "lon": 11.1787172
+  },
+  "raven age|zaf": {
+    "lat": 53.5564567,
+    "lon": -3.0629968
+  },
+  "restuarant|zaf": {
+    "lat": -34.0016808,
+    "lon": 22.7448316
+  },
+  "rumdoodle|zaf": {
+    "lat": -29.7666822,
+    "lon": 30.8605921
+  },
+  "sanddrif|zaf": {
+    "lat": -33.9836111,
+    "lon": 23.9963889
+  },
+  "silvermine|zaf": {
+    "lat": -33.9247857,
+    "lon": 18.5200622
+  },
+  "skoorsteen kop|zaf": {
+    "lat": null,
+    "lon": null
+  },
+  "sloth|zaf": {
+    "lat": -23.9197379,
+    "lon": 29.4212637
+  },
+  "strubens|zaf": {
+    "lat": -26.1230494,
+    "lon": 27.9049454
+  },
+  "superbowl|zaf": {
+    "lat": -33.69311,
+    "lon": 18.9354603
+  },
+  "supertubes|zaf": {
+    "lat": -33.9349809,
+    "lon": 22.429179
+  },
+  "swinburne|zaf": {
+    "lat": -28.3483333,
+    "lon": 29.2763889
+  },
+  "tafelberg|zaf": {
+    "lat": -31.6458,
+    "lon": 25.165
+  },
+  "tranquilitas|zaf": {
+    "lat": -25.6772025,
+    "lon": 30.3634181
+  },
+  "umgeni valley|zaf": {
+    "lat": -29.4843023,
+    "lon": 30.238465
+  },
+  "van stadens|zaf": {
+    "lat": -33.8942802,
+    "lon": 25.2163408
+  },
+  "waterval boven|zaf": {
+    "lat": -25.637836,
+    "lon": 30.334927
+  }
+}
