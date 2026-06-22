@@ -1,9 +1,11 @@
 """
 MCP Server - Routes d'escalade
-Expose des outils pour interroger les données des voies d'escalade (route.csv)
+Expose des outils pour interroger les données des voies d'escalade (route_geo.csv)
 """
 
 import json
+import math
+import numpy as np
 import pandas as pd
 from pathlib import Path
 from mcp.server import Server
@@ -14,7 +16,64 @@ from mcp.types import Tool, TextContent
 CSV_PATH = Path(__file__).parent.parent / "Data" / "route_geo.csv"
 df = pd.read_csv(CSV_PATH, index_col=0)
 
+# Noms des colonnes GPS dans route_geo.csv.
+# Si tes colonnes ont un nom différent (ex: "lat"/"lon"), change juste ces deux lignes.
+LAT_COL = "latitude"
+LON_COL = "longitude"
+
 app = Server("mcp-routes")
+
+
+# ---------------------------------------------------------------------------
+# Helpers de conversion "type-safe"
+# Les LLM locaux (ex: llama3.2) envoient parfois des nombres sous forme de
+# chaînes de caractères ("10" au lieu de 10). Ces fonctions normalisent
+# n'importe quelle entrée (str, int, float, None) vers le bon type Python.
+# ---------------------------------------------------------------------------
+
+def to_int(value, default=None):
+    """Convertit une valeur (str, int, float) en int de manière sûre."""
+    if value is None or value == "":
+        return default
+    if isinstance(value, bool):
+        return int(value)
+    if isinstance(value, int):
+        return value
+    if isinstance(value, float):
+        return int(value)
+    try:
+        return int(float(str(value).strip()))
+    except (ValueError, TypeError):
+        return default
+
+
+def to_float(value, default=None):
+    """Convertit une valeur (str, int, float) en float de manière sûre."""
+    if value is None or value == "":
+        return default
+    if isinstance(value, (int, float)):
+        return float(value)
+    try:
+        return float(str(value).strip().replace(",", "."))
+    except (ValueError, TypeError):
+        return default
+
+
+def to_str(value, default=""):
+    """Convertit une valeur en chaîne propre (strip + lower)."""
+    if value is None:
+        return default
+    return str(value).strip().lower()
+
+
+def haversine_km(lat1, lon1, lat2_array, lon2_array):
+    """Distance haversine (en km), vectorisée avec numpy pour aller vite sur tout le DataFrame."""
+    lat1_r, lon1_r = np.radians(lat1), np.radians(lon1)
+    lat2_r, lon2_r = np.radians(lat2_array), np.radians(lon2_array)
+    dlat = lat2_r - lat1_r
+    dlon = lon2_r - lon1_r
+    a = np.sin(dlat / 2) ** 2 + np.cos(lat1_r) * np.cos(lat2_r) * np.sin(dlon / 2) ** 2
+    return 6371.0 * 2 * np.arcsin(np.sqrt(a))
 
 
 @app.list_tools()
@@ -46,7 +105,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "n": {
-                        "type": "integer",
+                        "type": ["integer", "string"],
                         "description": "Nombre de voies à retourner (défaut: 10)",
                     }
                 },
@@ -74,7 +133,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "cluster": {
-                        "type": "integer",
+                        "type": ["integer", "string"],
                         "description": "Numéro du cluster (0, 1, 2 ou 3)",
                     }
                 },
@@ -87,10 +146,36 @@ async def list_tools() -> list[Tool]:
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "min_grade": {"type": "number", "description": "Grade moyen minimum"},
-                    "max_grade": {"type": "number", "description": "Grade moyen maximum"},
+                    "min_grade": {"type": ["number", "string"], "description": "Grade moyen minimum"},
+                    "max_grade": {"type": ["number", "string"], "description": "Grade moyen maximum"},
                 },
                 "required": ["min_grade", "max_grade"],
+            },
+        ),
+        Tool(
+            name="get_nearest_routes",
+            description="Retourne les N voies d'escalade individuelles les plus proches d'un point GPS donné (latitude/longitude), triées par distance croissante.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "latitude": {"type": ["number", "string"], "description": "Latitude du point de référence"},
+                    "longitude": {"type": ["number", "string"], "description": "Longitude du point de référence"},
+                    "n": {"type": ["integer", "string"], "description": "Nombre de voies à retourner (défaut: 10)"},
+                },
+                "required": ["latitude", "longitude"],
+            },
+        ),
+        Tool(
+            name="get_nearest_crags",
+            description="Retourne les N falaises (crags) les plus proches d'un point GPS donné (latitude/longitude), regroupées avec leurs statistiques, triées par distance croissante.",
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "latitude": {"type": ["number", "string"], "description": "Latitude du point de référence"},
+                    "longitude": {"type": ["number", "string"], "description": "Longitude du point de référence"},
+                    "n": {"type": ["integer", "string"], "description": "Nombre de falaises à retourner (défaut: 5)"},
+                },
+                "required": ["latitude", "longitude"],
             },
         ),
     ]
@@ -98,6 +183,7 @@ async def list_tools() -> list[Tool]:
 
 @app.call_tool()
 async def call_tool(name: str, arguments: dict) -> list[TextContent]:
+    arguments = arguments or {}
 
     if name == "get_route_stats":
         stats = {
@@ -114,7 +200,7 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
         return [TextContent(type="text", text=json.dumps(stats, ensure_ascii=False, indent=2))]
 
     elif name == "get_routes_by_country":
-        country = arguments.get("country", "").lower()
+        country = to_str(arguments.get("country"))
         filtered = df[df["country"] == country]
         if filtered.empty:
             return [TextContent(type="text", text=f"Aucune voie trouvée pour le pays: {country}")]
@@ -130,27 +216,29 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
         return [TextContent(type="text", text=json.dumps(result, ensure_ascii=False, indent=2))]
 
     elif name == "get_top_rated_routes":
-        n = arguments.get("n", 10)
+        n = to_int(arguments.get("n"), default=10)
         top = df.nlargest(n, "rating_tot")[
             ["name_id", "country", "crag", "name", "grade_mean", "cluster", "rating_tot"]
         ]
         return [TextContent(type="text", text=top.to_json(orient="records", indent=2))]
 
     elif name == "get_routes_by_crag":
-        crag = arguments.get("crag", "").lower()
+        crag = to_str(arguments.get("crag"))
         filtered = df[df["crag"] == crag]
         if filtered.empty:
             return [TextContent(type="text", text=f"Aucune voie trouvée pour le crag: {crag}")]
         return [TextContent(type="text", text=filtered.to_json(orient="records", indent=2))]
 
     elif name == "get_routes_by_cluster":
-        cluster = arguments.get("cluster")
+        cluster = to_int(arguments.get("cluster"))
+        if cluster is None:
+            return [TextContent(type="text", text="Paramètre 'cluster' invalide ou manquant.")]
         filtered = df[df["cluster"] == cluster]
         result = {
             "cluster": cluster,
             "nombre_voies": int(len(filtered)),
-            "grade_moyen": round(filtered["grade_mean"].mean(), 2),
-            "rating_moyen": round(filtered["rating_tot"].mean(), 4),
+            "grade_moyen": round(filtered["grade_mean"].mean(), 2) if not filtered.empty else None,
+            "rating_moyen": round(filtered["rating_tot"].mean(), 4) if not filtered.empty else None,
             "voies": filtered[["name_id", "country", "crag", "name", "grade_mean", "rating_tot"]]
             .head(20)
             .to_dict(orient="records"),
@@ -158,8 +246,8 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
         return [TextContent(type="text", text=json.dumps(result, ensure_ascii=False, indent=2))]
 
     elif name == "get_routes_by_grade_range":
-        min_g = arguments.get("min_grade", 0)
-        max_g = arguments.get("max_grade", 100)
+        min_g = to_float(arguments.get("min_grade"), default=0.0)
+        max_g = to_float(arguments.get("max_grade"), default=100.0)
         filtered = df[(df["grade_mean"] >= min_g) & (df["grade_mean"] <= max_g)]
         result = {
             "plage_grade": f"{min_g} - {max_g}",
@@ -169,6 +257,60 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
             .to_dict(orient="records"),
         }
         return [TextContent(type="text", text=json.dumps(result, ensure_ascii=False, indent=2))]
+
+    elif name == "get_nearest_routes":
+        lat = to_float(arguments.get("latitude"))
+        lon = to_float(arguments.get("longitude"))
+        n = to_int(arguments.get("n"), default=10)
+
+        if lat is None or lon is None:
+            return [TextContent(type="text", text="Paramètres 'latitude'/'longitude' invalides ou manquants.")]
+        if LAT_COL not in df.columns or LON_COL not in df.columns:
+            return [TextContent(
+                type="text",
+                text=f"Colonnes GPS introuvables dans route_geo.csv (attendu: '{LAT_COL}'/'{LON_COL}')."
+            )]
+
+        valid = df.dropna(subset=[LAT_COL, LON_COL]).copy()
+        valid["distance_km"] = haversine_km(lat, lon, valid[LAT_COL].values, valid[LON_COL].values)
+        nearest = valid.nsmallest(n, "distance_km")[
+            ["name_id", "country", "crag", "name", "grade_mean", "cluster", "rating_tot",
+             LAT_COL, LON_COL, "distance_km"]
+        ]
+        nearest["distance_km"] = nearest["distance_km"].round(2)
+        return [TextContent(type="text", text=nearest.to_json(orient="records", indent=2))]
+
+    elif name == "get_nearest_crags":
+        lat = to_float(arguments.get("latitude"))
+        lon = to_float(arguments.get("longitude"))
+        n = to_int(arguments.get("n"), default=5)
+
+        if lat is None or lon is None:
+            return [TextContent(type="text", text="Paramètres 'latitude'/'longitude' invalides ou manquants.")]
+        if LAT_COL not in df.columns or LON_COL not in df.columns:
+            return [TextContent(
+                type="text",
+                text=f"Colonnes GPS introuvables dans route_geo.csv (attendu: '{LAT_COL}'/'{LON_COL}')."
+            )]
+
+        valid = df.dropna(subset=[LAT_COL, LON_COL]).copy()
+
+        # Regroupement par falaise : une falaise partage en général les mêmes coordonnées GPS
+        crags = valid.groupby(["crag", "country"]).agg(
+            latitude=(LAT_COL, "mean"),
+            longitude=(LON_COL, "mean"),
+            nombre_voies=("name_id", "count"),
+            grade_moyen=("grade_mean", "mean"),
+            rating_moyen=("rating_tot", "mean"),
+        ).reset_index()
+
+        crags["distance_km"] = haversine_km(lat, lon, crags["latitude"].values, crags["longitude"].values)
+        nearest = crags.nsmallest(n, "distance_km").copy()
+        nearest["distance_km"] = nearest["distance_km"].round(2)
+        nearest["grade_moyen"] = nearest["grade_moyen"].round(2)
+        nearest["rating_moyen"] = nearest["rating_moyen"].round(4)
+
+        return [TextContent(type="text", text=nearest.to_json(orient="records", indent=2))]
 
     return [TextContent(type="text", text=f"Outil inconnu: {name}")]
 

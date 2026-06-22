@@ -235,6 +235,9 @@ projet_escalade/
 │   ├── route_geo.csv
 │   └── routes_rated.csv
 │
+├── FrontEnd/
+│   ├── app.py
+│   └── app2model.py
 ├── MCP/
 │   ├── mcp_climber.py
 │   ├── mcp_grades.py
@@ -243,7 +246,6 @@ projet_escalade/
 │   ├── stat_reference.py
 │   └── test_mcp_agent.py
 │
-├── app.py
 ├── requirements.txt
 └── README.md
 ```
@@ -340,4 +342,4 @@ TODO
 
 - ajouté les longitude latitude au MCP
 - amélorié le MY prompte
-- 
+- les MCPs avec les soucie de numbers et chain de charatere

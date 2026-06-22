@@ -17,6 +17,36 @@ df = pd.read_csv(CSV_PATH)
 app = Server("mcp-climber")
 
 
+# ---------------------------------------------------------------------------
+# Helpers de conversion "type-safe"
+# Les LLM locaux (ex: llama3.2) envoient parfois des nombres sous forme de
+# chaînes de caractères ("10" au lieu de 10). Ces fonctions normalisent
+# n'importe quelle entrée (str, int, float, None) vers le bon type Python.
+# ---------------------------------------------------------------------------
+
+def to_int(value, default=None):
+    """Convertit une valeur (str, int, float) en int de manière sûre."""
+    if value is None or value == "":
+        return default
+    if isinstance(value, bool):
+        return int(value)
+    if isinstance(value, int):
+        return value
+    if isinstance(value, float):
+        return int(value)
+    try:
+        return int(float(str(value).strip()))
+    except (ValueError, TypeError):
+        return default
+
+
+def to_str(value, default=""):
+    """Convertit une valeur en chaîne propre (strip), sans forcer la casse."""
+    if value is None:
+        return default
+    return str(value).strip()
+
+
 @app.list_tools()
 async def list_tools() -> list[Tool]:
     return [
@@ -46,7 +76,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "n": {
-                        "type": "integer",
+                        "type": ["integer", "string"],
                         "description": "Nombre de grimpeurs à retourner (défaut: 10)",
                     }
                 },
@@ -60,7 +90,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "user_id": {
-                        "type": "integer",
+                        "type": ["integer", "string"],
                         "description": "L'identifiant unique du grimpeur",
                     }
                 },
@@ -77,6 +107,7 @@ async def list_tools() -> list[Tool]:
 
 @app.call_tool()
 async def call_tool(name: str, arguments: dict) -> list[TextContent]:
+    arguments = arguments or {}
 
     if name == "get_climber_stats":
         stats = {
@@ -91,7 +122,7 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
         return [TextContent(type="text", text=json.dumps(stats, ensure_ascii=False, indent=2))]
 
     elif name == "get_climbers_by_country":
-        country = arguments.get("country", "").upper()
+        country = to_str(arguments.get("country")).upper()
         filtered = df[df["country"] == country]
         if filtered.empty:
             return [TextContent(type="text", text=f"Aucun grimpeur trouvé pour le pays: {country}")]
@@ -105,14 +136,16 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
         return [TextContent(type="text", text=json.dumps(result, ensure_ascii=False, indent=2))]
 
     elif name == "get_top_climbers":
-        n = arguments.get("n", 10)
+        n = to_int(arguments.get("n"), default=10)
         top = df.nlargest(n, "grades_max")[
             ["user_id", "country", "sex", "age", "grades_max", "grades_mean", "years_cl"]
         ]
         return [TextContent(type="text", text=top.to_json(orient="records", indent=2))]
 
     elif name == "get_climber_by_id":
-        user_id = arguments.get("user_id")
+        user_id = to_int(arguments.get("user_id"))
+        if user_id is None:
+            return [TextContent(type="text", text="Paramètre 'user_id' invalide ou manquant.")]
         row = df[df["user_id"] == user_id]
         if row.empty:
             return [TextContent(type="text", text=f"Aucun grimpeur avec user_id={user_id}")]
