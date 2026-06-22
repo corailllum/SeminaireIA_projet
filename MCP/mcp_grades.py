@@ -62,7 +62,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "grade_id": {
-                        "type": ["integer", "string"],
+                        "type": ["integer", "string", "null"],
                         "description": "L'identifiant numérique du grade",
                     }
                 },
@@ -76,7 +76,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "grade_fra": {
-                        "type": "string",
+                        "type": ["string", "null"],
                         "description": "Le grade en notation française (ex: 6a, 7b+, 8c)",
                     }
                 },
@@ -89,8 +89,8 @@ async def list_tools() -> list[Tool]:
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "min_id": {"type": ["integer", "string"], "description": "Grade_id minimum"},
-                    "max_id": {"type": ["integer", "string"], "description": "Grade_id maximum"},
+                    "min_id": {"type": ["integer", "string", "null"], "description": "Grade_id minimum"},
+                    "max_id": {"type": ["integer", "string", "null"], "description": "Grade_id maximum"},
                 },
                 "required": ["min_id", "max_id"],
             },

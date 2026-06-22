@@ -13,9 +13,9 @@ L'objectif était de concevoir un système utilisant l'intelligence artificielle
 
 Le projet consiste à développer une application permettant d'explorer et d'interroger un ensemble de données liées à l'escalade grâce à :
 
-* un **tableau de bord interactif** présentant plusieurs visualisations ;
-* un **chatbot IA** capable de répondre à des questions en langage naturel ;
-* une architecture basée sur le protocole **MCP (Model Context Protocol)** permettant à l'agent IA d'accéder à différentes sources de données spécialisées.
+- un **tableau de bord interactif** présentant plusieurs visualisations ;
+- un **chatbot IA** capable de répondre à des questions en langage naturel ;
+- une architecture basée sur le protocole **MCP** permettant à l'agent IA d'accéder à différentes sources de données spécialisées.
 
 L'objectif final est de proposer un assistant capable d'aider un grimpeur à mieux comprendre les données disponibles et, à terme, de lui recommander des voies adaptées à son profil et à son niveau.
 
@@ -25,12 +25,12 @@ L'objectif final est de proposer un assistant capable d'aider un grimpeur à mie
 
 Les principaux objectifs du projet sont :
 
-* Mettre en place une architecture MCP complète.
-* Utiliser un modèle de langage local via Ollama.
-* Permettre l'interrogation de plusieurs jeux de données spécialisés.
-* Fournir des visualisations interactives des données.
-* Répondre à des questions complexes formulées en langage naturel.
-* Préparer une base permettant de développer un système de recommandation de voies d'escalade.
+- Mettre en place une architecture MCP complète.
+- Utiliser un modèle de langage local via Ollama.
+- Permettre l'interrogation de plusieurs jeux de données spécialisés.
+- Fournir des visualisations interactives des données.
+- Répondre à des questions complexes formulées en langage naturel.
+- Préparer une base permettant de développer un système de recommandation de voies d'escalade.
 
 ---
 
@@ -40,10 +40,10 @@ Les données proviennent d'un dataset public disponible sur Kaggle.
 
 Le dataset contient des informations sur :
 
-* les grimpeurs ;
-* les niveaux de difficulté ;
-* les voies d'escalade ;
-* les performances enregistrées.
+- les grimpeurs ;
+- les niveaux de difficulté ;
+- les voies d'escalade ;
+
 
 ## Fichiers utilisés
 
@@ -51,23 +51,30 @@ Le dataset contient des informations sur :
 
 Contient les informations relatives aux grimpeurs :
 
-* identifiant utilisateur ;
-* pays ;
-* sexe ;
-* taille ;
-* poids ;
-* âge ;
-* expérience ;
-* niveau moyen ;
-* niveau maximal ;
-* dates d'activité.
+- user_id
+- country
+- sex
+- height
+- weight
+- age
+- years_cl
+- date_first
+- date_last
+- grades_count
+- grades_first
+- grades_last
+- grades_max
+- grades_mean
+- year_first
+- year_last
+
 
 ### grades_conversion_table.csv
 
 Table de correspondance entre :
 
-* les identifiants numériques des grades ;
-* les cotations françaises.
+- grade_id
+- grade_fra
 
 Cette table permet à l'agent IA de convertir automatiquement les grades techniques dans un format compréhensible par les grimpeurs.
 
@@ -75,13 +82,15 @@ Cette table permet à l'agent IA de convertir automatiquement les grades techniq
 
 Contient les informations relatives aux voies :
 
-* nom de la voie ;
-* pays ;
-* secteur ;
-* falaise ;
-* note moyenne ;
-* difficulté moyenne ;
-* cluster.
+- name_id
+- country
+- crag
+- sector
+- name
+- tall_recommend_sum
+- grade_mean
+- cluster
+- rating_tot
 
 ### route_geo.csv
 
@@ -89,8 +98,8 @@ Ce fichier a été créé dans le cadre du projet.
 
 À partir de `routes_rated.csv`, un script de géocodage a permis d'ajouter :
 
-* la latitude ;
-* la longitude.
+- la latitude ;
+- la longitude.
 
 Ces informations permettent de représenter les voies sur une carte interactive.
 
@@ -155,19 +164,19 @@ Chaque serveur MCP expose des outils pour interroger un CSV.
 # Technologies utilisées
 
 **Intelligence artificielle**
-* Ollama
-* LangChain
-* LangGraph
-* MCP (Model Context Protocol)
+- Ollama
+- LangChain
+- LangGraph
+- MCP (Model Context Protocol)
 
 **Analyse de données**
 
-* Pandas
-* NumPy
+- Pandas
+- NumPy
 
 **Interface utilisateur**
-* Streamlit
-* Plotly
+- Streamlit
+- Plotly
 
 ---
 
@@ -175,8 +184,8 @@ Chaque serveur MCP expose des outils pour interroger un CSV.
 
 Au cours du projet, plusieurs modèles ont été expérimentés :
 
-* llama3.2
-* gemma4
+- llama3.2
+- gemma4
 
 Le modèle principal utilisé pour l'application est **llama3.2**, exécuté localement via Ollama.
 
@@ -200,10 +209,10 @@ Visualisation de la distribution des grades présents dans le dataset.
 
 Statistiques sur :
 
-* le sexe ;
-* la taille ;
-* le poids ;
-* le niveau moyen.
+- le sexe ;
+- la taille ;
+- le poids ;
+- le niveau moyen.
 
 ### Corrélation morphologie / performance
 
@@ -213,10 +222,10 @@ Statistiques sur :
 
 L'utilisateur peut poser des questions telles que :
 
-* Quels sont les meilleurs grimpeurs suédois ?
-* Quelles sont les voies les mieux notées en Argentine ?
-* À quoi correspond le grade numérique 53 ?
-* Quels pays possèdent le plus de voies difficiles ?
+- Quels sont les meilleurs grimpeurs suédois ?
+- Quelles sont les voies les mieux notées en Argentine ?
+- À quoi correspond le grade numérique 53 ?
+- Quels pays pcossèdent le plus de voies difficiles ?
 
 L'agent sélectionne automatiquement les outils MCP nécessaires pour construire sa réponse.
 
@@ -251,15 +260,15 @@ projet_escalade/
 ```
 
 ---
-
+# Difficultés rencontrées
 # Limites actuelles
 
 Le projet présente encore certaines limites :
 
-* Les recommandations personnalisées ne sont pas encore implémentées.
-* Les réponses dépendent de la qualité des données disponibles.
-* Certains modèles locaux peuvent produire des réponses imprécises.
-* Les performances dépendent de la machine exécutant Ollama.
+- Les recommandations personnalisées ne sont pas encore implémentées.
+- Les réponses dépendent de la qualité des données disponibles.
+- Certains modèles locaux peuvent produire des réponses imprécises.
+- Les performances dépendent de la machine exécutant Ollama.
 
 ---
 
@@ -267,12 +276,12 @@ Le projet présente encore certaines limites :
 
 Plusieurs évolutions sont envisagées :
 
-* Système de recommandation de voies adapté au profil du grimpeur.
-* Recherche géographique avancée.
-* Historique et suivi de progression des utilisateurs.
-* Ajout de nouvelles sources de données.
-* Évaluation automatique de la pertinence des réponses de l'agent.
-* Déploiement sur un serveur accessible en ligne.
+- Système de recommandation de voies adapté au profil du grimpeur.
+- Recherche géographique avancée.
+- Historique et suivi de progression des utilisateurs.
+- Ajout de nouvelles sources de données.
+- Évaluation automatique de la pertinence des réponses de l'agent.
+- Déploiement sur un serveur accessible en ligne.
 
 ---
 ---
@@ -328,11 +337,11 @@ Les tests vérifient :
 
 Ce projet a permis de mettre en pratique plusieurs concepts étudiés dans le cadre du cours :
 
-* utilisation d'un modèle de langage local ;
-* architecture MCP ;
-* orchestration d'outils avec LangGraph ;
-* visualisation de données ;
-* développement d'une interface utilisateur interactive.
+- utilisation d'un modèle de langage local ;
+- architecture MCP ;
+- orchestration d'outils avec LangGraph ;
+- visualisation de données ;
+- développement d'une interface utilisateur interactive.
 
 Le résultat est un assistant spécialisé dans l'analyse de données d'escalade capable de répondre à des questions complexes en s'appuyant sur plusieurs sources de données structurées.
 

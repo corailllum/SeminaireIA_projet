@@ -14,7 +14,23 @@ from mcp.types import Tool, TextContent
 
 # Chargement des données (Data/ est un dossier voisin de MCP/)
 CSV_PATH = Path(__file__).parent.parent / "Data" / "route_geo.csv"
+GRADES_CSV_PATH = Path(__file__).parent.parent / "Data" / "grades_conversion_table.csv"
+
 df = pd.read_csv(CSV_PATH, index_col=0)
+
+# Fusion avec la table de conversion des grades pour disposer d'un libellé
+# français (grade_fra) directement dans les réponses, sans appel supplémentaire
+# au serveur mcp_grades (utile pour les LLM qui peinent avec les chaînes d'outils
+# trop longues, ex: gemma4:e4b).
+try:
+    grades_df = pd.read_csv(GRADES_CSV_PATH, index_col=0)
+    grades_df = grades_df.loc[:, ~grades_df.columns.str.contains("^Unnamed")]
+    df["grade_id_round"] = df["grade_mean"].round().fillna(0).astype(int)
+    df = df.merge(grades_df[["grade_id", "grade_fra"]], left_on="grade_id_round", right_on="grade_id", how="left")
+except (FileNotFoundError, KeyError):
+    # Si la table de grades est introuvable ou mal formée, les tools fonctionnent
+    # quand même, simplement sans le libellé grade_fra.
+    pass
 
 # Noms des colonnes GPS dans route_geo.csv.
 # Si tes colonnes ont un nom différent (ex: "lat"/"lon"), change juste ces deux lignes.
@@ -85,13 +101,40 @@ async def list_tools() -> list[Tool]:
             inputSchema={"type": "object", "properties": {}, "required": []},
         ),
         Tool(
+            name="recommend_routes",
+            description=(
+                "Recommande des voies d'escalade adaptées à un niveau donné (débutant, intermédiaire, avancé). "
+                "Les seuils de niveau sont calculés automatiquement à partir de la distribution des grades du "
+                "dataset, puis les voies sont triées par popularité/note (rating_tot) au sein du niveau choisi. "
+                "Idéal pour répondre à des questions comme 'quelle voie conseiller à un débutant'."
+            ),
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "level": {
+                        "type": ["string", "null"],
+                        "description": "Niveau du grimpeur : 'debutant', 'intermediaire' ou 'avance' (défaut: 'debutant')",
+                    },
+                    "country": {
+                        "type": ["string", "null"],
+                        "description": "Code pays optionnel pour filtrer (ex: and, arg, fra, esp...)",
+                    },
+                    "n": {
+                        "type": ["integer", "string", "null"],
+                        "description": "Nombre de voies à recommander (défaut: 5)",
+                    },
+                },
+                "required": [],
+            },
+        ),
+        Tool(
             name="get_routes_by_country",
             description="Retourne les voies filtrées par pays avec leurs informations.",
             inputSchema={
                 "type": "object",
                 "properties": {
                     "country": {
-                        "type": "string",
+                        "type": ["string", "null"],
                         "description": "Code pays (ex: and, arg, fra, esp...)",
                     }
                 },
@@ -105,7 +148,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "n": {
-                        "type": ["integer", "string"],
+                        "type": ["integer", "string", "null"],
                         "description": "Nombre de voies à retourner (défaut: 10)",
                     }
                 },
@@ -119,7 +162,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "crag": {
-                        "type": "string",
+                        "type": ["string", "null"],
                         "description": "Nom du site d'escalade (ex: montserrat, bariloche...)",
                     }
                 },
@@ -133,7 +176,7 @@ async def list_tools() -> list[Tool]:
                 "type": "object",
                 "properties": {
                     "cluster": {
-                        "type": ["integer", "string"],
+                        "type": ["integer", "string", "null"],
                         "description": "Numéro du cluster (0, 1, 2 ou 3)",
                     }
                 },
@@ -146,8 +189,8 @@ async def list_tools() -> list[Tool]:
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "min_grade": {"type": ["number", "string"], "description": "Grade moyen minimum"},
-                    "max_grade": {"type": ["number", "string"], "description": "Grade moyen maximum"},
+                    "min_grade": {"type": ["number", "string", "null"], "description": "Grade moyen minimum"},
+                    "max_grade": {"type": ["number", "string", "null"], "description": "Grade moyen maximum"},
                 },
                 "required": ["min_grade", "max_grade"],
             },
@@ -158,9 +201,9 @@ async def list_tools() -> list[Tool]:
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "latitude": {"type": ["number", "string"], "description": "Latitude du point de référence"},
-                    "longitude": {"type": ["number", "string"], "description": "Longitude du point de référence"},
-                    "n": {"type": ["integer", "string"], "description": "Nombre de voies à retourner (défaut: 10)"},
+                    "latitude": {"type": ["number", "string", "null"], "description": "Latitude du point de référence"},
+                    "longitude": {"type": ["number", "string", "null"], "description": "Longitude du point de référence"},
+                    "n": {"type": ["integer", "string", "null"], "description": "Nombre de voies à retourner (défaut: 10)"},
                 },
                 "required": ["latitude", "longitude"],
             },
@@ -171,9 +214,9 @@ async def list_tools() -> list[Tool]:
             inputSchema={
                 "type": "object",
                 "properties": {
-                    "latitude": {"type": ["number", "string"], "description": "Latitude du point de référence"},
-                    "longitude": {"type": ["number", "string"], "description": "Longitude du point de référence"},
-                    "n": {"type": ["integer", "string"], "description": "Nombre de falaises à retourner (défaut: 5)"},
+                    "latitude": {"type": ["number", "string", "null"], "description": "Latitude du point de référence"},
+                    "longitude": {"type": ["number", "string", "null"], "description": "Longitude du point de référence"},
+                    "n": {"type": ["integer", "string", "null"], "description": "Nombre de falaises à retourner (défaut: 5)"},
                 },
                 "required": ["latitude", "longitude"],
             },
@@ -198,6 +241,52 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
             "rating_moyen": round(df["rating_tot"].mean(), 4),
         }
         return [TextContent(type="text", text=json.dumps(stats, ensure_ascii=False, indent=2))]
+
+    elif name == "recommend_routes":
+        level = to_str(arguments.get("level"), default="debutant").lower()
+        country = to_str(arguments.get("country")).lower()
+        n = to_int(arguments.get("n"), default=5)
+
+        # Seuils calculés dynamiquement par tertiles de grade_mean, plus robuste
+        # qu'un seuil fixe codé en dur qui dépendrait de l'échelle exacte du dataset.
+        q1 = df["grade_mean"].quantile(1 / 3)
+        q2 = df["grade_mean"].quantile(2 / 3)
+
+        if level in ("debutant", "débutant", "beginner", "facile"):
+            subset = df[df["grade_mean"] <= q1]
+            niveau_label = "débutant"
+        elif level in ("avance", "avancé", "expert", "difficile"):
+            subset = df[df["grade_mean"] > q2]
+            niveau_label = "avancé"
+        else:
+            subset = df[(df["grade_mean"] > q1) & (df["grade_mean"] <= q2)]
+            niveau_label = "intermédiaire"
+
+        if country:
+            subset = subset[subset["country"] == country]
+
+        if subset.empty:
+            suffix = f" dans le pays '{country}'" if country else ""
+            return [TextContent(
+                type="text",
+                text=f"Aucune voie trouvée pour le niveau '{niveau_label}'{suffix}."
+            )]
+
+        top = subset.sort_values("rating_tot", ascending=False).head(n)
+        cols = ["name_id", "country", "crag", "name", "grade_mean", "rating_tot"]
+        if "grade_fra" in top.columns:
+            cols.append("grade_fra")
+
+        result = {
+            "niveau": niveau_label,
+            "seuils_grade_mean": {
+                "max_debutant": round(q1, 2),
+                "max_intermediaire": round(q2, 2),
+            },
+            "nombre_voies_correspondantes": int(len(subset)),
+            "voies_recommandees": top[cols].to_dict(orient="records"),
+        }
+        return [TextContent(type="text", text=json.dumps(result, ensure_ascii=False, indent=2))]
 
     elif name == "get_routes_by_country":
         country = to_str(arguments.get("country"))
