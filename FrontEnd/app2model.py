@@ -54,9 +54,11 @@ st.title("🧗 Assistant IA Multi-Modèles — Données d'escalade")
 # Filtres et Configuration de la Sidebar (Nouveau Front)
 # ─────────────────────────────────────────────
 
+# Modification : Ajout de la plage de grade par défaut (0 à 80)
 DEFAULT_FILTERS = {
     "country": None,
     "top_n": 10,
+    "grade_range": (0, 80)
 }
 
 if "filters" not in st.session_state:
@@ -92,9 +94,19 @@ with st.sidebar:
         value=_f.get("country") or "",
     )
 
+    # NOUVEAU : Slider à double curseur pour sélectionner une plage de niveaux
+    grade_range = st.slider(
+        "Plage de niveau (Score numérique)",
+        0, 80,
+        value=_f.get("grade_range", DEFAULT_FILTERS["grade_range"]),
+        help="Filtre les voies et les grimpeurs selon ce score (ex: 45 correspond environ à un 6b)."
+    )
+
+    # Mise à jour du session state avec le nouveau filtre
     st.session_state["filters"] = {
         "country": country.strip().lower() or None,
         "top_n": top_n,
+        "grade_range": grade_range
     }
 
     st.divider()
@@ -207,13 +219,20 @@ st.divider()
 st.header("📊 Analyse du dataset")
 
 country_filter = st.session_state["filters"].get("country")
+# Récupération de la plage sélectionnée
+g_min, g_max = st.session_state["filters"].get("grade_range", (0, 80))
 
 routes_visu = routes_df.copy()
 climbers_visu = climbers_df.copy()
 
+# 1. Application du filtre Pays
 if country_filter:
     routes_visu = routes_visu[routes_visu["country"].str.lower() == country_filter]
     climbers_visu = climbers_visu[climbers_visu["country"].str.lower() == country_filter]
+
+# 2. NOUVEAU : Application du filtre Plage de Niveaux
+routes_visu = routes_visu[(routes_visu["grade_mean"] >= g_min) & (routes_visu["grade_mean"] <= g_max)]
+climbers_visu = climbers_visu[(climbers_visu["grades_mean"] >= g_min) & (climbers_visu["grades_mean"] <= g_max)]
 
 col1, col2 = st.columns(2)
 
@@ -228,20 +247,23 @@ with col1:
         .dropna()
     )
 
-    fig_map = px.scatter_mapbox(
-        map_df,
-        lat="latitude",
-        lon="longitude",
-        hover_name="crag",
-        hover_data={"country": True, "grade_fra": True, "grade_mean": False},
-        color="grade_mean",
-        color_continuous_scale="Plasma",
-        zoom=2,
-        height=500,
-        labels={"grade_mean": "Score Niveau", "grade_fra": "Grade"}
-    )
-    fig_map.update_layout(mapbox_style="open-street-map", margin=dict(l=0, r=0, t=0, b=0))
-    st.plotly_chart(fig_map, use_container_width=True)
+    if not map_df.empty:
+        fig_map = px.scatter_mapbox(
+            map_df,
+            lat="latitude",
+            lon="longitude",
+            hover_name="crag",
+            hover_data={"country": True, "grade_fra": True, "grade_mean": False},
+            color="grade_mean",
+            color_continuous_scale="Plasma",
+            zoom=2,
+            height=500,
+            labels={"grade_mean": "Score Niveau", "grade_fra": "Grade"}
+        )
+        fig_map.update_layout(mapbox_style="open-street-map", margin=dict(l=0, r=0, t=0, b=0))
+        st.plotly_chart(fig_map, use_container_width=True)
+    else:
+        st.info("Aucune falaise géolocalisée ne correspond à ces critères.")
 
 # Répartition H/F
 with col2:
@@ -249,54 +271,63 @@ with col2:
     sex_df = climbers_visu.copy()
     sex_df["sex_label"] = sex_df["sex"].map({0: "Hommes", 1: "Femmes"})
 
-    fig_pie = px.pie(sex_df, names="sex_label")
-    st.plotly_chart(fig_pie, use_container_width=True)
+    if not sex_df.empty:
+        fig_pie = px.pie(sex_df, names="sex_label")
+        st.plotly_chart(fig_pie, use_container_width=True)
 
-    stats = (
-        sex_df.groupby("sex_label")
-        .agg({"height": "median", "weight": "median", "grades_mean": "median"})
-        .round(1)
-    )
-    stats.columns = ["Taille médiane", "Poids médian", "Niveau médian"]
-    st.dataframe(stats, use_container_width=True)
+        stats = (
+            sex_df.groupby("sex_label")
+            .agg({"height": "median", "weight": "median", "grades_mean": "median"})
+            .round(1)
+        )
+        stats.columns = ["Taille médiane", "Poids médian", "Niveau médian"]
+        st.dataframe(stats, use_container_width=True)
+    else:
+        st.info("Aucun grimpeur ne correspond à ces critères.")
 
 st.divider()
 
 # Histogramme des grades
 st.subheader("📈 Répartition des grades par pays")
-grade_country = (
-    routes_visu
-    .groupby(["country", "grade_fra", "grade_id_round"])
-    .size()
-    .reset_index(name="count")
-    .sort_values("grade_id_round")
-)
+if not routes_visu.empty:
+    grade_country = (
+        routes_visu
+        .groupby(["country", "grade_fra", "grade_id_round"])
+        .size()
+        .reset_index(name="count")
+        .sort_values("grade_id_round")
+    )
 
-fig_grade = px.bar(
-    grade_country,
-    x="country",
-    y="count",
-    color="grade_fra",
-    barmode="stack",
-    labels={"country": "Pays", "count": "Nombre de voies", "grade_fra": "Grade"}
-)
-st.plotly_chart(fig_grade, use_container_width=True)
+    fig_grade = px.bar(
+        grade_country,
+        x="country",
+        y="count",
+        color="grade_fra",
+        barmode="stack",
+        labels={"country": "Pays", "count": "Nombre de voies", "grade_fra": "Grade"}
+    )
+    st.plotly_chart(fig_grade, use_container_width=True)
+else:
+    st.info("Aucune voie disponible pour générer l'histogramme.")
 
 # Corrélation
 st.subheader("🏋️ Corrélation taille / poids / niveau")
 scatter_df = climbers_visu.copy()
 scatter_df = scatter_df.dropna(subset=["height", "weight", "grades_mean"])
 
-fig_scatter = px.scatter(
-    scatter_df,
-    x="height",
-    y="weight",
-    color="grades_mean",
-    size="grades_mean",
-    hover_data={"country": True, "age": True, "years_cl": True, "grade_fra": True, "grades_mean": False},
-    labels={"height": "Taille (cm)", "weight": "Poids (kg)", "grade_fra": "Grade Moyen"}
-)
-st.plotly_chart(fig_scatter, use_container_width=True)
+if not scatter_df.empty:
+    fig_scatter = px.scatter(
+        scatter_df,
+        x="height",
+        y="weight",
+        color="grades_mean",
+        size="grades_mean",
+        hover_data={"country": True, "age": True, "years_cl": True, "grade_fra": True, "grades_mean": False},
+        labels={"height": "Taille (cm)", "weight": "Poids (kg)", "grade_fra": "Grade Moyen"}
+    )
+    st.plotly_chart(fig_scatter, use_container_width=True)
+else:
+    st.info("Données insuffisantes pour afficher le graphique de corrélation.")
 
 # ─────────────────────────────────────────────
 # Interface de chat
@@ -314,7 +345,6 @@ if question:
         st.markdown(question)
 
     with st.spinner("Extraction des filtres..."):
-        # C'est ici le modèle choisi (Ollama / Gemma ou Llama) qui va extraire le JSON
         appliquer_filtres(extraire_filtres(question))
 
     with st.spinner(f"L'agent réfléchit avec {selected_model}..."):
