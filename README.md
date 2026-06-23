@@ -201,7 +201,11 @@ Au cours du projet, plusieurs modèles ont été expérimentés :
 - llama3.2
 - gemma4:e4b
 
-Le modèle principal utilisé pour l'application est **llama3.2**, exécuté localement via Ollama. `gemma4:e4b` a également été testé via un sélecteur de modèle dans l'interface, mais s'est montré plus sensible aux problèmes décrits ci-dessous (voir *Difficultés rencontrées*).
+## Comparaison des models
+
+- Llama 3.2 s'est avéré très agile pour l'intégration initiale, gérant rapidement les flux de données sans nécessiter de lourds ajustements de prompts.
+
+- Gemma 4:e4b a été plus complexe à stabiliser en raison de sa sensibilité aux tailles de contextes et aux structures de prompts systèmes (voir Difficultés rencontrées). Son exécution locale est également légèrement plus lente. Néanmoins, il offre une meilleure efficacité globale, produisant des réponses plus précises et un suivi rigoureux des contraintes de l'architecture MCP lors des requêtes complexes.
 
 ---
 
@@ -313,12 +317,9 @@ Le projet présente encore certaines limites :
 Plusieurs évolutions sont envisagées :
 
 - Recommandation de voies tenant compte du profil physique du grimpeur (taille, poids, morphologie).
-- Recherche géographique avancée (déjà initiée avec `get_nearest_routes` / `get_nearest_crags`).
-- Historique et suivi de progression des utilisateurs.
-- Ajout de nouvelles sources de données.
-- Évaluation automatique de la pertinence des réponses de l'agent.
-- Déploiement sur un serveur accessible en ligne.
-- Affiner le prompt système pour les modèles à fenêtre de contexte réduite (ex: gemma4:e4b).
+- Ajout de nouvelles sources de données (Météo, ou autre).
+- Améloration du front (page dédier au graphique, ajout graphique mineur,etc. )
+- test d'autre models
 
 ---
 
@@ -333,9 +334,11 @@ pip install -r requirements.txt
 ## Prérequis : Ollama
 
 1. Installer Ollama : https://ollama.com
-2. Télécharger le modèle :
+2. Télécharger les modèles :
 ```bash
 ollama pull llama3.2
+
+ollama pull gemma4:e4b
 ```
 3. Vérifier qu'Ollama tourne :
 ```bash
@@ -347,7 +350,7 @@ ollama serve
 ## Lancer l'application
 
 ```bash
-streamlit run app.py
+streamlit run app2model.py
 ```
 
 ---
