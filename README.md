@@ -125,7 +125,7 @@ Utilisateur
  Interface Streamlit
       │
       ▼
- Agent IA (LangGraph + Ollama)
+ Agent IA (gemma4 ou LangGraph + Ollama)
       │
  ┌────┼────┐
  ▼    ▼    ▼
@@ -370,10 +370,10 @@ Les tests vérifient :
 
 Ce projet a permis de mettre en pratique plusieurs concepts étudiés dans le cadre du cours :
 
-- utilisation d'un modèle de langage local ;
-- architecture MCP ;
-- orchestration d'outils avec LangGraph ;
-- visualisation de données ;
-- développement d'une interface utilisateur interactive.
+- utilisation d'un modèle de langage local 
+- architecture MCP 
+- orchestration d'outils avec LangGraph 
+- visualisation de données 
+- développement d'une interface utilisateur interactive
 
 Le résultat est un assistant spécialisé dans l'analyse de données d'escalade capable de répondre à des questions complexes en s'appuyant sur plusieurs sources de données structurées, avec une attention particulière portée à la robustesse des échanges entre l'agent et les serveurs MCP (typage, volumétrie des réponses, prise en charge de plusieurs modèles locaux).
